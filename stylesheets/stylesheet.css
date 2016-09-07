@@ -129,6 +129,7 @@ dt {
   font-weight: bold;
 }
 
+/*
 ul li {
   list-style: none;
 }
@@ -142,6 +143,7 @@ ul li:before {
   margin-right: 21px;
   line-height: 16px;
 }
+*/
 
 blockquote {
   color: #aaa;
