@@ -1,0 +1,36 @@
+body
+{
+   background-repeat:no-repeat;
+   background-position:right top;
+}
+
+table
+{
+   background-image:url('img/bg.jpg');
+   background-repeat:no-repeat;
+   background-position:Left top;
+   vertical-align:text-top;
+   border-collapse:collapse;
+}
+
+th.banner
+{
+   width:960px;
+   height:200px;
+}
+
+td.toolbar
+{
+   background-image:url('img/toolbg.jpg');
+   background-repeat:no-repeat;
+   background-position:center bottom;
+   vertical-align:text-top;
+}
+
+.overlay
+{
+   position:absolute;
+   right:0px;
+   top:0px;
+   z-index:0;
+}

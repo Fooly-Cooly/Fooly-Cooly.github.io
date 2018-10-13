@@ -1,0 +1,15 @@
+body{background-color: #344152}
+body.transparent{background-color: transparent}
+
+td.bg
+{
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+td.menu
+{
+   text-align:center;
+   color:black;
+   font-family:arial
+}
