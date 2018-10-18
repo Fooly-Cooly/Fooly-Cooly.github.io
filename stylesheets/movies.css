@@ -11,7 +11,7 @@ div > img {
 input {
 	display: none;
 }
-input + span {
+input + label {
 	-webkit-font-smoothing: antialiased;
 	background-image: url('../images/btnSlime.png');
 	background-repeat: no-repeat;
@@ -24,7 +24,7 @@ input + span {
 		padding-top: 15px;
 		width: 106px; height: 100px;
 }
-input + span + div {
+input + label + div {
 	-webkit-transition: opacity 2s ease-in-out;
 	-moz-transition: opacity 2s ease-in-out;
 	-ms-transition: opacity 2s ease-in-out;
@@ -43,11 +43,11 @@ input + span + div {
 		width: 900px; height: 90%;
 		z-index: -1;
 }
-input:checked + span  {
+input:checked + label  {
 	background-image: url('../images/btnSlimeSelect.png');
 	height: 116px;
 }
-input:checked + span + div {
+input:checked + label + div {
 	-webkit-transition: opacity 2s ease-in-out;
 	-moz-transition: opacity 2s ease-in-out;
 	-ms-transition: opacity 2s ease-in-out;
