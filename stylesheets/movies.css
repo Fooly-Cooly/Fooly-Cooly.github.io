@@ -1,64 +1,70 @@
-@font-face { font-family: Spooky; src: url('../fonts/Spooky_by_JammyCreamer.ttf'); }
 body {
 	font-family: Spooky, Helvetica, Sans-serif;
-	overflow: hidden;
 		margin: 0;
 		text-align: center;
 		word-spacing:-8px;
 }
-div.body {
-	overflow: hidden;
+div > img {
+	float: left;
+	padding-right: 20px;
 }
-.bg_video_overlay {
-	background: rgba(24, 24, 24, 0.5);
-	position: absolute;
-	width: 100%; height: 100%;
-	z-index: -99;
+input {
+	display: none;
 }
-.bg_video {
-	position: absolute;
-	top: 0; left: 0;
-	width: 100%; height: 100%;
-	z-index: -100;
-}
-@media (min-aspect-ratio: 16/9) { .bg_video { height: 300%; top: -100%; } }
-@media (max-aspect-ratio: 16/9) { .bg_video { width: 300%; left: -100%; } }
-.toggle { display: none; }
-.toggle + label {
-	opacity: 0.9;
-	filter: alpha(opacity=90);
-	background-image: url('../images/btnSlime.png');
-	background-repeat:repeat-x;
-	cursor:pointer;
-	transition:all 1500ms ease;
+input + span {
 	-webkit-font-smoothing: antialiased;
+	background-image: url('../images/btnSlime.png');
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	cursor: pointer;
+	opacity: 0.9;
+	transition: height 1500ms ease;
 		display: inline-block;
 		font-size:25px;
-		line-height:25px;
 		padding-top: 15px;
 		width: 106px; height: 100px;
 }
-.toggle:checked + label {
-	background-image: url('../images/btnSlimeSelect.png');
-	height: 116px;
-}
-.movie {
+input + span + div {
+	-webkit-transition: opacity 2s ease-in-out;
+	-moz-transition: opacity 2s ease-in-out;
+	-ms-transition: opacity 2s ease-in-out;
+	-o-transition: opacity 2s ease-in-out;
 	background: rgba(24, 24, 24, 0.9);
 	border-radius: 25px;
 	box-sizing: border-box;
 	color:#FFF;
-	transition: all 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+	opacity: 0;
 		margin-left: auto;
 		margin-right: auto;
 		position: absolute;
 		padding: 10%;
 		text-align: justify;
-		top: -200%;	right: 0; bottom: 0; left: 0;
-		width: 70%;	height: 90%;
+		top: 0;	right: 0; bottom: 0; left: 0;
+		width: 900px; height: 90%;
 		z-index: -1;
 }
-.movie > img {
-	float: left;
-	padding: 0 20px 0 0;
+input:checked + span  {
+	background-image: url('../images/btnSlimeSelect.png');
+	height: 116px;
 }
-.toggle:checked + label + .movie { 	top: 0; }
+input:checked + span + div {
+	-webkit-transition: opacity 2s ease-in-out;
+	-moz-transition: opacity 2s ease-in-out;
+	-ms-transition: opacity 2s ease-in-out;
+	-o-transition: opacity 2s ease-in-out;
+	opacity: 1;
+}
+@font-face {
+	font-family: Spooky; src: url('../fonts/Spooky_by_JammyCreamer.ttf');
+}
+#body {
+	background: rgba(24, 24, 24, 0.5);
+	width: 100%; height: 100%;
+}
+#video-bg {
+    position: fixed;
+    right: 0; bottom: 0;
+    min-width: 100%;
+	min-height: 100%;
+	z-index: -100;
+}

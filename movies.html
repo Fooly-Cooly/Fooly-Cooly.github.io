@@ -1,83 +1,101 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="stylesheets/movies.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Hallowvember</title>
 	</head>
-	<body><div class="body">
-		<div class="bg_video_overlay"></div>
-		<video loop muted autoplay poster="img/videoframe.jpg" class="bg_video">
-			<source src="./videos/static.mp4" type="video/mp4">
-		</video>
+	<body>
+	<video id="video-bg" poster="images/videoframe.jpg" src="./videos/static.mp4" loop muted autoplay ></video>
+	<div id="body">
+		<label>
+			<input type="radio" name="toggle" checked="checked" />
+			<span>1</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BOTk2OTFlYmQtYzVkNy00ZjM5LThkOGMtOTg0Y2JmZGYwOWY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 1</h1>
+				<h2>Movie one info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie1" class="toggle" />
-		<label for="btnMovie1">1</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BOTk2OTFlYmQtYzVkNy00ZjM5LThkOGMtOTg0Y2JmZGYwOWY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 1</h1>
-			<h2>Movie one info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>2</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BM2M5OGJmZTktMzI4Yi00NmI1LTgyOWEtN2M5MTQ1YjUxMzY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 2</h1>
+				<h2>Movie two info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie2" class="toggle" />
-		<label for="btnMovie2">2</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BM2M5OGJmZTktMzI4Yi00NmI1LTgyOWEtN2M5MTQ1YjUxMzY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 2</h1>
-			<h2>Movie two info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>3</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 3</h1>
+				<h2>Movie three info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie3" class="toggle" />
-		<label for="btnMovie3">3</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 3</h1>
-			<h2>Movie three info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>4</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 4</h1>
+				<h2>Movie 4 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie4" class="toggle" />
-		<label for="btnMovie4">4</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 4</h1>
-			<h2>Movie 4 info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>5</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 5</h1>
+				<h2>Movie 5 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie5" class="toggle" />
-		<label for="btnMovie5">5</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 5</h1>
-			<h2>Movie 5 info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>6</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 6</h1>
+				<h2>Movie 6 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie6" class="toggle" />
-		<label for="btnMovie6">6</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 6</h1>
-			<h2>Movie 6 info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>7</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 7</h1>
+				<h2>Movie 7 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie7" class="toggle" />
-		<label for="btnMovie7">7</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 7</h1>
-			<h2>Movie 7 info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>8</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 8</h1>
+				<h2>Movie 8 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie8" class="toggle" />
-		<label for="btnMovie8">8</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 8</h1>
-			<h2>Movie 8 info should be showing</h2>
-		</div>
+		<label>
+			<input type="radio" name="toggle" />
+			<span>9</span>
+			<div>
+				<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
+				<h1>This is movie 9</h1>
+				<h2>Movie 9 info should be showing</h2>
+			</div>
+		</label>
 
-		<input type="radio" name="toggle" id="btnMovie9" class="toggle" />
-		<label for="btnMovie9">9</label>
-		<div class="movie">
-			<img src="https://m.media-amazon.com/images/M/MV5BNTc1MzBmYTMtMTMzZS00MGFiLWFmOGMtZGI0NGMzOTJkNmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg">
-			<h1>This is movie 9</h1>
-			<h2>Movie 9 info should be showing</h2>
-		</div>
 	</div></body>
 </html>
