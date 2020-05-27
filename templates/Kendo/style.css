@@ -1,0 +1,85 @@
+.overlay
+{
+   position:absolute;
+   right:0px;
+   top:0px;
+   z-index:0;
+}
+
+body
+{
+   //background-image:url('images/bg.jpg');
+   background-color:#d29d4d;
+   background-repeat:no-repeat;
+   background-position:right top;
+}
+
+table
+{
+   height:100%;
+   margin-left:auto;
+   margin-right:auto;
+   background-repeat:no-repeat;
+   background-position:Left top;
+   vertical-align:text-top;
+   border-collapse:collapse;
+}
+
+th.banner
+{
+   background-image:url('images/banner.png');
+   background-repeat:no-repeat;
+   background-position:left top;
+   background-color:#a0763c;
+   width:800px;
+   height:200px;
+}
+
+td.body
+{
+   background-image:url('images/bg.png');
+   background-repeat:repeat-x;
+   background-position:left top;
+   background-color:#e6b556;
+   vertical-align:text-top;
+   width:640px;
+}
+
+td.toolbar
+{
+   width:160px;
+   background-image:url('images/toolbg.png');
+   background-repeat:repeat-x;
+   background-position:center center;
+   vertical-align:text-top;
+}
+
+.menu
+{
+   border-style:solid;
+   border-width:2px;
+   width:100%px;
+   background-color:#000000;
+   vertical-align:text-top;
+}
+
+td.toolbar a:link,A:visited
+{
+   display:block;
+   width:100%px;
+   padding:4px 0px 4px 0px;
+   color:#FFFFFF;
+   font-weight:bold;
+   text-align:center;
+   text-decoration:none;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#a0763c;
+}
+
+td.toolbar a:hover,a:active
+{
+   background: #e6b556;
+   font-weight:bold;
+   color: #a0763c;
+}

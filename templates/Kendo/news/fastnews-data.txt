@@ -1,0 +1,5 @@
+ITEM_START
+2 Sep 2008 4:43 pm
+Today's Hot News
+Hello! It is a really nice weather today. It is only getting better with phpFastNews script! Get it up and running in minutes!
+ITEM_END
