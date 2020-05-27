@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<link rel="stylesheet" type="text/css" href="stylesheets/dropmenu.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+		<link rel="stylesheet" href="../stylesheets/highlight/vs2015.css">
+		<script src="../javascripts/highlight.pack.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
+		<title>Fooly-cooly.GitHub.io by Fooly-Cooly</title>
+	</head>
+
+	<body>
+		<header>
+			<div class="container">
+				<h1>Fooly-cooly.GitHub.io</h1>
+				<h2></h2>
+
+				<section id="downloads">
+					<nav>
+						<ul>
+							<li><a href="https://github.com/Fooly-Cooly">GitHub</a>
+								<ul>
+									<li><a href="#">AutoHotKey</a>
+										<ul>
+											<li><a href="https://github.com/Fooly-Cooly/InjectDll">InjectDll</a></li>
+											<li><a href="https://github.com/Fooly-Cooly/UrlDownload">UrlDownload</a></li>
+										</ul>
+									</li>
+
+									<li><a href="#">Blockland</a>
+										<ul>
+											<li><a href="https://github.com/Fooly-Cooly/Script_IGO">Script_IGO</a></li>
+											<li><a href="https://github.com/Fooly-Cooly/Script_FFC">Script_FFC</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li><a href="http://Twitch.tv/FoolyCoolySAP">Twitch</a></li>
+							<li><a href="https://www.flickr.com/photos/33263426@N08/albums/"></span>Flickr</a></li>
+							<li><a href="http://foolycooly1764.deviantart.com/">DeviantArt</a></li>
+						</ul>
+					</nav>
+				</section>
+			</div>
+		</header>
+
+		<div class="container" style="max-width: 900px;max-height: 1024px;">
+			<section id="main_content">
+				<nav><ul>
+					<li><a href="webpages/classinformation.html" onclick="fetchGuide("class")" >Class Information</a></li>
+				</ul></nav>
+
+				<body><pre><code class="adoc" id="teraGuide"></code></pre></body>
+				<script>
+					function fetchGuide(data) {
+						let response = await fetch('https://fooly-cooly.github.io/text/' + data + ".txt");
+						let responseText = await response.text();
+						document.getElementById('teraGuide').innerHTML = responseText;
+					}
+					(async() => {
+						await fetchTest();
+					})();
+				</script>
+			</section>
+		</div>
+	</body>
+</html>
