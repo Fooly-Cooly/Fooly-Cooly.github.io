@@ -51,13 +51,16 @@
 		<div class="container" style="max-width: 900px;max-height: 1024px;">
 			<section id="main_content">
 				<nav><ul>
-					<li><a href="webpages/classinformation.html" onclick="fetchGuide("class")" >Class Information</a></li>
+					<li><a onclick="fetchGuide("class")" >Class Info</a></li>
+					<li><a onclick="fetchGuide("gear")" >Gear Info</a></li>
+					<li><a onclick="fetchGuide("rarity")" >Item Rarity</a></li>
+					<li><a onclick="fetchGuide("relics")" >Relic & Halidom Info</a></li>
 				</ul></nav>
 
 				<body><pre><code class="adoc" id="teraGuide"></code></pre></body>
 				<script>
 					function fetchGuide(data) {
-						let response = await fetch('https://fooly-cooly.github.io/text/' + data + ".txt");
+						let response = await fetch('https://fooly-cooly.github.io/text/tera_' + data + ".txt");
 						let responseText = await response.text();
 						document.getElementById('teraGuide').innerHTML = responseText;
 					}
