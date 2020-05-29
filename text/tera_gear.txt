@@ -1,5 +1,3 @@
-__**Gear Information**__
-
 [Name]     [Physical/Magical]          [Rarity]    [Infusions]  [Equvalent Enchantment]
 = Kaia's     Fury/Wisdom                Mythic          3           Best in Slot
   ------     Annihilation/Dark Light   Superior         2           +10 = +6 Kaia 

@@ -1,5 +1,3 @@
-__**Relic & Halidom Information**__
-
 [Name]             [Rareity]   [ATK/DEF]   [HP/MP]   [Endurance]   [Tier 1/2/3/4 Power or Crit]
 = Seren's Relic     Uncommon    381 DEF    -------        3         5/ 9/??/?? Power
   Isren's Relic     Uncommon    381 DEF    -------        3         9/16/??/?? Crit

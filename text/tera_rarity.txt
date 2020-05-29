@@ -1,5 +1,3 @@
-__**Item Rarity (Applies to all items)**__
-
 [Rarity]    [Color]
 = Mythic     Purple
   Superior   Yellow
