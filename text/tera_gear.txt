@@ -1,6 +1,0 @@
-[Name]     [Physical/Magical]          [Rarity]    [Infusions]  [Equvalent Enchantment]
-= Kaia's     Fury/Wisdom                Mythic          3           Best in Slot
-  ------     Annihilation/Dark Light   Superior         2           +10 = +6 Kaia 
-= Azart      Dauntless/Manaforce         Rare           1           +10 = +6 Superior
-  Scout      Maroon/Azure                Rare           0           +15 = +6 Superior
-= Duranium   Master's/Flawless         Uncommon         0           +10 = +6 Azart

@@ -1,8 +1,0 @@
-[Rarity]    [Color]
-= Mythic     Purple
-  Superior   Yellow
-= Rare       Blue
-  Uncommon   Green
-= Common     White
-
-//NOTE: Check top left corner of an item for it's rarity

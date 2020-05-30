@@ -1,8 +1,0 @@
-[Name]             [Rareity]   [ATK/DEF]   [HP/MP]   [Endurance]   [Tier 1/2/3/4 Power or Crit]
-= Seren's Relic     Uncommon    381 DEF    -------        3         5/ 9/??/?? Power
-  Isren's Relic     Uncommon    381 DEF    -------        3         9/16/??/?? Crit
-= Zuras's Halidom   Uncommon    174 ATK    7142 HP    ---------     3/ 6/??/?? Power
-  Dagon's Halidom     Rare      241 ATK    7142 HP    ---------     9/20/31/41 Crit
-= Kara's Halidom      Rare      241 ATK    7142 HP    ---------     5/11/17/?? Power
-  Elinu's Relic       Rare      533 DEF     298 MP        5         9/15/21/?? Power 
-= Amarun's Relic    Superior    762 DEF     392 MP        7         6/10/??/?? Power & 11/18/??/?? Crit
