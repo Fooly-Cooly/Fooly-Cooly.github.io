@@ -1,0 +1,53 @@
+nav {
+	margin: 10px auto; 
+	text-align: center;
+}
+
+nav ul {
+	background: #151515 url("../images/bkg.png") 0 0;
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.75);
+	padding: 0 20px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+nav ul ul {
+	display: none;
+	padding: 0 0;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+	padding: 10px 20px;
+	color: #ffffff;
+	text-decoration: none;
+	width: auto;
+}
+
+nav ul ul li {
+	float: none;
+	position: relative;
+}
+
+nav ul ul ul {
+	position: absolute; left: 100%; top: 0;
+}
+
+nav ul li:hover {
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.75);
+}
+
+nav ul li:hover > ul {
+	display: block;
+	position: absolute;
+}
+
+nav ul li:hover > a {
+	color: #b5e853;
+}

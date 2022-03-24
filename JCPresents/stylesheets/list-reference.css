@@ -1,0 +1,81 @@
+/* Main Page Settings */
+#preamble img{
+}
+
+
+/* Font Settings */
+div,p,td.hdlist1 {
+}
+h1,h2,h3 {
+}
+
+
+/* Page Section Settings */
+div.sect1 {
+	/* Page Sections */
+}
+div.sect1 > h2:first-of-type {
+	/* Titles Only */
+}
+div.movie > div.content {
+	/* Movie Info Containers */
+}
+
+
+/* Movie Info Settings */
+div.movie div.paragraph {
+	/* Movie Poster Container */
+}
+div.movie div.paragraph img {
+	/* Movie Poster Image */
+}
+div.hdlist {
+	/* Table Parent Containers */
+}
+div.hdlist h2,table {
+	/* Table and Title Header */
+}
+div.hdlist div.title h2 {
+	/* Table Title Header */
+}
+div.hdlist td {
+	/* Table All Cells */
+}
+div.hdlist td.hdlist1 {
+	/* Table First Column Cells */
+}
+div.hdlist td.hdlist1 p {
+	/* Table First Column Cell Paragraphs */
+}
+div.hdlist td.hdlist2 {
+	/* Table Second Column Cells */
+}
+div.hdlist td.hdlist2 p {
+	/* Table Second Column Cell Paragraphs */
+}
+div.hdlist button {
+	/* Table Button */
+}
+
+
+div.hdlist td.hdlist1 span.image a {
+	/* Table First Column Cell Images */
+}
+#movie1,#movie2,#movie3 {
+	/* Mystery Movies Revealed Container */
+}
+
+
+/* Device Specific Settings */
+@media screen and (max-device-width: 480px) {
+	/* Mobile Styles in Both Modes */
+	div.hdlist {
+		/* Table First Column Cells */
+	}
+}
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+	/* Mobile Styles in Portrait Mode */
+}
+@media screen and (max-device-width: 480px) and (orientation: landscape) {
+	/* Mobile Styles in Landscape Mode */
+}

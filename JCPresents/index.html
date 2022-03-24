@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+
+		<link rel="stylesheet" type="text/css" href="stylesheets/asciidoctor.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/style.css" media="screen">
+
+		<div class="loader">
+			<div class="logo"></div>
+			<div class="ring"></div>
+			<noscript>Javascript is required for this site. Please enable Javascript.</noscript>
+		</div>
+
+		<script src="javascripts/loadingScreen.js"></script>
+		<script src="javascripts/threejs/three.load.js" type="module"></script>
+		<script src="javascripts/asciidoctor/asciidoctor.js"></script>
+		<script src="javascripts/asciidoctor/asciidoctor.nav.js"></script>
+
+		<title>The Terrifying challenge</title>
+	</head>
+
+	<body>
+
+		<canvas id="viewport"></canvas>
+		<video id="video-bg" autoplay loop muted playsinline>
+			<source data-src="./videos/hallway_loop.mp4">
+		</video>
+
+		<nav class="nav" id="nav">
+			<ul><li>
+				<a>Year</a>
+				<ul>
+					<li><a class="navClick">2017</a></li>
+					<li><a class="navClick">2018</a></li>
+					<li><a class="navClick">2019</a></li>
+					<li><a class="navClick">2020</a></li>
+					<li><a class="navClick">2021</a></li>
+				</ul>
+			</li></ul>
+		</nav>
+
+		<main>
+			<header>
+				<div style="text-align:center;">
+					Layout
+					<a onclick="css_AsciiDoc()">Default</a>
+					<a onclick="css_AsciiDoc()">Side</a>
+				</div>
+			</header>
+			<article id="content"></article>
+			<footer><hr><p>Terrifying-List&nbsp;by&nbsp;<span>Jim Crowly</span>&emsp;Web-Design&nbsp;by&nbsp;<span>Fooly Cooly</span></p><br></footer>
+		</main>
+
+		<nav class="nav" id="nav">
+			<ul>
+				<li><a href="#" onclick="scroll_AsciiDoc( -1 );">⇑</a></li>
+				<li><a href="#" onclick="scroll_AsciiDoc( +1 );">⇓</a></li>
+			</ul>
+		</nav>
+
+		<script type="text/javascript">init_AsciiDoc();</script>
+
+	</body>
+</html>

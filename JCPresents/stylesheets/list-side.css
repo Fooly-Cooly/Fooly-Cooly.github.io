@@ -1,0 +1,114 @@
+/* Main Page Settings */
+#preamble img{
+	border-radius: 25px;
+	height: 400px;
+}
+
+
+/* Font Settings */
+div,p,td.hdlist1 {
+	font: 500 25px/1.2 Draconis, Sans-Serif;
+	text-shadow: 2px 2px #000000;
+	color: red;
+}
+h1,h2,h3 {
+	letter-spacing: 2px;
+	font-family: Blackcastle;
+	font-weight: normal;
+	text-align: center;
+	color: red;
+}
+
+
+/* Page Section Settings */
+div.sect1 {
+	/* Page Sections */
+	padding: 35px 0px 35px 0px;
+}
+div.sect1 > h2:first-of-type {
+	/* Titles Only */
+	padding: 0;
+	margin: 0;
+}
+div.movie > div.content {
+	/* Movie Info Containers */
+	display: grid;
+}
+
+
+/* Movie Info Settings */
+div.movie div.content > div.paragraph:first-of-type {
+	/* Movie Poster Container */
+	grid-area: 1 / 1 / span 2 / span 1;
+}
+div.movie div.content > div.paragraph:first-of-type img {
+	/* Movie Poster Image */
+	width: 220px;
+	height: 330px;
+	border: 1px solid white;	
+}
+div.hdlist {
+	/* Table Parent Containers */
+	height: 275px;
+	grid-area: 1 / 2 / span 1 / span 1;
+	margin: 0px 0px 0px 10px;
+	font-size: 20vh;
+	white-space: nowrap;
+}
+div.hdlist button {
+	/* Table Buttons */
+	min-width: 64px;
+	line-height: 1;
+	border-radius: 4px;
+	background-color: gray;
+	border: 4px outset white;
+}
+div.hdlist h2,table {
+	/* Table and Title Header */
+	margin: 0px;
+	text-align: left;
+}
+div.hdlist div.title h2 {
+	/* Table Title Header */
+	font-size: 2.5em;
+	border-bottom: 1px dashed;
+}
+div.hdlist td {
+	/* Table Cells */
+	padding: 0px 0px 0px 5px;
+	min-width: 64px;
+	min-height: 36px;
+}
+div.hdlist td.hdlist2 p {
+	/* Table Second Column Cell Paragraphs */
+	color: white;
+}
+div.hdlist td.hdlist1 span.image a {
+	/* Table First Column Cell Images */
+	line-height: 1;
+}
+div.movie div.content > div.paragraph:nth-of-type(2) {
+	/* Movie Review Container */
+	grid-area: 1 / 2 / span 1 / span 1;
+}
+#movie1,#movie2,#movie3 {
+	/* Mystery Movies Revealed Container */
+	display: none;
+	opacity: 0;
+}
+
+
+/* Device Specific Settings */
+@media screen and (max-device-width: 480px) {
+	/* Mobile Styles in Both Modes */
+	div.hdlist {
+		/* Table First Column Cells */
+		font-size: 1.2em;
+	}
+}
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+	/* Mobile Styles in Portrait Mode */
+}
+@media screen and (max-device-width: 480px) and (orientation: landscape) {
+	/* Mobile Styles in Landscape Mode */
+}

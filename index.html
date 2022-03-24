@@ -2,66 +2,174 @@
 <html>
 	<head>
 		<meta charset='utf-8'>
-		<meta http-equiv="X-UA-Compatible" content="chrome=1">
-		<link rel="stylesheet" type="text/css" href="stylesheets/dropmenu.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+		<!-- <meta http-equiv="X-UA-Compatible" content="chrome=1"> -->
+		<!-- <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen"> -->
+		<!-- <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen"> -->
+		<!-- <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print"> -->
+		<style>
+			@import url('https://fonts.googleapis.com/css?family=Poppins');
+			body, html{
+				margin: 0;
+				padding: 0;
+				width: 100%;
+				height: 100%;
+				font: 16px;
+				line-height: 1.5;
+				font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+			}
+			h1 {
+				text-align: center;
+				color: #b5e853;
+				width: 100%;
+				border-bottom: 1px dashed #b5e853;
+				padding: 20px 0;
+				margin: 0 0 40px 0;
+			}
+			h1:before {
+				content: "./ ";
+				font-size: 24px;
+			}
+			body.bg {
+				background-image: url("data:image/webp;base64,UklGRmIEAABXRUJQVlA4TFUEAAAvE8KEAA+wGquxGvMfD4AbSZIQaZBAwwRMBVPfDCQ64rar5+WRIvrvyG3bQHKvxUI5OHWyux/Y6k/SXo9+567febS9i+CVtC2Qb6/fCSzqMLbDGD4Rs97LWJ8f4d+9MB79qrsXCwl0sRwHGi1t5Qw/mU2c1VQFn1k5qMQwnJRoo6XV8dH2s2EUjEWz4VHIPrOzHaMlshpXoacrNPvgLkkwlvblQlhx4Q6YUuxAKHEhozhrKGLHXdR5jpa8sTOZpFmOr0DylBsLV7cYTwZMIIivQEomzaPgqdoIGJmP0dK3xw1Cm0fQ8SWxksin8CiMlsox/+SdXAnYk0k92EPAZ2qWEebN0ZJ2U3TSHV+BSsCvmt6fYsxsCRNc8I8BY19boSY/NKC6YkdLni6skzdXAZzKSb3fgWkxzZbImqOIdHV7iHaqw6aBy7DR0ur4bpimiDsobL86YCk8ALOl/usrb/YhilgRzar2Ix+qO4ZLV5nCzot5WA6ssFp4GtspRObR0rZY19XQ5/u0nLYPjcVEdx2jJUZha/tmLCGAJCcJduK9KvD51dFSjsLeyZvYkYzl5XTvgZaO2ZL1+Wa/BYshPCcC/RTd9WAtdo6WAo3bSWHThT2Et/gmNyMth/dgtBTXXWU0GO3CRrYxG9o+67SKz9HSp4tCCr49inxgzc2+ElrRWHWMljbeDataNxbTcrCTmUiY7+L59tHS6umBFckYQ57uEDuaqc6BV4l2b7a0RrYUihFF2l8H0GzN4Gd1LpZztORh471C7w+usfDsU13MIyGehKs1WtrY7B0TGH7XCHivWMSHN4Jt/xwtuWFCd9+qKLirAmux7RtfIpgscVrze4KqsirZKcVopSwzWvIJzhgUujsJ3U6Y+UiAh4LajtGSx160/TKLNfcqZGk3UYjR6d5oKeeRv7uZ5dDsWzulBM1yRktGWG4dV3GhwCL8MJQYlaVqrHSP0RIychuZrRwSCqyV0LxEBJrJEr++QiiGYZiHYwCR0PEJFEocLWFuC6zMKGYn9vkQlMMhxjLbOVpCPK4KhGYsZhQYy9NyUyIdtx2jpe2Nw5tCEcFsS8goVo7sUcjPw2zp20PEiEhXzM1WCe0UfBaMpXO0tHp6mNaysT4+AMtY4Z5RQaj4GC0tYOxmXcFOij5zE4XvupyKL8NoSQ6CPh/yiMC6/wUqlhhIXd85WvrSCiyvxbz3864RMCN/eyjRB7rR0vqkEEVCi/+7cxHCSVk65Ovx0uKCYXDV2zkHunpw191FoG/3+W685O0cA137SwA66VXT51+3GP8vPVtCE/fEEWa5q0khqfeb7fq/842W2PH5+2gCt6whKD8LLdxdvX+2pLx4tbRsPX1hBDiTFxHKqeIIOFrKv8l/L7/HeIyOz1fAy0mRhX48R0seMcxJUsjIMYU8UsoosJOXw39VjZYiUo7CcuDy4c2KiNFa2YDnaAkpRDfstDdDnuQs//g2ocJV7QA=");
+			}
+			main,#content {
+				width: 100%;
+				height: 100%;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+			}
+			.container-all{
+			  width: fit-content;
+			  margin: 20px auto;
+			  height: auto;
+			}
+			.container{
+			  width: calc(33% - 6px);
+			  overflow:hidden;
+			  height: fit-content;
+			  margin:3px;
+			  padding: 0;
+			  display:block;
+			  position:relative;
+			  float:left;
+			}
+			img{
+			  width: 100%;
+			  transition-duration: .3s;
+			  max-width: 100%;
+			  display:block;
+			  overflow:hidden;
+			  cursor:pointer;
+			}
+			.title{
+			  position:absolute;
+			  display:block;
+			  cursor:pointer;
+			  top: 35%;
+			  display: none;
+			  left: 50%;
+			  margin-right: -50%;
+			  transform: translate(-50%, -50%);
+			  font-weight: bold;
+			  font-size: 1.6em;
+			  text-shadow: 1px 5px 10px black;
+			  transition-duration: .3s;
+			}
+			.text{
+			  position:absolute;
+			  top: 70%;
+			  cursor:pointer;
+			  max-width: 80%;
+			  text-align:center;
+			  left: 50%;
+			  text-shadow: 1px 5px 10px black;
+			  font-size: 1em;
+			  display:none;
+			  margin-right: -50%;
+			  transition-duration: .3s;
+			  transform: translate(-50%, -50%) 
+			}
+			.container:hover img{
+			  transform: scale(1.2);
+			  transition-duration: .3s;
+			  filter: grayscale(50%);
+			  opacity: .7;
+			}
+			.container:hover span{
+			  color:white;
+			  display: block;
+			  transition-duration: .3s;
+			}
+			@media only screen and (max-width: 900px) {
+				.container {
+					width: calc(50% - 6px);
+				}
+			}
+			@media only screen and (max-width: 400px) {
+				.container {
+					width: 100%;
+				}
+			}
+		</style>
 		<title>Fooly-cooly.GitHub.io by Fooly-Cooly</title>
 	</head>
 
-	<body>
-		<header>
-			<div class="container">
-				<h1>Fooly-cooly.GitHub.io</h1>
-				
-				<h2></h2>
-				
-				<section id="downloads">
-					<nav>
-						<ul>
-							<li><a href="https://github.com/Fooly-Cooly">GitHub</a>
-								<ul>
-									<li><a href="#">AutoHotKey</a>
-										<ul>
-											<li><a href="https://github.com/Fooly-Cooly/InjectDll">InjectDll</a></li>
-											<li><a href="https://github.com/Fooly-Cooly/UrlDownload">UrlDownload</a></li>
-										</ul>
-									</li>
-									
-									<li><a href="#">Blockland</a>
-										<ul>
-											<li><a href="https://github.com/Fooly-Cooly/Script_IGO">Script_IGO</a></li>
-											<li><a href="https://github.com/Fooly-Cooly/Script_FFC">Script_FFC</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							
-							<li><a href="http://Twitch.tv/FoolyCoolySAP">Twitch</a></li>
-							
-							<li><a href="https://www.flickr.com/photos/33263426@N08/albums/"></span>Flickr</a></li>
-							
-							<li><a href="http://foolycooly1764.deviantart.com/">DeviantArt</a></li>
-						</ul>
-					</nav>
-				</section>
-			</div>
-		</header>
+	<body class="bg">
+		<main>
+			<header></header>
 
-		<div class="container">
-			<section id="main_content">
-				<h3>
-					<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true">
-						<span aria-hidden="true" class="octicon octicon-link"></span>
-					</a>
-					Welcome to my hub site!
-				</h3>
+			<article id="content">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<h1>Fooly-Cooly.github.io</h1>
+				<div class="container-all">
+					<div class="container">
+						<a href="https://deviantart.com/foolycooly1764">
+							<img src="./Fooly-Cooly/images/deviant-art.webp" alt="">
+							<span class="title">Deviant Art</span>
+							<span class="text">Deviant Art is a site for artists to share their creations</span>
+						</a>
+					</div>
+					<div class="container">
+						<a href="./Fooly-Cooly/gallery.html">
+							<img src="./Fooly-Cooly/images/gallery.webp" alt="">
+							<span class="title">Personal Gallery</span>
+							<span class="text">My personal gallery for things I've created but can't post on DeviantArt or Flickr</span>
+						</a>
+					</div>
+					<div class="container">
+						<a href="https://www.flickr.com/photos/33263426@N08/albums/">
+							<img src="./Fooly-Cooly/images/flickr.webp" alt="">
+							<span class="title">Flickr</span>
+							<span class="text">A photo storage and sharing platform</span>
+						</a>
+					</div>
+					<div class="container">
+						<a href="https://github.com/Fooly-Cooly">
+							<img src="./Fooly-Cooly/images/github.webp" alt="">
+							<span class="title">Github</span>
+							<span class="text">A repository of coding projects</span>
+						</a>
+					</div>
+					<div class="container">
+						<a href="./JCPresents">
+							<img src="./Fooly-Cooly/images/terrifying-challenge.webp" alt="">
+							<span class="title">The Terrifying Challenge</span>
+							<span class="text">A Horror Movie list my friend does yearly. This is my version of the site, which he only used parts of it but I learned a lot.</span>
+						</a>
+					</div>
+					<div class="container">
+						<a href="">
+							<img src="./Fooly-Cooly/images/tba.webp" alt="">
+							<span class="title">Under Construction</span>
+							<span class="text">Haven't decided what to use this for</span>
+						</a>
+					</div>
+				</div>
+			</article>
 
-				<p>
-					I'm using my github page as a hub for linking to abunch of my creations and activities online for any who would care to check them out.
-				</p>
-			</section>
-		</div>
+			<footer></footer>
+		</main>
 	</body>
 </html>

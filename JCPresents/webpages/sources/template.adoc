@@ -1,0 +1,652 @@
+= 20XX
+:doctype: article
+:!sectids:
+:imagesdir: ./images
+
+++++
+<link type="text/css" rel="stylesheet" media="all" href="" id="theme_css" />
+++++
+
+[.text-center]
+image:gifs/.gif[]
+
+== Welcome!
++++<br>+++
++++<center>Enter, if you dare, into the world of <b>The Terrifying Challenge!</b></center>+++
+ +
+&emsp;&emsp;Within the hallowed halls of these interwebs rests a cinematic monstrosity umatched in the modern era! Can you withstand the onslaught? Do you have the sanity to survive? Would you willingly look into the darkness?
+ +
+ +
+&emsp;&emsp;Halloween is (obviously) the best holiday. But what if I told you it could be even *better*? All it takes is little time. The question is: *Can you do it*?
+ +
+ +
+&emsp;&emsp;*The Challenge* is simple. Pick a few movies off the list and mix them into your Halloween season. Then rank yourself on the following chart:
+ +
+ +
+[.text-center]
+image:skull20.webp[] [underline]#*The Zombie*# image:skull20.webp[] +
+Watch three movies
+ +
+ +
+image:skull20.webp[] [underline]#*The Ghoul*# image:skull20.webp[] +
+Watch six movies, then one Mystery Movie
+ +
+ +
+image:skull20.webp[] [underline]#*The Vampire*# image:skull20.webp[] +
+Watch nine movies, then two Mystery Movies
+ +
+ +
+image:skull20.webp[] [underline]#*The Fiend*# image:skull20.webp[] +
+Watch EVERY SINGLE movie on the list
+ +
+ +
+&emsp;&emsp;Below you will find the Entries for each list movie. Each entry will offer a peek into the dangers that await you. The Title of the entry links to the film's IMDB page, and the Poster will link to a stream where you can watch it. But take care; streaming websites are often loaded with spyware. The most terrifying thing of all is the internet itself! (Also some of these streams suck; you may want to try and find your own.)
+ +
+ +
+&emsp;&emsp;At the bottom of the page you will find the entries for the Mystery Movies. These films are too horrific for just any day of the month. As such, I'll be revealing them on October 28th... just in time for Halloween!!
+ +
+ +
+
+[.text-center]
+--
+++++
+<h3>And now, prepare yourself for...</h1>
+<h1>The Terrifying Challenge 20XX</h1>
+<h3>...Good Luck...</h3>
+++++
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]##
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2></h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+'''
+
+
+[discrete]
+== Mystery Movies
+
+== [hide]#Mystery Movie 1#
+[#mystery1]
+[.movie]
+--
+image:mystery/????/mystery1.webp[,220]
+[horizontal]
+.+++<h2>Mystery Movie 1</h2>+++
+*Year:* :: ????
+*Genre:* :: ????
+*Length:* :: ????
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+[#movie1]
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2>????</h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]#Mystery Movie 2#
+[#mystery2]
+[.movie]
+--
+image:mystery/????/mystery2.webp[,220]
+[horizontal]
+.+++<h2>Mystery Movie 2</h2>+++
+*Year:* :: ????
+*Genre:* :: ????
+*Length:* :: ????
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+[#movie2]
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2>????</h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+
+== [hide]#Mystery Movie 3#
+[#mystery3]
+[.movie]
+--
+image:mystery/????/mystery3.webp[,220]
+[horizontal]
+.+++<h2>Mystery Movie 3</h2>+++
+*Year:* :: ????
+*Genre:* :: ????
+*Length:* :: ????
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--
+
+[#movie3]
+[.movie]
+--
+image:posters/.webp[,220]
+[horizontal]
+.+++<h2>????</h2>+++
+*Year:* :: 
+*Genre:* :: 
+*Length:* :: 
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+*Default:* :: image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[] image:skull20.webp[]
+image:IMDb.webp[window="_blank",link=""] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+&emsp;&emsp;
+ +
+ +
+[underline]#*How to Watch*:# +
+
+--

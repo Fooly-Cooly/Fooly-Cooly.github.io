@@ -1,0 +1,6 @@
+<u>*Introduction*</u>
+  This guide is a WIP, feel free to contribute information by messaging me. If you're new start with the "Gear Progression Overview Guide". Then check out stat balancing and FAQs.
+
+<u>*Gear Progression Overview Guide*</u>
+  This outlines the basics of leveling, gearing, enchanting and upgrading your gear. Everything past this link goes into specifics for min-maxing gear.
+  <https://tinyurl.com/TeraGearingGuide>

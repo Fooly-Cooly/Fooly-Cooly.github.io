@@ -1,0 +1,46 @@
+<u>*ITEM RARITY*</u>
+
+[Rarity]    [Color]
+= Mythic     Purple
+  Superior   Yellow
+= Rare       Blue
+  Uncommon   Green
+= Common     White
+
+//NOTE: Check top left corner of an item for it's rarity
+
+
+<u>*GEAR*</u>
+
+[Name]     [Physical/Magical]          [Rarity]    [Infusions]  [Equvalent Enchantment]
+= Kaia's     Fury/Wisdom                Mythic          3           Best in Slot
+  ------     Annihilation/Dark Light   Superior         2           +10 = +6 Kaia 
+= Azart      Dauntless/Manaforce         Rare           1           +10 = +6 Superior
+  Scout      Maroon/Azure                Rare           0           +15 = +6 Superior
+= Duranium   Master's/Flawless         Uncommon         0           +10 = +6 Azart
+
+<u>*ACCESSORIES*</u>
+
+[Name]                      [Attributes]
+= Radiant Circlet            1002 DEF  616 Max MP  28 Crit Resist  15 Endurance     05 Power   Concentration IV     ---------
+  Forcetic Radiant Ring      0830 ATK  179 Max MP  --------------  09 Endurance     35 Power   343 Healing Skills   5 PVP DEF
+= Forcetic Radiant Necklace  0847 ATK  247 Max MP  46 Crit Resist  6% Attack Speed  33 Power   339 Healing Skills   8 PVP DEF
+  Forcetic Radiant Earring   1100 DEF  28K Max HP  46 Crit Resist  2% Attack Speed  27 Power   ------------------   5 PVP DEF
+= Carving Radiant Ring       0830 ATK  179 Max MP  --------------  09 Endurance     68 Crit    343 Healing Skills   5 PVP DEF
+  Carving Radiant Necklace   0847 ATK  247 Max MP  46 Crit Resist  6% Attack Speed  62 Crit    339 Healing Skills   8 PVP DEF
+= Carving Radiant Earring    1100 DEF  28K Max HP  46 Crit Resist  2% Attack Speed  52 Crit    ------------------   5 PVP DEF
+
+
+<u>*RELICS AND HALIDOMS*</u>
+
+[Name]             [Rareity]   [ATK/DEF]    [HP/MP]    [Endurance]  [Tier 1/2/3/4/5 Stats]
+= Zuras's Halidom   Uncommon    172 ATK    ---------    ---------     03/06/10/13/18 Power
+  Seren's Relic     Uncommon    381 DEF    ---------        3         05/09/12/16/20 Power
+= Gidd's Halidom    Uncommon    172 ATK    ---------    ---------     05/11/18/23/32 Crit
+  Isren's Relic     Uncommon    381 DEF    ---------        3         09/16/22/29/36 Crit
+= Kara's Halidom      Rare      241 ATK      7142 HP    ---------     05/11/17/23/31 Power
+  Elinu's Relic       Rare      533 DEF       298 MP        5         09/15/21/27/34 Power
+= Dagon's Halidom     Rare      241 ATK      7142 HP    ---------     09/20/31/41/56 Crit
+  Tithus's Relic      Rare      533 DEF       298 MP        5         16/27/38/49/61 Crit
+= Ishara's Halidom  Superior    344 ATK    14,285 HP    ---------     04/07/11/15/19 Power & 07/13/20/27/34 Crit
+  Amarun's Relic    Superior    762 DEF       392 MP        7         06/10/14/18/22 Power & 11/18/25/32/40 Crit

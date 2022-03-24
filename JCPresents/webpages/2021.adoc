@@ -1,0 +1,582 @@
+= 2021
+:doctype: article
+:!sectids:
+:imagesdir: ./images
+
+++++
+<link type="text/css" rel="stylesheet" media="all" href="" id="theme_css" />
+++++
+
+[.text-center]
+image:gifs/inferno2.gif[]
+
+== Welcome.
++++<br>+++
+&emsp;&emsp;Are you ready to binge watch an unhealthy amount of horror this Halloween season? If so, then I propose a game. It's called the Terrifying Challenge. The rules are simple: pick a few movies off the list below and watch them during month of October. The game ends on the conclusion of Halloween night, at which point you claim your score as follows:
+ +
+ +
+[.text-center]
+image:skull.webp[,20] [underline]#*The Zombie*# image:skull.webp[,20] +
+Watch three movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Ghoul*# image:skull.webp[,20] +
+Watch six movies, then one Mystery Movie
+ +
+ +
+image:skull.webp[,20] [underline]#*The Vampire*# image:skull.webp[,20] +
+Watch nine movies, then two Mystery Movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Fiend*# image:skull.webp[,20] +
+Watch EVERY SINGLE movie on the list
+ +
+ +
+
++++
+<h3>But Beware...</h2>
+<p>&emsp;&emsp;The Terrifying Challenge is a test of sanity and endurance. It is not suitable for children, your mother-in-law, or any other frail and distractible individual. Only the strongest will survive...</p>
+<h1>The Terrifying Challenge 2021</h1>
+<h3>...Good Luck...</h3>
++++
+
+
+== [hide]#Drag Me to Hell#
+[.movie]
+--
+image:posters/drag-me-to-hell.webp[]
+[horizontal]
+.+++<h2>Drag Me to Hell</h2>+++
+*Year:* :: 2009
+*Genre:* :: Horror
+*Length:* :: 1h 39m
+*Intense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Zany:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1127180"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;As always, this year's 5th anniversary Challenge hits the ground running with a modern classic: Drag Me to Hell. If you're looking for a fun, solid horror that's the perfect blend of casual and relentless--this is the one.
+ +
+ +
+&emsp;&emsp;What a piece. Director Sam Raimi returns to horror nearly thirty years after his seminal The Evil Dead, and manages to once again spin in just the right amount of comedy to keep things fun. This movie comes at you with tongue in cheek... but still delivers on some surprisingly dark themes and a sinister-ass monster.
+ +
+ +
+&emsp;&emsp;We've got thrills, and chills, gross-outs and jumpscares, great writing, an original(ish) story... it's a wild ride. There's not much dry and slow-moving drama here to distract from the mania. This movie has a deadline, and every scene whips the story forward towards its brutal conclusion.
+ +
+ +
+[underline]#*Beware*:# +
+Nothing much to worry about with this one. Drag Me to Hell is an easy watch, and plays pretty well in a group setting. Some of the effects are a little dated, but that really only adds to the fun. Oh, and it gets pretty loud. Strap in.
+--
+
+
+== [hide]#It Follows#
+[.movie]
+--
+image:posters/it-follows.webp[]
+[horizontal]
+.+++<h2>It Follows</h2>+++
+*Year:* :: 2014
+*Genre:* :: Monster Movie
+*Length:* :: 1h 40m
+*Calm:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Creepy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt3235888"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Man, I love this movie. It's got the chill sensibilities of a 70s horror and the slick, focused spookiness of a modern horror. It Follows is an artist's vision and a breath of fresh air.
+ +
+ +
+&emsp;&emsp;In the era of jumpscares it's hard to imagine how a movie like this one got made. It Follows is all about atmosphere, tone, and style... and none of those things operate exactly the way you'd expect from a horror movie. Hell, a lot of it takes place in broad daylight. But that doesn't stop it from keeping you under constant pressure.
+ +
+ +
+&emsp;&emsp;Everything in this movie is beautiful in a very specific way. It Follows has its own voice, which is something you don't see much anymore.
+ +
+ +
+[underline]#*Beware*:# +
+This is a slow, tense movie, punctuated by moments of panic. There's a lot of character stuff where you're just hanging out with the gang while they investigate, so prepare for some classic suburban hijinks with It Follows.
+--
+
+
+== [hide]#An American Werewolf in London#
+[.movie]
+--
+image:posters/an-american-werewolf-in-london.webp[]
+[horizontal]
+.+++<h2>An American<br>Werewolf in London</h2>+++
+*Year:* :: 1981
+*Genre:* :: Horror / Comedy
+*Length:* :: 1h 37m
+*Violence:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Practical Effects:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0082010"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Believe it or not this is the Challenge's very first werewolf movie, and it's a fairly unique take on that trope. You see this one listed as a horror-comedy, but the humor is subtle enough that it plays just fine as a straight horror. As funny as it is, American Werewolf isn't afraid to get vicious on you.
+ +
+ +
+&emsp;&emsp;When you hear people talk about this movie, they're typically talking about the special effects, and rightfully so. This movie features an infamous scene that's one of the better werewolf moments ever put to film. It's also got some truly awesome setpieces that do a great job in capturing the abject chaos of a werewolf attack. Overall it's a fun and masterfully-executed take on a trope that's usually pretty predictable.
+ +
+ +
+&emsp;&emsp;An American Werewolf in London has a lot to offer. Not too challenging, strange-but-good pacing, unique werewolf lore, and great filmmaking to tie it all together.
+ +
+ +
+[underline]#*Beware*:# +
+Don't expect the Underworld series here; like most great films, American Werewolf takes its time in setting up the conflict. Grab a beer and let your guard down.
+--
+
+
+== [hide]#The Blob#
+[.movie]
+--
+image:posters/the-blob.webp[]
+[horizontal]
+.+++<h2>The Blob</h2>+++
+*Year:* :: 1988
+*Genre:* :: Horror
+*Length:* :: 1h 35m
+*Gross:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Great Remake:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0094761"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Every now and then I put a movie on the list that I haven't seen yet, and the 1988 remake of the horror classic The Blob is one such movie. Everything about it leads me to believe that it's a hidden gem--and I'm psyched to watch it with you this year.
+ +
+ +
+&emsp;&emsp;So this one falls into that wonderful family of films that I'd call "80s top-tier practical effects extravaganzas." We've seen others in this class, like The Thing and The Fly (all remakes, weirdly enough). And like the others, The Blob has more than just special effects.
+ +
+ +
+&emsp;&emsp;This movie was written by Frank Darabont, the guy who wrote and directed The Shawshank Redemption and The Green Mile, and also has managed The Walking Dead for over a decade now. It's a strange lineage for a remake of a shitty 50s drive-in horror, but a good indication of the kind of quality you can look forward to.
+ +
+ +
+[underline]#*Beware*:# +
+I'm genuinely not sure what to expect here. So let's do some predictions: I bet The Blob is surprisingly gory. I bet the characters are simple, but strong. I bet it'll be captivating all the way through--and I expect it to be a real stick-with-you kind of movie.
+--
+
+
+== [hide]#Cape Fear#
+[.movie]
+--
+image:posters/cape-fear.webp[]
+[horizontal]
+.+++<h2>Cape Fear</h2>+++
+*Year:* :: 1991
+*Genre:* :: Thriller
+*Length:* :: 2h 8m
+*Tense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Great Remake:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0101540"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Did you know that in the 90s, Martin Scorsese made a Hitchcock movie, that was also a remake of a non-Hitchcock movie? It's called Cape Fear and it's fucking  nuts.
+ +
+ +
+&emsp;&emsp;What a weird twisted tale this one is. It actually sticks fairly close to the original Cape Fear (1962) in story terms. It hits all the same beats and has a similar cast of characters. But everything is taken up a notch: the violence, the fear, and especially the threatening-ass antagonist played by Robert DeNiro. At a certain point Cape Fear essentially becomes a full-blown monster movie, and it's fascinating to watch and see how it gets to that point.
+ +
+ +
+&emsp;&emsp;I love this film, and personally think this is one's of Scorses' most underrated works. It's certainly a weird movie and full of crazy shit--but it's also a one-of-a-kind movie, which is hard to accomplish with a remake.
+ +
+ +
+[underline]#*Beware*:# +
+This one doesn't pull any punches. Cape Fear goes to some really dark and sinister places and it gets there in a hurry. Prepare for a moderately uncomfortable (and long) viewing.
+--
+
+
+== [hide]#In the Mouth of Madness#
+[.movie]
+--
+image:posters/in-the-mouth-of-madness.webp[]
+[horizontal]
+.+++<h2>In the Mouth of Madness</h2>+++
+*Year:* :: 1994
+*Genre:* :: Lovecraftian Horror
+*Length:* :: 1h 35m
+*Mindfuck:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Cosmic Horror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0113409"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;We've had a good handful of so-called "Lovecraftian" horrors on the list over the years, a few of which have been direct adaptations. But this one is near the top in terms of enjoyability: In the Mouth of Madness really captures the spirit of Lovecraft in a way that's both fun and modern. Can't recommend it enough.
+ +
+ +
+&emsp;&emsp;Here's a fun bit of trivia: this movie is actually the third in an unofficial trilogy known as the "John Carpenter's Apocalypse Trilogy." In the Mouth of Madness is therefore a sister film to The Thing (and also another one which we haven't covered yet [but probably will]). And although it's a very different movie, it shares a lot of common themes with The Thing--isolation, madness, distrust, alien monsters and more.
+ +
+ +
+&emsp;&emsp;Charlton Heston is in this movie, that's pretty cool. Also Sam Neil, who appeared on the list in Event Horizon a couple of years ago. Check it out, it's a fun little "going crazy" kind of movie that's got some very creepy stuff in it.
+ +
+ +
+[underline]#*Beware*:# +
+Nothing too difficult in this one. I wouldn't put it on at a party, it's a little too subdued for that. Take your time and immerse yourself in the spooky world of In the Mouth of Madness.
+--
+
+
+== [hide]#Ringu#
+[.movie]
+--
+image:posters/ringu.webp[]
+[horizontal]
+.+++<h2>Ringu</h2>+++
+*Year:* :: 1995
+*Genre:* :: Horror
+*Length:* :: 1h 35m
+*Slow Burn:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0235133"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;American audiences are familiar with our version of The Ring, made back in 2002. But the original Japanese version, Ringu, is my favorite of the two. Talk about a spooky-ass movie.
+ +
+ +
+&emsp;&emsp;Ringu has arguably one of the best "ticking clock" elements in all cinema. There's this constant tension hanging over every scene, because you know these characters are running out of time. Even the quiet conversation scenes are tense--and make no mistake, there are lots of quiet conversation scenes. Ringu is a slow and deliberate film that ironically doesn't rush anything.
+ +
+ +
+&emsp;&emsp;It's also worth mentioning that the film is shot beautifully. Wonderful framing of shots, spooky shadows, and really nice locations all around. The perfect setting for a creepy unseen predator to lurk.
+ +
+ +
+[underline]#*Beware*:# +
+This one's slow. Also I recommend subtitles, but if you prefer (and can find) a dubbed version that's fine too. And make sure you find a quiet place to watch this one. 
+--
+
+
+== [hide]#Petey Wheatstraw: The Devil's Son-in-Law#
+[.movie]
+--
+image:posters/petey-wheatstraw.webp[]
+[horizontal]
+.+++<h2>Petey Wheatstraw:<br>The Devil's Son-in-Law</h2>+++
+*Year:* :: 1977
+*Genre:* :: Comedy / Action / Horror / Drama
+*Length:* :: 1h 34m
+*Comical:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Bizarre:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0078078"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Alright, hear me out. This movie is about a folk-hero paladin in the 70s who makes a deal with the devil. It's also a brilliant satire made by visionary independent filmmaker Rudy Ray Moore. It's also a raunchy blaxploitation B-movie. And, it's also got everything you could want in a movie: constant comedy, high drama, karate fight scenes and a strong dash of horror for flavor.
+ +
+ +
+&emsp;&emsp;It feels weird to say this one became an instant favorite of mine, but it really did (sort of like Tommy). I was familiar with the character already--without realizing it--because he essentially appears in the movie/TV series Black Dynamite. But man, nothing beats the original.
+ +
+ +
+&emsp;&emsp;Petey Wheastraw is wholly unique. Even among R.R. Moore's other films, this one stands out. If you can immerse yourself in the world, and Moore's vision, it's a riot of a film. And I think it's a great palate cleanser for the tribulations coming up on the Challenge.
+ +
+ +
+[underline]#*Beware*:# +
+If you can make it through the first five minutes, you're golden. Come at it with an open mind. 
+--
+
+
+== [hide]#Day of the Dead#
+[.movie]
+--
+image:posters/day-of-the-dead.webp[]
+[horizontal]
+.+++<h2>Day of the Dead</h2>+++
+*Year:* :: 1985
+*Genre:* :: Horror
+*Length:* :: 1h 41m
+*Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Dismal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0088993"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;And with this, the second full trilogy on the Terrifying Challenge comes to a close. It's one of George Romero's great masterpieces: the horrible, grisly, bleak-ass Day of the Dead.
+ +
+ +
+&emsp;&emsp;If you've been following along through the years, you've already seen Night of the Living Dead and Dawn of the Dead; this one is my favorite of the three. The zombies look the best in Day of the Dead, first off. And they finally landed on maybe the most interesting set of characters for the "of the Dead" premise. The setting is awesome, super cramped and creepy, all the acting is great, practical effects are perfect. And it's dark.
+ +
+ +
+&emsp;&emsp;Now, it's a little dry. If you're looking for intense zombie action 28 Days Later will be more your speed. Day of the Dead is an endurance contest. It's about pressure, tension, stress, and ultimately panic. Great film, especially on first viewing.
+ +
+ +
+[underline]#*Beware*:# +
+This one's tough. It's not a "fun" movie, more like grueling and unpleasant. Doesn't pair super well with alcohol. 
+--
+
+
+== [hide]#Insidious#
+[.movie]
+--
+image:posters/insidious.webp[]
+[horizontal]
+.+++<h2>Insidious</h2>+++
+*Year:* :: 2010
+*Genre:* :: Horror
+*Length:* :: 1h 43m
+*Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Cool Concept:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1591095"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Right around the same time that this list is coming out, director James Wan put out a movie called Malignant. If you haven't seen it, I highly recommend it, it's a genuine masterpiece. But we're not watching that for this year's list--instead we're going to watch an earlier James Wan film, Insidious.  
+ +
+ +
+&emsp;&emsp;Insidious is a lot of fun. It was sort of an early standout among that first big wave of jumpscare movies coming out around that time; and that's with good reason, because it's very well-made. The look of this film is very distinct, from the camera work to the moodily-lit sets. And the story is just batshit. It has many of the recognizable tropes, but there's also a handful of unique ideas and twists that keep it surprisingly fresh.
+ +
+ +
+&emsp;&emsp;That being said, it's not a perfect film for me. By the end it starts coming undone a bit and loses any pretext of subtlety. But I find that interesting in its own right, seeing where an otherwise good film could've been improved. And those are nitpicks anyway, because overall Insidious is a strong showing.
+ +
+ +
+[underline]#*Beware*:# +
+This is probably the easiest movie on this year's Challenge, so enjoy it while you can. The next three are really going to separate the vampires from the fiends.
+--
+
+
+== [hide]#Beyond the Black Rainbow#
+[.movie]
+--
+image:posters/beyond-the-black-rainbow.webp[]
+[horizontal]
+.+++<h2>Beyond the Black Rainbow</h2>+++
+*Year:* :: 2010
+*Genre:* :: Panos Cosmatos
+*Length:* :: 1h 50m
+*Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1534085"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This one is something else. From Panos Cosmatos, director of Mandy, comes another nightmarish film that's visually gorgeous but very hard to describe. It's slow, and brutal to watch, and I wouldn't recommend it to everyone. But I am going to recommend it to you.
+ +
+ +
+&emsp;&emsp;Beyond the Black Rainbow is one of the more quiet films I can remember seeing recently. Everyone speaks in a mumble, and there's long stretches where almost nothing is said. Much of the soundtrack is just droning noise. But in a movie like this one, that's not a bad thing. The story fits nicely into the Cosmatos universe, and all the grotesque horror themes are present: drug use, fucked up semi-human entities, good versus evil.
+ +
+ +
+&emsp;&emsp;But the real takeaway from Beyond the Black Rainbow is that insane visual style. I'd call it one of the more visually beautiful films I've ever seen. Top-tier. And all of its elements are blended perfectly to create a totally unique vision. This one's tough, but I'd say it's one of the better entries this year.
+ +
+ +
+[underline]#*Beware*:# +
+This one is tough. It will absolutely test your understanding of what it means for a movie to be "slow." But trust me, it all comes together about halfway through.
+--
+
+
+== [hide]#This Night I'll Possess Your Corpse#
+[.movie]
+--
+image:posters/this-night-ill-possess-your-corpse.webp[]
+[horizontal]
+.+++<h2>This Night I'll<br>Possess Your Corpse</h2>+++
+*Year:* :: 1967
+*Genre:* :: Arthouse Horror
+*Length:* :: 1h 48m
+*Demented:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0060380"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This Night I'll Possess Your Corpse is one of my all-time favorite movies. It's also probably the most challenging of the Challenge movies this year. It is truly a bizarre film.
+ +
+ +
+&emsp;&emsp;First off, This Night has the aesthetic and pacing of a movie from the 30s, like a Frankenstein or Dracula. But its horror sensibilities are more closely aligned with the decade of its creation. It's Brazilian, of all things, making it our second foreign film this year. And the story is fucking insane. It's way, way more brutal than it has any right to be coming out of the 60s.
+ +
+ +
+&emsp;&emsp;It's black-and-white, and most likely you'll end up seeing it subtitled. Hell, it might even be tough to find a stream (it is on YouTube, but trust me: get the highest-quality stream that you can). But if you can get past all the roadblocks... you'll have seen it, at least. I can't promise you're going to like it, but I doubt you'll forget it anytime soon.
+ +
+ +
+[underline]#*Beware*:# +
+Biggest piece of advice: no spoilers. Try and go in completely cold, if you can. Technically, this movie is part of a series, but not having seen the first doesn't really make any difference. Oh, and don't put it on at a party.
+--
+
+
+== [hide]#Candyman#
+[.movie]
+--
+image:posters/candyman.webp[]
+[horizontal]
+.+++<h2>Candyman</h2>+++
+*Year:* :: 1992
+*Genre:* :: Horror
+*Length:* :: 1h 39m
+*Hardcore:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0103919"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;And to round out the list proper this year, we have another brutal and unpleasant film: Candyman. It's a masterfully-made horror movie from beginning to end, with lots of little surprises along the way. Can't think of a better way to lead into Halloween.
+ +
+ +
+&emsp;&emsp;I think this is one of those movies that most people have at least heard of, but not nearly as many people have seen. It's notorious like that, kind of the same way that Texas Chainsaw Massacre is. And I can see why. It's dark, and nasty, and very strange. There's barely any established horror tropes in this movie; it really operates by its own set of rules, which gives it an uncanny sense of unfamiliarity. At most points during Candyman, I genuinely couldn't figure out where it was going (in a good way).
+ +
+ +
+&emsp;&emsp;Everything else about it is way above-average as well. Shotwork is great, the setting is unique and very distinct, characters are interesting. It's an impressive film, and criminally underrated.
+ +
+ +
+[underline]#*Beware*:# +
+This one takes a little time to really get going. Prepare for a strange and wild ride with Candyman. 
+--
+
+
+'''
+
+
+[discrete]
+== Secret Films
+
+== [hide]#Secret Film 1#
+[#mystery1]
+[.movie]
+--
+image:mystery/2021/mystery1.webp[]
+[horizontal]
+.+++<h2>Secret Film 1</h2>+++
+*Year:* :: ????
+*Genre:* :: Horror
+*Length:* :: ????
+*High Strangeness:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;Ah, now this is a movie. You take a handful of fresh and awesome ideas, and you tie the whole thing together with classic and familiar tropes. This year's first Secret Film is goddam amazing for any number of reasons. Let me count some of them out.
+ +
+ +
+&emsp;&emsp;First off, the soundtrack is killer. The practical effects too. It's filmed in a beautiful location, so everything that happens is framed on a scenic-ass background. It's got plenty of kills, some of which are genuinely great. And, it has one big quality (no spoilers) that I've never seen a movie pull off quite as well. It's incredible.
+ +
+ +
+&emsp;&emsp;...Now for the hints. This film is directed by an auteur, and one that we've seen on a previous year of the list. It was made in the 80s, but feels more like something out of the 90s. And last up, the protagonist is a female.
+ +
+ +
+[underline]#*Beware*:# +
+This movie kicks ass. The biggest hurdle you'll have to deal with is trying to follow the story, because it goes to some pretty weird places.
+--
+
+[#movie1]
+[.movie]
+--
+image:posters/phenomena.webp[]
+[horizontal]
+.+++<h2>Phenomena</h2>+++
+*Year:* :: 1985
+*Genre:* :: Horror
+*Length:* :: 1h 56m
+*High Strangeness:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0087909"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;From the visionary director of Suspiria comes our third foreign film this year: a weird and wild one called Phenomena. This is one of those rare works that's truly unique. It has recognizable elements from a handful of other genres--but in the end, Phenomena plays by its own set of rules.
+ +
+ +
+&emsp;&emsp;Everything in this movie--music, visuals, setting and story--all contributes to building a weird and twisted fantasy vibe that permeates every frame. It's sort of like a fairy tale, one of those old ones that's all fucked up. It's got kills, and weird gore, mysteries and the supernatural, and Motörhead on the soundtrack. Obviously a movie like that is going to turn out batshit insane, but Phenomena captures that insanity just right. 
+ +
+ +
+&emsp;&emsp;Italian director Dario Argento has a kickass catalog of movies, and I consider this one to be right up there with his best. If you like it maybe consider checking out some of his others; it's going to take me years to cover all that ground on the Challenge.
+ +
+ +
+[underline]#*Beware*:# +
+Okay so fair warning: this one builds. Which is to say, it starts slow. There's so much going on in this movie that it needs time to establish all the important stuff. It starts crackin' about halfway through, so in the meantime get ready to enjoy some absolutely gorgeous sights and sounds.
+--
+
+
+== [hide]#Secret Film 2#
+[#mystery2]
+[.movie]
+--
+image:mystery/2021/mystery2.webp[]
+[horizontal]
+.+++<h2>Secret Film 2</h2>+++
+*Year:* :: ????
+*Genre:* :: Sci-Fi / Horror
+*Length:* :: ????
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;This movie is bananas. I'm not sure if I've ever seen it all the way through before this year, and I'm so glad I've finally seen it now. It really does live up to the hype.
+ +
+ +
+&emsp;&emsp;Sci-Fi and Horror have always made a great pair, but this film is a particular standout in both those genres. It actually has way better sci-fi elements than I was expecting, which is always a nice surprise. But don't worry: the horror is on point as well.
+ +
+ +
+&emsp;&emsp;Like the first Secret Film, this one has a female protagonist. However, we've never had one of this director's films on the list before. And your last hint is: you already know this one's name.
+ +
+ +
+[underline]#*Beware*:# +
+This movie is great. It has just about everything you could want in a sci-fi/horror. Rowdy fun, all the way through.
+--
+
+[#movie2]
+[.movie]
+--
+image:posters/the-terminator.webp[]
+[horizontal]
+.+++<h2>The Terminator</h2>+++
+*Year:* :: 1984
+*Genre:* :: Sci-Fi / Horror
+*Length:* :: 1h 47m
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0088247"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;Talk about a movie that kicks ass. Yet another perfect union of sci-fi and horror, The Terminator has so much great stuff to offer--not the least of which is a shitload of action. This one's going to be a fun watch.
+ +
+ +
+&emsp;&emsp;I avoided this movie for a long time, mostly because it felt a little clichéd. Couldn't have been more wrong. The Terminator has such a strong vision at its core, and every element is executed flawlessly. I think what surprised me most was the depth of the sci-fi; it's a time travel movie for fuck's sake, and a really good one. And that's to say nothing of the actual filmmaking: every shot, scene, and special effect is totally on-point.
+ +
+ +
+&emsp;&emsp;But of course, The Terminator is on this list for a reason. Horror is the glue that holds this movie together--because at the center of everything, there's an unstoppable robot assassin. I'm psyched to watch this one again.
+ +
+ +
+[underline]#*Beware*:# +
+It's fun as hell, but it's not super casual. There's a surprising amount of depth to the badass world of The Terminator.
+--
+
+
+== [hide]#Secret Film 3#
+[#mystery3]
+[.movie]
+--
+image:mystery/2021/mystery3.webp[]
+[horizontal]
+.+++<h2>Secret Films 3</h2>+++
+*Year:* :: ????
+*Genre:* :: Horror
+*Length:* :: ????
+*Masterpiece:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;If you want to talk about atmosphere, this is the one. This movie builds a world so real and at the same time so unbelievable; it's like nothing I've ever seen. And even though it's very simple in construction, it feels like a horror epic.
+ +
+ +
+&emsp;&emsp;This Secret Film is shockingly beautiful, despite being shot in a fairly unremarkable place. The acting is incredible, despite the fact that not much really happens (for most of it). Most inexplicable of all, I love this movie--despite it being made fairly recently.
+ +
+ +
+&emsp;&emsp;You may be surprised to hear this first hint: but this Secret Film has a female protagonist. It has a very small cast, and many of them are very young. Finally, it deals with one of my favorite (criminally under-utilized) horror tropes... one which we've seen on the list a few times now.
+ +
+ +
+[underline]#*Beware*:# +
+This one is very slow, very dry. But if you can handle it this one will show you some wonderful things.
+--
+
+[#movie3]
+[.movie]
+--
+image:posters/the-witch.webp[]
+[horizontal]
+.+++<h2>The Witch</h2>+++
+*Year:* :: 2015
+*Genre:* :: Horror
+*Length:* :: 1h 32m
+*Masterpiece:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt4263482"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;Get ready, because this year's Terrifying Challenge ends with something special. The Witch draws you into a dark and super-spooky world where no one can be trusted. Every frame is just so goddam creepy; from start to finish, it never lets up.
+ +
+ +
+&emsp;&emsp;You know what this movie reminds me of? The Thing. They're both about isolation, paranoia, the unseen enemy. They both have an atmosphere of pure exhaustion, and they both stick with you well after the fact.
+ +
+ +
+&emsp;&emsp;But The Witch has some unique qualities of its own: most notably the very uncommon setting (no spoilers). It's such a stark, harsh background for an already brutal story. And the acting necessary to pull it all off is insane... but they nailed it.
+ +
+ +
+&emsp;&emsp;This film is not a casual watch. It asks a lot from its viewers on a few different levels. It's hella cerebral, and dense, and dramatic. There's a straight-up barrier to entry built into the dialogue. But if you can wrangle it, The Witch is a top-tier piece. 
+ +
+ +
+[underline]#*Beware*:# +
+It's not often that I recommend subtitles on an English language film, but this is one of the times you might consider it. That's your main hurdle with this one: just being able to engage with the film. Once you've found your way into its world, The Witch will start working its magic. Oh, and don't put it on at a party. 
+--

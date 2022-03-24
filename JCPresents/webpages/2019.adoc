@@ -1,0 +1,638 @@
+= 2019
+:doctype: article
+:!sectids:
+:imagesdir: ./images
+
+++++
+<link type="text/css" rel="stylesheet" media="all" href="" id="theme_css" />
+++++
+
+[.text-center]
+image:gifs/dunwich.gif[]
+
+== Welcome!
++++<br>+++
++++<center>Enter, if you dare, into the world of <b>The Terrifying Challenge!</b></center>+++
+ +
+&emsp;&emsp;Within the hallowed halls of these interwebs rests a cinematic monstrosity umatched in the modern era! Can you withstand the onslaught? Do you have the sanity to survive? Would you willingly look into the darkness?
+ +
+ +
+&emsp;&emsp;Halloween is (obviously) the best holiday. But what if I told you it could be even *better*? All it takes is little time. The question is: *Can you do it*?
+ +
+ +
+&emsp;&emsp;The *Challenge* is simple. Pick a few movies off the list and mix them into your Halloween season. Then rank yourself on the following chart:
+ +
+ +
+[.text-center]
+image:skull.webp[,20] [underline]#*The Zombie*# image:skull.webp[,20] +
+Watch three movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Ghoul*# image:skull.webp[,20] +
+Watch six movies, then one Mystery Movie
+ +
+ +
+image:skull.webp[,20] [underline]#*The Vampire*# image:skull.webp[,20] +
+Watch nine movies, then two Mystery Movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Fiend*# image:skull.webp[,20] +
+Watch EVERY SINGLE movie on the list
+ +
+ +
+&emsp;&emsp;Below you will find the Entries for each list movie. Each entry will offer a peek into the dangers that await you. The Title of the entry links to the film's IMDB page, and the Poster will link to a stream where you can watch it. But take care; streaming websites are often loaded with spyware. The most terrifying thing of all is the internet itself! (Also some of these streams suck; you may want to try and find your own.)
+ +
+ +
+&emsp;&emsp;At the bottom of the page you will find the entries for the Mystery Movies. These films are too horrific for just any day of the month. As such, I'll be revealing them on October 28th... just in time for Halloween!!
+ +
+ +
+
+[.text-center]
+--
+++++
+<h3>And now, prepare yourself for...</h1>
+<h1>The Terrifying Challenge 2019</h1>
+<h3>...Good Luck...</h3>
+++++
+--
+
+
+== [hide]#Army of Darkness#
+[.movie]
+--
+image:posters/army-of-darkness.webp[]
+[horizontal]
+.+++<h2>Army of Darkness</h2>+++
+*Year:* :: 1992
+*Genre:* :: Comedy / Horror
+*Length:* :: 1h 21m
+*Comedy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0106308/"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Army of Darkness is the final film in the Evil Dead trilogy--and boy, what a way to end it. This movie is unbelievable.
+ +
+ +
+&emsp;&emsp;Army of Darkness follows the series to its logical conclusion: from straight horror all the way to this near full-blown comedy. You're going to see some absurd, masterful shenanigans out of this one. The setting is wild, the story unique, and the characters strong. The budget is by far the biggest of the trilogy and you'll see it throughout--but especially in the climactic ending.
+ +
+ +
+&emsp;&emsp;Director Sam Raimi and lead Bruce Campbell made something incredible with the Evil Dead trilogy. And I can't imagine a better ending for the series (and beginning of this year's list) than Army of Darkness. A must-see.
+ +
+ +
+[underline]#*How to Watch*:# +
+Set your expectations to "nucking futs." From the first ten minutes this movie is a runaway train, and you're along for the ride.
+--
+
+
+== [hide]#The Mothman Prophecies#
+[.movie]
+--
+image:posters/the-mothman-prophecies.webp[]
+[horizontal]
+.+++<h2>The Mothman Prophecies</h2>+++
+*Year:* :: 2002
+*Genre:* :: Supernatural Mystery
+*Length:* :: 1h 59m
+*Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*True Story:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0265349"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;The second entry on this year's list is a dark, brooding supernatural mystery. Not so much scary as unsettling, The Mothman Prophecies hits on some very deep-seated human fears all the same.
+ +
+ +
+&emsp;&emsp;Believe it or not, this movie is based on a (debatably) true story. It's essentially a modern re-telling of the Mothman sightings that took place in Point Pleasant, West Virginia. And while some details have been added it's actually a pretty good rundown of the story.
+ +
+ +
+&emsp;&emsp;Richard Gere admirably performs the lead role: an investigator looking to get to the bottom of a personal mystery. Along the way he runs into some crazy shit... and just like the real Mothman sightings, he's left with more questions than answers.
+ +
+ +
+&emsp;&emsp;The Mothman Prophecies is a great movie if you're looking for a chill evening of spooky happenings. This one will definitely add some variety to an otherwise-intense Halloween season.
+  +
+  +
+[underline]#*How to Watch*:# +
+I'd recommend watching this one in the dead of night. Find a quiet, dark room and settle in for some serious tension.
+--
+
+
+== [hide]#Twilight Zone: The Movie#
+[.movie]
+--
+image:posters/twilight-zone-the-movie.webp[]
+[horizontal]
+.+++<h2>Twilight Zone: The Movie</h2>+++
+*Year:* :: 1983
+*Genre:* :: Sci-Fi (Vignette)
+*Length:* :: 1h 41m
+*Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0086491"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;We've all heard of the original Twilight Zone television series, and probably seen some, too. It's a real classic of the T.V. world... but it's old as hell. Sure, it's genius, but watching a show from the 50's is pretty hard on a modern audience. And that's where Twilight Zone: the Movie comes in.
+ +
+ +
+&emsp;&emsp;This may be the weirdest movie on this year's Challenge (and that's a competitive category). But it's weird in the best possible way.
+ +
+ +
+&emsp;&emsp;First thing to mention is that it's a vignette, which is to say that it's basically four tiny movies stuck together with a common theme. Each of these mini-movies has its own director, actors, and plot. So the variety of content here is really wild.
+ +
+ +
+&emsp;&emsp;It's also patently obvious that great care was taken in the making of this film. The "vibe" of the original series is replicated almost perfectly intact--which of course means this movie is super weird. It's going to show you some real shit.
+  +
+  +
+[underline]#*How to Watch*:# +
+The most important suggestion I can give is this: FINISH IT. Watch the whole damn thing. While the first two sequences are great, the real meat is at the end. Trust me, watch the whole thing.
+--
+
+
+== [hide]#Misery#
+[.movie]
+--
+image:posters/misery.webp[]
+[horizontal]
+.+++<h2>Misery</h2>+++
+*Year:* :: 1990
+*Genre:* :: Thriller
+*Length:* :: 1h 47m
+*Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Intense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0100157"] :: +++&nbsp+++
+
++++<br>+++
++++<center>...And what would The Terrifying Challenge be without a Stephen King?</center>+++
+ +
+&emsp;&emsp;Misery is its own beautiful kind of thing. It plays with some sinister themes: isolation, dominance, obsession and vulnerability. It cuts down into some of the most fundamental human traumas as only Stephen King can.
+ +
+ +
+&emsp;&emsp;Two kickass actors, James Cahn and Kathy Bates, carry basically the entire story. The focal point of the movie is the brutal relationship between their two characters, and that's really all it needs to get in your head.
+ +
+ +
+&emsp;&emsp;Like many horror movies, Misery is all about rising tension. It has a long, slow build that just gets more and more uncomfortable as things progress. It may not seem like much at first, but Misery will jump out and get you if you're not careful.
+ +
+ +
+[underline]#*How to Watch*:# +
+This one is pretty laid-back as these things go. It's not about gore or jumpscares. It's about tension, conflict and control (and a healthy dose of insanity). Just relax and let it do its thing.
+--
+
+
+== [hide]#The Dunwich Horror#
+[.movie]
+--
+image:posters/the-dunwich-horror.webp[]
+[horizontal]
+.+++<h2>The Dunwich Horror</h2>+++
+*Year:* :: 1970
+*Genre:* :: Lovecraftian Horror
+*Length:* :: 1h 30m
+*Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0065669"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Man, what can you say about a movie like The Dunwich Horror? Any attempt at describing it is going to fail. It's really just something you have to see.
+ +
+ +
+&emsp;&emsp;That said, there are some takeaways. First off it's a movie from the 70's... meaning that it's slow, freaky, and visually beautiful. There's a lot of experimental stuff going on, things that are really pretty uncommon even to this day. And there's a hilarious 70's sexiness that just can't be replicated today.
+ +
+ +
+&emsp;&emsp;Another thing worth mentioning is that The Dunwich Horror is based on a story written by H.P. Lovecraft, an author that's notoriously hard to adapt. And this movie does a great job playing with the themes present in that short story. Honestly (and weirdly), it's one of the better adaptations of his work.
+ +
+ +
+&emsp;&emsp;As "different" as this movie is, I'd defintely recommend giving it a shot. You'll see some things you've never seen before, if nothing else.
+ +
+ +
+[underline]#*How to Watch*:# +
+Don't watch this movie when you're sleepy. Like many 70's films it takes its time getting to the shit. The Dunwich Horror is much like its short story inspiration: strange, cerebral, and esoteric. It will require your full attention.
+--
+
+
+== [hide]#Event Horizon#
+[.movie]
+--
+image:posters/event-horizon.webp[]
+[horizontal]
+.+++<h2>Event Horizon</h2>+++
+*Year:* :: 1997
+*Genre:* :: Sci-Fi / Horror
+*Length:* :: 1h 36m
+*Horrific:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0119081"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Yet another fantastic marriage of Sci-Fi and Horror, Event Horizon is unlike any other movie I've ever seen. This movie takes an incredibly dangerous setting (outer space) and throws some brutal supernatural horror in on top. And those two mesh surprisingly well.
+ +
+ +
+&emsp;&emsp;Being set in space gives Event Horizon a lot of great material from day one and they make the most of it. It's claustraphobic, constantly hazardous and there are some greatly inventive horrors that couldn't really happen anywhere else. It's a fun horror movie that has decidedly earned its cult status.
+ +
+ +
+[underline]#*How to Watch*:# +
+First and foremost, get yourself into the "space" mindset. Also, I'd say this one pairs pretty well with alcohol. It's got a lot of "oh shit" moments that would make it really fun to watch under the influence.
+--
+
+
+== [hide]#Beetlejuice#
+[.movie]
+--
+image:posters/beetlejuice.webp[]
+[horizontal]
+.+++<h2>Beetlejuice</h2>+++
+*Year:* :: 1988
+*Genre:* :: Comedy
+*Length:* :: 1h 32m
+*Tim Burton:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Star Power:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0094721"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This is the kind of movie you've probably already seen, but not all the way through and not for a long time. And that's understandable. It's a weird tale that doesn't really have a defined audience--like most of Tim Burton's work.
+ +
+ +
+&emsp;&emsp;Beetlejuice is this year's palette cleanser. If you've been beaten down by some of the more extreme Halloween standards, this is a great way to take a breather. More of a comedy than horror, it is still a ghost story at heart. And at times it's surprisingly twisted.
+ +
+ +
+&emsp;&emsp;This movie features some actors that were really coming up at the time, like Alec Baldwin and Winona Ryder. And they do an awesome job at bringing Burton's bizarre vision to life.
+ +
+ +
+&emsp;&emsp;Beetlejuice is hard to categorize beyond saying that it's really good. It has some very unique things to offer that, while tame, are still nice and ghoulish.
+ +
+ +
+[underline]#*How to Watch*:# +
+Get wasted. There's nothing in this movie that's going to trip you up--it's straightforward fun.
+--
+
+
+== [hide]#Mandy#
+[.movie]
+--
+image:posters/mandy.webp[]
+[horizontal]
+.+++<h2>Mandy</h2>+++
+*Year:* :: 2018
+*Genre:* :: Revenge Flick
+*Length:* :: 2h 1m
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Visually Stunning:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt6998518"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Mandy is the craziest movie I've seen in years. It's seriously ridiculous. If there's one movie you need to see this Halloween, it might be this one (but only if you're a hardcore bastard).
+ +
+ +
+&emsp;&emsp;The first thing you notice about this movie is how it looks. The visuals range from stark and mundane, to unbelievably lush, to absoulte mindfuck. It's totally alien.
+ +
+ +
+&emsp;&emsp;And the acting is super on-point as well. Nicholas Cage seems to have two speeds: terrible and exceptional. This is one of those exceptional performances that carries the whole movie. It's really something to see.
+ +
+ +
+&emsp;&emsp;Then there's the violence. It's sick. Absolute brutalism. Mandy is like an acid trip, but a bad trip (in a good way). It's hard to watch--but you won't be able to take your eyes off it.
+ +
+ +
+[underline]#*How to Watch*:# +
+I don't know what to tell you. There's no way to prepare. Brace yourself as best you can and turn out the lights.
+--
+
+
+== [hide]#Bride of Frankenstein#
+[.movie]
+--
+image:posters/bride-of-frankenstein.webp[]
+[horizontal]
+.+++<h2>Bride of Frankenstein</h2>+++
+*Year:* :: 1935
+*Genre:* :: Classic Horror
+*Length:* :: 1h 15m
+*Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0026138"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;When you talk about horror films everything can be traced back to the 1930's. Horror in film did exist before then, but it was the Universal horrors of the 30's that cemented what we know as the genre today.
+ +
+ +
+&emsp;&emsp;Chief among these was the Frankenstein series. Bride of Frankenstein is the sequel to James Whale's original masterpiece. And this is one of those rare sequels that's just as good as the first.
+ +
+ +
+&emsp;&emsp;Now, a modern audience will probably see this movie as boring (and I get that). But that's because back then movies were all about evoking emotion. Watching Bride of Frankenstein now, it reads as more sad than scary. It explores the deep despairs of the human condition--that's where they derived their horror back in the day.
+ +
+ +
+&emsp;&emsp;While this movie is not particularly flashy or easy-to-watch, I strongly recommend taking a crack at it. It really is an exquisitely balanced piece of cinema that paved the way for horror as we recognize it today.
+ +
+ +
+[underline]#*How to Watch*:# +
+Take your time on this one. Bride of Frankenstein is a dense, symbolic masterpiece. It deserves your attention.
+--
+
+
+== [hide]#Let the Right One In#
+[.movie]
+--
+image:posters/let-the-right-one-in.webp[]
+[horizontal]
+.+++<h2>Let the Right One In</h2>+++
+*Year:* :: 2008
+*Genre:* :: Romance / Horror
+*Length:* :: 1h 54m
+*Brooding:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Sad:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1139797"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This year's foreign film comes to us from Sweden, the last place you'd expect to see such a beautiful and haunting vampire movie. But trust me, this one's a stunner.
+ +
+ +
+&emsp;&emsp;There's something about cold weather and the undead that just goes well together, and this movie really highlights that relationship in an unforgettable way. The quiet, cold scandanavian winter is the perfect backdrop for a delicate horror such as this one.
+ +
+ +
+&emsp;&emsp;I haven't seen this movie in quite some time. But I remember it being a strange, emotionally complex take on the vampire sub-genre. I also remember the stark and sterile imagery as absolutely breathtaking.
+ +
+ +
+&emsp;&emsp;Let the Right One In is a powerful movie that brings several unusual elements to the familiar vampire horror. This one sticks with you.
+ +
+ +
+[underline]#*How to Watch*:# +
+I'm not sure how to best watch this film. It's subtitled, so get ready for that. I'd also recommend pairing this one with a nice bottle of wine (preferably red).
+--
+
+
+== [hide]#The Devil's Advocate#
+[.movie]
+--
+image:posters/the-devils-advocate.webp[]
+[horizontal]
+.+++<h2>The Devil's Advocate</h2>+++
+*Year:* :: 1997
+*Genre:* :: Religious Horror / Courtroom Drama
+*Length:* :: 2h 24m
+*Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0118971"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;I think this movie is just cool as hell. It's such a seemingly-random pairing of genres, but at the same time it has such obvious potential per se. Add to that a masterful execution and this one just comes out great.
+ +
+ +
+&emsp;&emsp;The Devil's Advocate is not the scariest movie, or the goriest, or the kind to give you nightmares. But damn, it's powerful. It has a handful of amazing scenes that tend to linger in the back of your mind. And it explores a side of horror that very rarely gets any attention.
+ +
+ +
+&emsp;&emsp;This is another in the "Keanu Reeves does a laughably bad accent through the entire movie" series. But as usual it doesn't really hurt his performance at all. He and Al Pacino have amazing chemistry on screen, and the elaborate New York settings create a great backdrop for their shenanigans.
+ +
+ +
+&emsp;&emsp;If you like the idea of a horror movie that takes place right in the middle of a courtroom drama, The Devil's Advocate is going to be a home run. And if you're having trouble picturing that, go ahead and give it a try. You may be pleasantly surprised.
+ +
+ +
+[underline]#*How to Watch*:# +
+This one is pretty long, runtime-wise. It's something of an epic tale--so just let it run. Once you've reached the last fifteen minutes it'll all be worth it.
+--
+
+
+== [hide]#28 Days Later#
+[.movie]
+--
+image:posters/28-days-later.webp[]
+[horizontal]
+.+++<h2>28 Days Later</h2>+++
+*Year:* :: 2002
+*Genre:* :: Horror
+*Length:* :: 1h 53m
+*Zombies:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0289043"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;28 Days Later is pure horror, through and through. I'd honestly consider it to be a modern classic. Very few horror films have done so much to completely revitalize a sub-genre (in this case, zombie horror).
+ +
+ +
+&emsp;&emsp;The most notable element that distinguishes 28 Days Later would be the zombies themselves. It's one of the first movies I can remember that features the "fast zombie." This mechanic alone goes a long way in ratcheting up the tension.
+ +
+ +
+&emsp;&emsp;It also features a surprisingly cogent emotional plotline. It does a deep examination of the characters, and how their world has been torn apart by a horde of monsters. There's love and loss, trauma and fear. The whole range of emotions is explored in the disaster zone of zombie-infested London.
+ +
+ +
+&emsp;&emsp;28 Days Later is an extremely strong modern horror. It's one you've probably already seen--but not sat down and really appreciated in recent years. Give it a watch.
+ +
+ +
+[underline]#*How to Watch*:# +
+This one's easy. It's fast, engaging, and hardcore. Everything you'd expect from a modern classic.
+--
+
+
+== [hide]#The Cell#
+[.movie]
+--
+image:posters/the-cell.webp[]
+[horizontal]
+.+++<h2>The Cell</h2>+++
+*Year:* :: 2000
+*Genre:* :: Psychological Horror
+*Length:* :: 1h 47m
+*Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Visually Stunning:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0209958"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;If you've never seen it, The Cell is going to catch you way off-guard. It's so much crazier than it looks on the surface. I mean, who would think that J-Lo could carry an experimental horror? But she does (she and Vince Vaughn, of all people).
+ +
+ +
+&emsp;&emsp;This movie is batshit insane. As in, "insanity" is literally a crucial part of the premise. As such the visuals alone are spectacular--not to mention the actual content. You're going to see some wild shit.
+ +
+ +
+&emsp;&emsp;This movie has been largely forgotten, which is totally understandable. I think audiences were turned off by it and probably had trouble understanding it. It's weird as hell. It's just a shame, because this movie has some really unforgettable imagery that'll dig its way into your brain and stay there.
+ +
+ +
+&emsp;&emsp;I'd strongly reccomend this film, because there's nothing else quite like it... and if you don't watch it now you may never hear about it again.
+ +
+ +
+[underline]#*How to Watch*:# +
+Getting drunk is a gamble with The Cell. If you're a brave soul, you might try this drinking game: every time you see something ridiculous, take a sip. I promise you'll get shitfaced.
+--
+
+'''
+
+[discrete]
+== Mystery Movies
+
+
+== [hide]#Mystery Movie 1#
+[#mystery1]
+[.movie]
+--
+image:mystery/2019/mystery1.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 1</h2>+++
+*Year:* :: ???
+*Genre:* :: Body Horror
+*Length:* :: ??
+*Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Totally Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;This year's first Mystery Movie hits like a freight train. It's so weird. If you've been keeping track of the Mystery Movies over the years, you know the capacity they have to be fucking crazy. And with that being the case, this particular movie was born for the role.
+ +
+ +
+&emsp;&emsp;Mystery Movie 1 is rooted in the darkest corners of the human psyche. It deals with themes of taboo, dominance, alienation, class warfare... and yet despite this, it's actually a pretty bright movie both visually and in tone. The psychotic horror is covered throughout with a thick layer of opulence that really cuts down your defenses.
+ +
+ +
+&emsp;&emsp;This creates a brutal dissonance as you watch--it's difficult to even process what you're seeing. The depraved evil of this film comes at you with a grin, and leaves you wondering where everything went wrong. Truly a stunning work.
+ +
+ +
+[underline]#*How to Watch*:# +
+Don't watch this with your parents. Or kids. Or anyone you respect, really. This movie is a filthy delight--and not for the faint of heart.
+--
+
+[#movie1]
+[.movie]
+--
+image:posters/society.webp[]
+[horizontal]
+.+++<h2>Society</h2>+++
+*Year:* :: 1989
+*Genre:* :: Body Horror
+*Length:* :: 1h 39m
+*Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Totally Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0098354"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;It's not often you see a movie that's wholly unfamiliar. Something that makes a fever dream seem relatable. As in, you've never seen this shit before.
+ +
+ +
+&emsp;&emsp;Society is that movie. Without giving too much away, it taps into some dark psychosexual bullshit like you'd never imagine. Seriously, take care who you watch this with. It's not suitable for a delicate audience.
+ +
+ +
+&emsp;&emsp;All that said, Society has so much awesome stuff in it, goddam. I can't stress enough how CRAZY it is. And on top of all that sweet one-of-a-kind content, it's executed really well. The visual motif is paradoxically vibrant and lush, and the structure is all right on point.
+ +
+ +
+&emsp;&emsp;This movie is rated "very likely to haunt your dreams," but in sort of an ultimately mischevious way. Not quite like the next Secret Film...
+ +
+ +
+[underline]#*How to Watch*:# +
+Don't watch this with your parents. Or kids. Or anyone you respect, really. This movie is a filthy delight--and not for the faint of heart.
+--
+
+
+== [hide]#Mystery Movie 2#
+[#mystery2]
+[.movie]
+--
+image:mystery/2019/mystery2.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 2</h2>+++
+*Year:* :: ???
+*Genre:* :: Midnight Movie
+*Length:* :: ??
+*Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Cult Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;Mystery Movie 2 will FUCK you up. Seriously, be careful. I almost feel bad suggesting it... but you can probably handle it, right?
+ +
+ +
+&emsp;&emsp;This movie is what you might call an "art film". Which is a polite way to say it's unpleasant to watch. But it's not about what you see; it's about the sinister message this film whispers into your subconscious as you watch.
+ +
+ +
+&emsp;&emsp;No joke, though, this one is vile. It's designed to hurt you. And if you fail to respect it, it'll hurt you deep. Coincidentally, this is one of my all-time-favorite films.
+ +
+ +
+&emsp;&emsp;If you feel like you've got the balls to do it, you must watch this movie. It will forever re-define your very concept of cinema.
+ +
+ +
+[underline]#*How to Watch*:# +
+What's the very best way to watch this movie? Alone. Preferably in a very small, totally dark room. And if it starts getting rough with you, don't be afraid to pull the ripcord.
+--
+
+[#movie2]
+[.movie]
+--
+image:posters/eraserhead.webp[]
+[horizontal]
+.+++<h2>Eraserhead</h2>+++
+*Year:* :: 1977
+*Genre:* :: Midnight Movie
+*Length:* :: 1h 29m
+*Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Cult Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0074486"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;There's nothing I can say that would adequately prepare you for this movie. I'll go ahead and issue a formal warning now: this one's dangerous. Be careful.
+ +
+ +
+&emsp;&emsp;With that out of the way, let's get into details. Eraserhead is an infamous film. The director, David Lynch, claims that he doesn't remember making it at all. Once you're done watching it, you may have trouble remembering it yourself. It feels very much like a nightmare--one of those bad ones, the kind that leaves a feeling and not much else.
+ +
+ +
+&emsp;&emsp;Some words I'd use to describe it? Disturbing (highly). Incomprehensible (mostly). Dirty. Miserable. Gross. Let me tell you: it's something of a downer.
+ +
+ +
+&emsp;&emsp;All that said, I think there really is a case for this being one of the best movies, period. Lynch has a way of cutting down into the human condition and finding things most people are never aware of. And then, somehow, committing that shit to film. Handle with care.
+ +
+ +
+[underline]#*How to Watch*:# +
+What's the very best way to watch this movie? *Alone*. Preferably in a very small, totally dark room. And if it starts getting rough with you, don't be afraid to pull the ripcord.
+--
+
+
+== [hide]#Mystery Movie 3#
+[#mystery3]
+[.movie]
+--
+image:mystery/2019/mystery3.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 3</h2>+++
+*Year:* :: ???
+*Genre:* :: Horror Classic
+*Length:* :: ??
+*Solid:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;Compared to the other two, Mystery Movie 3 is a walk in the park. Unless you're afraid of... well, you'll see.
+ +
+ +
+&emsp;&emsp;This movie is not crazy violent, or degenerate, or even excessively scary. What it is, is solid. In filmmaking terms it's basically perfect. You've probably already seen it. It is, after all, made by one of the most influential directors of the 20th century.
+ +
+ +
+&emsp;&emsp;Mystery Movie 3 has been referenced, parodied, and homaged countless times. And that's because it's so damn good. The characters, plot, story, visuals, special effects... every element screams of quality. In terms of what you might call "mainstream" horror, this movie is near the top of the list.
+ +
+ +
+&emsp;&emsp;If you had to pick only one movie to watch during the Halloween season, this one wouldn't do you wrong.
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie watches itself. There's really no wrong way to approach it. Just get comfy and settle in for this spooky masterpiece.
+--
+
+[#movie3]
+[.movie]
+--
+image:posters/poltergeist.webp[]
+[horizontal]
+.+++<h2>Poltergeist</h2>+++
+*Year:* :: 1982
+*Genre:* :: Classic Horror
+*Length:* :: 1h 54m
+*Solid:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0084516"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;Every Terrifying Challenge needs one of those movies, the kind you might call an "absolute classic." And this year, it's Poltergeist. Without question this movie has left a strong impression on American culture; it's easy to see why.
+ +
+ +
+&emsp;&emsp;First off, it's written by Steven Spielberg. He's been involved in some of the best (and most successful) films of the 20th century--so it should come as no surprise that he could elevate a haunted house movie to the level of high art. And it's directed by Tobe Hooper, the same guy who directed Texas Chainsaw Massacre (go figure!).
+ +
+ +
+&emsp;&emsp;Poltergeist is, on its face, not exceptionally unique. In fact it's pretty straightforward. What makes it a classic are the fine details. The story is just a little bit more plausible, more fleshed out and rich, than your standard ghost movie. The special effects are generally awesome and hold up pretty well today. The acting is strong, the tone sublime, and the writing masterful. And all these little bits just add up to a powerful piece of cinema.
+ +
+ +
+&emsp;&emsp;As I said before: if you had to pick just one Halloween movie to watch, this one wouldn't be a bad choice. It's an all-around strong performer. I just hope you're not afraid of clowns...
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie watches itself. There's really no wrong way to approach it. Just get comfy and settle in for this spooky masterpiece.
+--

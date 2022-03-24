@@ -1,0 +1,457 @@
+= 2017
+:doctype: article
+:!sectids:
+:imagesdir: ./images
+
+++++
+<link type="text/css" rel="stylesheet" media="all" href="" id="theme_css" />
+++++
+
+[.text-center]
+image:gifs/demon.gif[]
+
+== Welcome!
++++<br>+++
++++<center>Enter, if you dare, into the world of <b>The Fucking Terrifying Challenge!</b></center>+++
+ +
+&emsp;&emsp;Within the hallowed halls of these interwebs rests a cinematic monstrosity umatched in the modern era! Can you withstand the onslaught? Do you have the sanity to survive? Would you willingly look into the darkness?
+ +
+ +
+&emsp;&emsp;Halloween is (obviously) the best holiday. But what if I told you it could be even *better*? All it takes is little time. The question is: *Can you do it*?
+ +
+ +
+&emsp;&emsp;The *Challenge* is simple. Pick a few movies off the list and mix them into your Halloween season. Then rank yourself on the following chart:
+ +
+ +
+[.text-center]
+image:skull.webp[,20] [underline]#*The Zombie*# image:skull.webp[,20] +
+Watch three movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Ghoul*# image:skull.webp[,20] +
+Watch six movies, then one Mystery Movie
+ +
+ +
+image:skull.webp[,20] [underline]#*The Vampire*# image:skull.webp[,20] +
+Watch nine movies, then two Mystery Movies
+ +
+ +
+image:skull.webp[,20] [underline]#*The Fiend*# image:skull.webp[,20] +
+Watch EVERY SINGLE movie on the list
+ +
+ +
+&emsp;&emsp;Below you will find the Entries for each list movie. Each entry will offer a peek into the dangers that await you. The Title of the entry links to the film's IMDB page, and the Poster will link to a stream where you can watch it. But take care; streaming websites are often loaded with spyware. The most terrifying thing of all is the internet itself! (Also some of these streams suck; you may want to try and find your own.)
+ +
+ +
+&emsp;&emsp;At the bottom of the page you will find the entries for the Mystery Movies. These films are too horrific for just any day of the month. As such, I'll be revealing them on October 28th... just in time for Halloween!!
+ +
+ +
+
+[.text-center]
+--
+++++
+<h3>And now, prepare yourself for...</h1>
+<h1>The Terrifying Challenge 2017</h1>
+<h3>...Good Luck...</h3>
+++++
+--
+
+
+== [hide]#The Evil Dead#
+[.movie]
+--
+image:posters/the-evil-dead.webp[]
+[horizontal]
+.+++<h2>The Evil Dead</h2>+++
+*Year:* :: 1981
+*Genre:* :: Cult Horror
+*Length:* :: 1h 25m
+*Visceral:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Inventive:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0083907"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;The Evil Dead is a critically important movie for many reasons, foremost of which is launching director Sam Raimi's career. It also launched a horror trilogy completely beyond comparison, one that helped dictate what horror would (and could) be. Unlike the rest of the trilogy however, The Evil Dead features no comedy--only terror. It pushed the limits of what was allowed by censors in the early 80's and is full of creative and traumatic gore. The setting is isolated and the characters few, but The Evil Dead uses this minimalism against the audience to great effect. Given a rookie director and next to no budget, The Evil Dead still shines as a master-craft horror.
+ +
+ +
+[underline]#*How to Watch*:# +
+Most of the preperation for this movie is mental. Get ready to be assaulted on all fronts--no one is safe in the world of The Evil Dead.
+--
+
+
+== [hide]#Phantasm#
+[.movie]
+--
+image:posters/phantasm.webp[]
+[horizontal]
+.+++<h2>Phantasm</h2>+++
+*Year:* :: 1979
+*Genre:* :: Cult Horror
+*Length:* :: 1h 29m
+*Campy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0079714"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This movie is hilarious, but it's also surprisingly solid. Too weird to be mainstream, Phantasm is popular with a fanbase that doesn't require a movie to be traditionally "good." Much of it is stolen, piecemeal, from other works including Stephen King's IT and Frank Herbert's novel Dune. The acting is not great, the effects are cheap-ish, and the plot is technically shitty. Yet somehow this movie is extremely likeable. It's got some unusual gore, and in fact everything that isn't copied from somewhere else is pretty damn original. The antagonist is sufficiently menacing and is a great example of a unique movie demon. All in all Phantasm is worth a watch, if only for the pleasure of busting its balls and seeing some crazy shit.
+ +
+ +
+[underline]#*How to Watch*:# +
+This one's pretty easy to watch, as it's not complex in any way. Being a little drunk helps. A fun side project is to compare this film against two others on the list: The Amityville Horror, which came out in the same year, and The Exorcist, another (much better) seventies demon movie.
+--
+
+
+== [hide]#Lost Highway#
+[.movie]
+--
+image:posters/lost-highway.webp[]
+[horizontal]
+.+++<h2>Lost Highway</h2>+++
+*Year:* :: 1997
+*Genre:* :: David Lynch
+*Length:* :: 2h 14m
+*Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Creepy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0116922"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;What can you say about a movie like Lost Highway? Only that it is a one-of-a-kind. Like all films by director David Lynch, the most important content is written between the lines. The story and visuals are a distraction meant to confound the brain while the subtext beams emotions directly into your subconscious (you'll see what I mean). There is a plot of sorts, but it's a non-linear mess of violence and intrigue that defies the viewer's attempts to follow it. As far as Lynch goes, this work is mid-tier complex, and as such has many of the same things a normal movie would. Lost Highway touts a badass soundtrack, some super-sweet titties, and plenty of fucked-up-creepy imagery among its merits--but that's only the tip of the terror iceberg.
+ +
+ +
+[underline]#*How to Watch*:# +
+You can't really plan for a movie like this. That being said, it's a long movie (at just over two hours) so don't start this one unless you really mean it. Another consideration is volume; this movie is of that type that rapidly goes from quiet to very loud without warning, so be mindful.
+--
+
+
+== [hide]#Troll 2#
+[.movie]
+--
+image:posters/troll-2.webp[]
+[horizontal]
+.+++<h2>Troll 2</h2>+++
+*Year:* :: 1990
+*Genre:* :: The Best Worst Movie Ever Made
+*Length:* :: 1h 35m
+*Terrible:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0105643"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;It's really impossible to describe Troll 2, because the more accurately you describe it the less believable it sounds. With that being said this movie really is possibly the worst movie ever made, and that's where all its merit is derived. There's nothing else quite like it. If you've just watched Videodrome or Se7en and you're in a really weird, dark place: watch this movie next. It'll cleanse your palate with its own special brand of insanity and hopelessness.
+ +
+ +
+[underline]#*How to Watch*:# +
+There's no wrong way to watch Troll 2.
+--
+
+
+== [hide]#The Amityville Horror#
+[.movie]
+--
+image:posters/the-amityville-horror.webp[]
+[horizontal]
+.+++<h2>The Amityville Horror</h2>+++
+*Year:* :: 1979
+*Genre:* :: Classic Horror
+*Length:* :: 1h 57m
+*Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0078767"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Though many movies claim to be "based on a true story," The Amityville Horror actually is (at least more than most). Whatever the cause, in 1975 a real family personally experienced many of the events depicted in the film. Loosely based on their accounts, this movie is an important piece of late-seventies cinema. It established and refined many classic horror tropes that are still being used today. Sadly, The Amityville Horror has been largely forgotten due to its relaxed 70's pace and the multitude of legendary films that came out around the same time. But it's an endearing and inspiring film that you could never make today (as evidenced by the piss-poor remake in 2005).
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie's pacing is a little dated, and things don't really get rolling until around 45 minutes in. Make sure you're not in danger of falling asleep or you might.
+--
+
+
+== [hide]#They Live#
+[.movie]
+--
+image:posters/they-live.webp[]
+[horizontal]
+.+++<h2>They Live</h2>+++
+*Year:* :: 1988
+*Genre:* :: Sci-Fi
+*Length:* :: 1h 34m
+*Rowdy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0096256"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Not strictly speaking a horror movie, They Live makes the list for a number of colorful reasons. First off, it's creepy without being scary or disturbing, leaving you with more of a subtle feeling of unease than anything. It doesn't take itself too seriously, and incorporates its own absurdity in a very casual way. It's also thoroughly masculine, featuring a professional wrestler (no, seriously) as the Gordon Freeman-esque protagonist. Finally, They Live is a powerful--if somewhat obvious--allegory for clandestine class warfare and justified paranoia that I believe every human being could benefit from seeing.
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie was made before the nineties, and accordingly it drags a bit in the beginning. But once it gets going, it becomes hilariously good. I recommend using the first thirty minutes to get good and blasted, don't overthink the plot, and think about how (if at all) this movie might reflect what's going on in the world.
+--
+
+
+== [hide]#Se7en#
+[.movie]
+--
+image:posters/se7en.webp[]
+[horizontal]
+.+++<h2>Se7en</h2>+++
+*Year:* :: 1995
+*Genre:* :: Mystery / Thriller
+*Length:* :: 2h 7m
+*Fucking Gross:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Acting:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0114369"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Another non-horror, Se7en nevertheless features some of the most horrific scenes to come out of the 90's. This movie also has an exceptional cast, with both Brad Pitt and Morgan Freeman hunting a super-secret villain (do yourself a favor, don't check the imdb on this one). Se7en was too gory and fucked up to really be a success, but it helped Brad Pitt reach an insane height of fame--and with good reason. It also left a significant impact on film culture, and has been parodied on Robot Chicken and other places that I can't remember right now (The Office?). Another forgotten gem of the nineties.
+ +
+ +
+[underline]#*How to Watch*:# +
+The most important thing--more important even than with a normal thriller--is to avoid spoilers, and it's totally worth it. Also, be prepared for some wild shit.
+--
+
+
+== [hide]#Tremors#
+[.movie]
+--
+image:posters/tremors.webp[]
+[horizontal]
+.+++<h2>Tremors</h2>+++
+*Year:* :: 1990
+*Genre:* :: Monster Movie
+*Length:* :: 1h 36m
+*Goofy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Scary:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0100814"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;This early nineties film featuring Kevin Bacon lies right at the crossroads between grisly monster horror and wacky adventure hijinks. So while there is a sense of danger and urgency, there's also an endearing rural vibe that relaxes the whole thing and allows the film a less severe pace. Tremors is great for taking a break from the gruesome terror of other entries on this list, such as The Evil Dead, or the The Exorcist. It's also the only true "Monster Movie" on this list, and has the unique benefit of that genre: a monster is something you can fight.
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie is casual as all hell. I recommend cracking open a cheap American beer (or several) and watching this one in comfort.
+--
+
+
+== [hide]#Videodrome#
+[.movie]
+--
+image:posters/videodrome.webp[]
+[horizontal]
+.+++<h2>Videodrome</h2>+++
+*Year:* :: 1983
+*Genre:* :: Body Horror
+*Length:* :: 1h 27m
+*Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Sexual:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0086541"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Videodrome is a strange, uncomfortable movie from legendary horror director David Cronenberg. Bordering on the pornographic, it's is full of dark things that a healthy mind would never dream of; you're going to see some really weird stuff. And yet, despite being filmed in the 80's, this film predicts many problems posed by the modern internet culture and expounds on them. It's a visceral mindfuck that you may have to watch a few times to fully puzzle out. Needless to say it's not for everybody, but if you can get past the insanity it's ultimately a very rewarding and unique film.
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie pairs pretty well with alcohol--I recommend taking a shot (or maybe a sip) every time you ask yourself, "what am I seeing right now?" or "who made this movie and why?" Also, not even joking, this movie frequently sounds like a weird porno. Plan accordingly.
+--
+
+
+== [hide]#The Exorcist#
+[.movie]
+--
+image:posters/the-exorcist.webp[]
+[horizontal]
+.+++<h2>The Exorcist</h2>+++
+*Year:* :: 1973
+*Genre:* :: Classic Horror
+*Length:* :: 2h 2m
+*Fucked Up:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0070047"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;The Exorcist is arguably the most iconic horror movie ever filmed. To this day (FORTY YEARS LATER) if you put the word "exorcist" in your movie's title, you'll make a stupid amount of money regardless of said movie's content or quality. This is largely because The Exorcist scared whole generations of people shitless. It was easily ten years ahead of its time, set the standard for excellence in a number of horror subgenres, and helped establish the 1970's as one of cinema's strongest decades. Rarely has horror been risen to such a level of art. If you haven't seen it, watch it, because you're really missing out.
+ +
+ +
+[underline]#*How to Watch*:# +
+Ok, so yes it's slow. All movies from this time period are, but this one is especially so. It's meant to be a creeping, building horror. I think one could argue it never really gets "exciting" but that's not really what it was going for. Just hang on through the first half and you'll be golden. Watch sober, preferably alone, in perfect darkness.
+--
+
+
+== [hide]#Horror of Dracula#
+[.movie]
+--
+image:posters/horror-of-dracula.webp[]
+[horizontal]
+.+++<h2>Horror of Dracula</h2>+++
+*Year:* :: 1958
+*Genre:* :: Classic Horror
+*Length:* :: 1h 22m
+*Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Faithful Adaptation:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0051554"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;When most people think of Dracula, they picture the black-and-white Bella Lugosi Dracula of Paramount Pictures. The Horror of Dracula (1958) is a slightly more modern re-telling of the classic Bram Stoker novel. Made in Great Britain by Hammer Films, The Horror of Dracula features a very young Christopher Lee as the eponymous character and Peter Cushing as Dr. Van Helsing. This movie is an historically important one as it represents a transitionary period between the fifties and sixties, making early use of techniques such as neon-red blood and dynamic fight scenes. In fact, I would argue that many modern vampire movies draw their imagery largely from standards set in this Dracula's gruesome example.
+ +
+ +
+[underline]#*How to Watch*:# +
+Oh man but this movie is boring, and I'll be the first one to say it. The purpose it serves is more of a piece of history than an actual scary movie. Just look at how young Saruman is, it's adorable! It's worth a watch for the hardcore horror enthusiast, but set your expectations accordingly.
+--
+
+
+== [hide]#Donnie Darko#
+[.movie]
+--
+image:posters/donnie-darko.webp[]
+[horizontal]
+.+++<h2>Donnie Darko</h2>+++
+*Year:* :: 2001
+*Genre:* :: Cult Psychological Thriller
+*Length:* :: 1h 53m
+*Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Mindfuck:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0246578"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;Less a scary movie and more a Halloween movie, Donnie Darko still manages to be dark and brooding in a very unsettling way. The innocent setting of 1980's suburbia belies a weird evil lurking just under the surface, with electric pop ballads providing a strange background for the creepy supernatural happenings. There's some great spooky imagery, but it's well balanced with comic relief and good storytelling. This movie also features an illustrious cast: Jake and Maggie Gyllenhaal, Patrick Swayze, Drew Barrymore, and a comically young Seth Rogen all contribute to a pensive theme of impending disaster.
+ +
+ +
+[underline]#*How to Watch*:# +
+Donnie Darko is super watchable due to the good pacing and awesome production. I recommend the director's cut, as it's much easier to follow the story in that one.
+--
+
+
+== [hide]#Suspiria#
+[.movie]
+--
+image:posters/suspiria.webp[]
+[horizontal]
+.+++<h2>Suspiria</h2>+++
+*Year:* :: 1977
+*Genre:* :: Cult/Classic Horror
+*Length:* :: 1h 32m
+*Beautiful:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*"Oh Shit!":* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0076786"] :: +++&nbsp+++
+
++++<br>+++
+&emsp;&emsp;If I can trick even one person into watching this movie, the purpose of this list will be fulfilled. Suspiria is the secret italian horror masterpiece only the most hardcore motherfuckers have ever heard of. Set in a ballet academy somewhere in Europe, the baroque color saturation alone will completely overload your senses. Add in brilliant cinematography, a fucking loud and unnerving soundtrack and some over-the-top gruesome death scenes and you'll be thoroughly rattled. Not to mention it's the single best example of a specific and well known (but way under-utilised) horror premise. This is terror like you've never seen it.
+ +
+ +
+[underline]#*How to Watch*:# +
+This movie hits the ground running, deliberately scaring your shit within the first ten minutes. The old quiet/LOUD game applies here big time, and you might even want to watch it with headphones. Finally, this is the only movie I forbid you to stream; if you're not watching it in perfect HD, then you're not really watching it. "Buy" that shit or come to the screening--because I will definitely be screening this one.
+--
+
+
+'''
+
+
+[discrete]
+== Mystery Movies
+
+== [hide]#Mystery Movie 1#
+[#mystery1]
+[.movie]
+--
+image:mystery/2017/mystery1.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 1</h2>+++
+*Year:* :: ????
+*Genre:* :: Cult/Classic Horror
+*Length:* :: ????
+*Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Infamous:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;Everyone has heard of this movie, but it seems like most people refuse to watch it. I understand the hesitance; the rumors are true (more or less). What most people don't realize--because they've never seen it--is that this movie is a horror masterpiece. It's vile, visceral, and completely terrorizing. But more than that, it's a technical powerhouse on all fronts that any cinema enthusiast should have seen multiple times. This is some dark magic, here.
+--
+
+[#movie1]
+[.movie]
+--
+image:posters/the-texas-chainsaw-massacre.webp[]
+[horizontal]
+.+++<h2>The Texas Chainsaw Massacre</h2>+++
+*Year:* :: 1974
+*Genre:* :: Cult/Classic Horror
+*Length:* :: 1h 23m
+*Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Infamous:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0072271"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;Everyone has heard of this movie, but it seems like most people refuse to watch it. I understand the hesitance; the rumors are true (more or less). What most people don't realize--because they've never seen it--is that this movie is a horror masterpiece. It's vile, visceral, and completely terrorizing. But more than that, it's a technical powerhouse on all fronts that any cinema enthusiast should have seen multiple times. This is some dark magic, here.
+--
+
+
+== [hide]#Mystery Movie 2#
+[#mystery2]
+[.movie]
+--
+image:mystery/2017/mystery2.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 2</h2>+++
+*Year:* :: ????
+*Genre:* :: Psychological Horror
+*Length:* :: ????
+*Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;I don't think any living human has ever seen this movie except for me. This is understandable, because it's genuinely terrifying (dead serious). It's a sixties horror that reads like a thirties horror, has religious and politcal significance, and uses some really messed-up visual techniques to get inside your head. Sure, it's an arthouse film and therefore kind of dry and boring. But if you can buckle down, maybe drink a little (or a lot), and bear through the madness, you'll find shit in this movie that you'll NEVER forget.
+--
+
+[#movie2]
+[.movie]
+--
+image:posters/repulsion.webp[]
+[horizontal]
+.+++<h2>Repulsion</h2>+++
+*Year:* :: 1965
+*Genre:* :: Psychological Horror
+*Length:* :: 1h 45m
+*Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0059646"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;I don't think any living human has ever seen this movie except for me. This is understandable, because it's genuinely terrifying (dead serious). It's a sixties horror that reads like a thirties horror, has religious and politcal significance, and uses some really messed-up visual techniques to get inside your head. Sure, it's an arthouse film and therefore kind of dry and boring. But if you can buckle down, maybe drink a little (or a lot), and bear through the madness, you'll find shit in this movie that you'll NEVER forget.
+--
+
+
+== [hide]#Mystery Movie 3#
+[#mystery3]
+[.movie]
+--
+image:mystery/2017/mystery3.webp[]
+[horizontal]
+.+++<h2>Mystery Movie 3</h2>+++
+*Year:* :: ????
+*Genre:* :: Comedy/Cult Horror
+*Length:* :: ????
+*Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+
++++<br>+++
+&emsp;&emsp;Oh man, this movie. This is what would happen if Evil Dead II and Re-Animator had a contest to see who could make the other puke. In addition to being the goriest thing I have ever seen, this film is also retardedly funny. Directed by a pretty famous guy whose works you've definitely seen before, this gem is truly a one-of-a-kind. Everyone should know this movie, and I can't wait for more people to see it.
+--
+
+[#movie3]
+[.movie]
+--
+image:posters/dead-alive.webp[]
+[horizontal]
+.+++<h2>Braindead (Dead Alive)</h2>+++
+*Year:* :: 1992
+*Genre:* :: Comedy/Cult Horror
+*Length:* :: 1h 44m
+*Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+*Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
+image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0103873"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+
++++<br>+++
+&emsp;&emsp;Oh man, this movie. This is what would happen if Evil Dead II and Re-Animator had a contest to see who could make the other puke. In addition to being the goriest thing I have ever seen, this film is also retardedly funny. Directed by a pretty famous guy whose works you've definitely seen before, this gem is truly a one-of-a-kind. Everyone should know this movie, and I can't wait for more people to see it.
+--

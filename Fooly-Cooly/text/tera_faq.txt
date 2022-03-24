@@ -1,0 +1,23 @@
+= Q: 'The suggested rolls gave me too much crit, what should I do?'
+: A: 'Without going below crit-cap, morph an accessory to power or replace crit rolls with a lower priority power roll.'
+
+= Q: 'How do I morph accessories?'
+: A: 'Magic Material merchants sell "Uncommon Accessory Morpher"s for 10k gold. Right click to use.
+
+= Q: 'Where do I get upgrade materials for Radiant Accessories?'
+: A: 'All dungeons above RK9 drop Luminous Mana Essence, which can be exchanged for required matierals by right clicking them.'
+
+= Q: 'Where do I get blue Relics & Halidoms?'
+: A: 'Intel Reports, Naslow Maps, Caiman Portals, Veliks Dream(Story Quest) and Akalath Quarantine(Dungeon)'
+
+= Q: 'Where do I get etchings?'
+: A: 'Trade Broker, Crafting or World Boss Farming'
+
+= Q: 'How much power should I have?'
+: A: 'There is no power cap unlike crit. Aim for 300+ power. You won't reach that easily without stat balancing.'
+
+= Q: 'How much amplification should I have?'
+: A: 'For the most part, amplification is outside your control. Vast majority will come from enchanting your gear.'
+
+= Q: 'I see gear that has amplification rolls, should I get that?'
+: A: 'Amplification isn't the best roll for most classes. Please check above class table & class discords for recommendations.'
