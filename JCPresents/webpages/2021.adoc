@@ -52,7 +52,7 @@ image:posters/drag-me-to-hell.webp[]
 *Length:* :: 1h 39m
 *Intense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Zany:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1127180"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt1127180"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;As always, this year's 5th anniversary Challenge hits the ground running with a modern classic: Drag Me to Hell. If you're looking for a fun, solid horror that's the perfect blend of casual and relentless--this is the one.
@@ -80,7 +80,7 @@ image:posters/it-follows.webp[]
 *Length:* :: 1h 40m
 *Calm:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Creepy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt3235888"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt3235888"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Man, I love this movie. It's got the chill sensibilities of a 70s horror and the slick, focused spookiness of a modern horror. It Follows is an artist's vision and a breath of fresh air.
@@ -108,7 +108,7 @@ image:posters/an-american-werewolf-in-london.webp[]
 *Length:* :: 1h 37m
 *Violence:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Practical Effects:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0082010"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0082010"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Believe it or not this is the Challenge's very first werewolf movie, and it's a fairly unique take on that trope. You see this one listed as a horror-comedy, but the humor is subtle enough that it plays just fine as a straight horror. As funny as it is, American Werewolf isn't afraid to get vicious on you.
@@ -136,7 +136,7 @@ image:posters/the-blob.webp[]
 *Length:* :: 1h 35m
 *Gross:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Great Remake:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0094761"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0094761"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Every now and then I put a movie on the list that I haven't seen yet, and the 1988 remake of the horror classic The Blob is one such movie. Everything about it leads me to believe that it's a hidden gem--and I'm psyched to watch it with you this year.
@@ -164,7 +164,7 @@ image:posters/cape-fear.webp[]
 *Length:* :: 2h 8m
 *Tense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Great Remake:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0101540"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0101540"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Did you know that in the 90s, Martin Scorsese made a Hitchcock movie, that was also a remake of a non-Hitchcock movie? It's called Cape Fear and it's fucking  nuts.
@@ -192,7 +192,7 @@ image:posters/in-the-mouth-of-madness.webp[]
 *Length:* :: 1h 35m
 *Mindfuck:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cosmic Horror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0113409"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0113409"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;We've had a good handful of so-called "Lovecraftian" horrors on the list over the years, a few of which have been direct adaptations. But this one is near the top in terms of enjoyability: In the Mouth of Madness really captures the spirit of Lovecraft in a way that's both fun and modern. Can't recommend it enough.
@@ -220,7 +220,7 @@ image:posters/ringu.webp[]
 *Length:* :: 1h 35m
 *Slow Burn:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0235133"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0235133"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;American audiences are familiar with our version of The Ring, made back in 2002. But the original Japanese version, Ringu, is my favorite of the two. Talk about a spooky-ass movie.
@@ -248,7 +248,7 @@ image:posters/petey-wheatstraw.webp[]
 *Length:* :: 1h 34m
 *Comical:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Bizarre:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0078078"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0078078"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Alright, hear me out. This movie is about a folk-hero paladin in the 70s who makes a deal with the devil. It's also a brilliant satire made by visionary independent filmmaker Rudy Ray Moore. It's also a raunchy blaxploitation B-movie. And, it's also got everything you could want in a movie: constant comedy, high drama, karate fight scenes and a strong dash of horror for flavor.
@@ -276,7 +276,7 @@ image:posters/day-of-the-dead.webp[]
 *Length:* :: 1h 41m
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Dismal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0088993"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0088993"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;And with this, the second full trilogy on the Terrifying Challenge comes to a close. It's one of George Romero's great masterpieces: the horrible, grisly, bleak-ass Day of the Dead.
@@ -304,7 +304,7 @@ image:posters/insidious.webp[]
 *Length:* :: 1h 43m
 *Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cool Concept:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1591095"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt1591095"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Right around the same time that this list is coming out, director James Wan put out a movie called Malignant. If you haven't seen it, I highly recommend it, it's a genuine masterpiece. But we're not watching that for this year's list--instead we're going to watch an earlier James Wan film, Insidious.  
@@ -332,7 +332,7 @@ image:posters/beyond-the-black-rainbow.webp[]
 *Length:* :: 1h 50m
 *Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1534085"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt1534085"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This one is something else. From Panos Cosmatos, director of Mandy, comes another nightmarish film that's visually gorgeous but very hard to describe. It's slow, and brutal to watch, and I wouldn't recommend it to everyone. But I am going to recommend it to you.
@@ -360,7 +360,7 @@ image:posters/this-night-ill-possess-your-corpse.webp[]
 *Length:* :: 1h 48m
 *Demented:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0060380"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0060380"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This Night I'll Possess Your Corpse is one of my all-time favorite movies. It's also probably the most challenging of the Challenge movies this year. It is truly a bizarre film.
@@ -388,7 +388,7 @@ image:posters/candyman.webp[]
 *Length:* :: 1h 39m
 *Hardcore:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0103919"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0103919"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;And to round out the list proper this year, we have another brutal and unpleasant film: Candyman. It's a masterfully-made horror movie from beginning to end, with lots of little surprises along the way. Can't think of a better way to lead into Halloween.
@@ -450,7 +450,7 @@ image:posters/phenomena.webp[]
 *Length:* :: 1h 56m
 *High Strangeness:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0087909"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0087909"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;From the visionary director of Suspiria comes our third foreign film this year: a weird and wild one called Phenomena. This is one of those rare works that's truly unique. It has recognizable elements from a handful of other genres--but in the end, Phenomena plays by its own set of rules.
@@ -506,7 +506,7 @@ image:posters/the-terminator.webp[]
 *Length:* :: 1h 47m
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0088247"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0088247"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Talk about a movie that kicks ass. Yet another perfect union of sci-fi and horror, The Terminator has so much great stuff to offer--not the least of which is a shitload of action. This one's going to be a fun watch.
@@ -562,7 +562,7 @@ image:posters/the-witch.webp[]
 *Length:* :: 1h 32m
 *Masterpiece:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt4263482"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4263482"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Get ready, because this year's Terrifying Challenge ends with something special. The Witch draws you into a dark and super-spooky world where no one can be trusted. Every frame is just so goddam creepy; from start to finish, it never lets up.

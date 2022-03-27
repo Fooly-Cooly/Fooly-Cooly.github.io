@@ -68,7 +68,7 @@ image:posters/the-evil-dead.webp[]
 *Length:* :: 1h 25m
 *Visceral:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Inventive:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0083907"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0083907"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The Evil Dead is a critically important movie for many reasons, foremost of which is launching director Sam Raimi's career. It also launched a horror trilogy completely beyond comparison, one that helped dictate what horror would (and could) be. Unlike the rest of the trilogy however, The Evil Dead features no comedy--only terror. It pushed the limits of what was allowed by censors in the early 80's and is full of creative and traumatic gore. The setting is isolated and the characters few, but The Evil Dead uses this minimalism against the audience to great effect. Given a rookie director and next to no budget, The Evil Dead still shines as a master-craft horror.
@@ -90,7 +90,7 @@ image:posters/phantasm.webp[]
 *Length:* :: 1h 29m
 *Campy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0079714"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0079714"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This movie is hilarious, but it's also surprisingly solid. Too weird to be mainstream, Phantasm is popular with a fanbase that doesn't require a movie to be traditionally "good." Much of it is stolen, piecemeal, from other works including Stephen King's IT and Frank Herbert's novel Dune. The acting is not great, the effects are cheap-ish, and the plot is technically shitty. Yet somehow this movie is extremely likeable. It's got some unusual gore, and in fact everything that isn't copied from somewhere else is pretty damn original. The antagonist is sufficiently menacing and is a great example of a unique movie demon. All in all Phantasm is worth a watch, if only for the pleasure of busting its balls and seeing some crazy shit.
@@ -112,7 +112,7 @@ image:posters/lost-highway.webp[]
 *Length:* :: 2h 14m
 *Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Creepy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0116922"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0116922"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;What can you say about a movie like Lost Highway? Only that it is a one-of-a-kind. Like all films by director David Lynch, the most important content is written between the lines. The story and visuals are a distraction meant to confound the brain while the subtext beams emotions directly into your subconscious (you'll see what I mean). There is a plot of sorts, but it's a non-linear mess of violence and intrigue that defies the viewer's attempts to follow it. As far as Lynch goes, this work is mid-tier complex, and as such has many of the same things a normal movie would. Lost Highway touts a badass soundtrack, some super-sweet titties, and plenty of fucked-up-creepy imagery among its merits--but that's only the tip of the terror iceberg.
@@ -134,7 +134,7 @@ image:posters/troll-2.webp[]
 *Length:* :: 1h 35m
 *Terrible:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0105643"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0105643"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;It's really impossible to describe Troll 2, because the more accurately you describe it the less believable it sounds. With that being said this movie really is possibly the worst movie ever made, and that's where all its merit is derived. There's nothing else quite like it. If you've just watched Videodrome or Se7en and you're in a really weird, dark place: watch this movie next. It'll cleanse your palate with its own special brand of insanity and hopelessness.
@@ -156,7 +156,7 @@ image:posters/the-amityville-horror.webp[]
 *Length:* :: 1h 57m
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0078767"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0078767"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Though many movies claim to be "based on a true story," The Amityville Horror actually is (at least more than most). Whatever the cause, in 1975 a real family personally experienced many of the events depicted in the film. Loosely based on their accounts, this movie is an important piece of late-seventies cinema. It established and refined many classic horror tropes that are still being used today. Sadly, The Amityville Horror has been largely forgotten due to its relaxed 70's pace and the multitude of legendary films that came out around the same time. But it's an endearing and inspiring film that you could never make today (as evidenced by the piss-poor remake in 2005).
@@ -178,7 +178,7 @@ image:posters/they-live.webp[]
 *Length:* :: 1h 34m
 *Rowdy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0096256"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0096256"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Not strictly speaking a horror movie, They Live makes the list for a number of colorful reasons. First off, it's creepy without being scary or disturbing, leaving you with more of a subtle feeling of unease than anything. It doesn't take itself too seriously, and incorporates its own absurdity in a very casual way. It's also thoroughly masculine, featuring a professional wrestler (no, seriously) as the Gordon Freeman-esque protagonist. Finally, They Live is a powerful--if somewhat obvious--allegory for clandestine class warfare and justified paranoia that I believe every human being could benefit from seeing.
@@ -200,7 +200,7 @@ image:posters/se7en.webp[]
 *Length:* :: 2h 7m
 *Fucking Gross:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Acting:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0114369"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0114369"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Another non-horror, Se7en nevertheless features some of the most horrific scenes to come out of the 90's. This movie also has an exceptional cast, with both Brad Pitt and Morgan Freeman hunting a super-secret villain (do yourself a favor, don't check the imdb on this one). Se7en was too gory and fucked up to really be a success, but it helped Brad Pitt reach an insane height of fame--and with good reason. It also left a significant impact on film culture, and has been parodied on Robot Chicken and other places that I can't remember right now (The Office?). Another forgotten gem of the nineties.
@@ -222,7 +222,7 @@ image:posters/tremors.webp[]
 *Length:* :: 1h 36m
 *Goofy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Scary:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0100814"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0100814"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This early nineties film featuring Kevin Bacon lies right at the crossroads between grisly monster horror and wacky adventure hijinks. So while there is a sense of danger and urgency, there's also an endearing rural vibe that relaxes the whole thing and allows the film a less severe pace. Tremors is great for taking a break from the gruesome terror of other entries on this list, such as The Evil Dead, or the The Exorcist. It's also the only true "Monster Movie" on this list, and has the unique benefit of that genre: a monster is something you can fight.
@@ -244,7 +244,7 @@ image:posters/videodrome.webp[]
 *Length:* :: 1h 27m
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Sexual:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0086541"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0086541"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Videodrome is a strange, uncomfortable movie from legendary horror director David Cronenberg. Bordering on the pornographic, it's is full of dark things that a healthy mind would never dream of; you're going to see some really weird stuff. And yet, despite being filmed in the 80's, this film predicts many problems posed by the modern internet culture and expounds on them. It's a visceral mindfuck that you may have to watch a few times to fully puzzle out. Needless to say it's not for everybody, but if you can get past the insanity it's ultimately a very rewarding and unique film.
@@ -266,7 +266,7 @@ image:posters/the-exorcist.webp[]
 *Length:* :: 2h 2m
 *Fucked Up:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0070047"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0070047"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The Exorcist is arguably the most iconic horror movie ever filmed. To this day (FORTY YEARS LATER) if you put the word "exorcist" in your movie's title, you'll make a stupid amount of money regardless of said movie's content or quality. This is largely because The Exorcist scared whole generations of people shitless. It was easily ten years ahead of its time, set the standard for excellence in a number of horror subgenres, and helped establish the 1970's as one of cinema's strongest decades. Rarely has horror been risen to such a level of art. If you haven't seen it, watch it, because you're really missing out.
@@ -288,7 +288,7 @@ image:posters/horror-of-dracula.webp[]
 *Length:* :: 1h 22m
 *Slow:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Faithful Adaptation:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0051554"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0051554"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;When most people think of Dracula, they picture the black-and-white Bella Lugosi Dracula of Paramount Pictures. The Horror of Dracula (1958) is a slightly more modern re-telling of the classic Bram Stoker novel. Made in Great Britain by Hammer Films, The Horror of Dracula features a very young Christopher Lee as the eponymous character and Peter Cushing as Dr. Van Helsing. This movie is an historically important one as it represents a transitionary period between the fifties and sixties, making early use of techniques such as neon-red blood and dynamic fight scenes. In fact, I would argue that many modern vampire movies draw their imagery largely from standards set in this Dracula's gruesome example.
@@ -310,7 +310,7 @@ image:posters/donnie-darko.webp[]
 *Length:* :: 1h 53m
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Mindfuck:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0246578"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0246578"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Less a scary movie and more a Halloween movie, Donnie Darko still manages to be dark and brooding in a very unsettling way. The innocent setting of 1980's suburbia belies a weird evil lurking just under the surface, with electric pop ballads providing a strange background for the creepy supernatural happenings. There's some great spooky imagery, but it's well balanced with comic relief and good storytelling. This movie also features an illustrious cast: Jake and Maggie Gyllenhaal, Patrick Swayze, Drew Barrymore, and a comically young Seth Rogen all contribute to a pensive theme of impending disaster.
@@ -332,7 +332,7 @@ image:posters/suspiria.webp[]
 *Length:* :: 1h 32m
 *Beautiful:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *"Oh Shit!":* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0076786"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0076786"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;If I can trick even one person into watching this movie, the purpose of this list will be fulfilled. Suspiria is the secret italian horror masterpiece only the most hardcore motherfuckers have ever heard of. Set in a ballet academy somewhere in Europe, the baroque color saturation alone will completely overload your senses. Add in brilliant cinematography, a fucking loud and unnerving soundtrack and some over-the-top gruesome death scenes and you'll be thoroughly rattled. Not to mention it's the single best example of a specific and well known (but way under-utilised) horror premise. This is terror like you've never seen it.
@@ -378,7 +378,7 @@ image:posters/the-texas-chainsaw-massacre.webp[]
 *Length:* :: 1h 23m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Infamous:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0072271"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0072271"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Everyone has heard of this movie, but it seems like most people refuse to watch it. I understand the hesitance; the rumors are true (more or less). What most people don't realize--because they've never seen it--is that this movie is a horror masterpiece. It's vile, visceral, and completely terrorizing. But more than that, it's a technical powerhouse on all fronts that any cinema enthusiast should have seen multiple times. This is some dark magic, here.
@@ -414,7 +414,7 @@ image:posters/repulsion.webp[]
 *Length:* :: 1h 45m
 *Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0059646"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0059646"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;I don't think any living human has ever seen this movie except for me. This is understandable, because it's genuinely terrifying (dead serious). It's a sixties horror that reads like a thirties horror, has religious and politcal significance, and uses some really messed-up visual techniques to get inside your head. Sure, it's an arthouse film and therefore kind of dry and boring. But if you can buckle down, maybe drink a little (or a lot), and bear through the madness, you'll find shit in this movie that you'll NEVER forget.
@@ -450,7 +450,7 @@ image:posters/dead-alive.webp[]
 *Length:* :: 1h 44m
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0103873"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0103873"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Oh man, this movie. This is what would happen if Evil Dead II and Re-Animator had a contest to see who could make the other puke. In addition to being the goriest thing I have ever seen, this film is also retardedly funny. Directed by a pretty famous guy whose works you've definitely seen before, this gem is truly a one-of-a-kind. Everyone should know this movie, and I can't wait for more people to see it.

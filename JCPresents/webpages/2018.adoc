@@ -68,7 +68,7 @@ image:posters/evil-dead-2.webp[]
 *Length:* :: 1h 24m
 *Comedy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cinema:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0092991/"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0092991/"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This year the list starts off with one of the best damn movies ever made. After making the original Evil Dead, a master-class in horror, director Sam Raimi set his sights on a sequel--or rather, the beginning of a trilogy. But he decided to take the second film in a different direction.
@@ -93,7 +93,7 @@ image:posters/blue-velvet.webp[]
 *Length:* :: 2h 0m
 *Suspense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Fucked Up:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0090756"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0090756"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Blue Velvet is truly an unforgettable movie. While it's not strictly speaking a horror film, the first five minutes will make obvious the sinister tone of this thrilling mystery. Director David Lynch has a long history of dark, weird, traumatic filmmaking and Blue Velvet is a top-teir example.
@@ -121,7 +121,7 @@ image:posters/1408.webp[]
 *Length:* :: 1h 44m
 *Traumatic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Heavy-Handed:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0450385"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0450385"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The first "Hotel Horror" on this year's list, 1408 is a constant assault on the senses.
@@ -149,7 +149,7 @@ image:posters/shaun-of-the-dead.webp[]
 *Length:* :: 1h 39m
 *Comedy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Originality:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0365748"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0365748"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The Zombie film is an ancient horror trope, first engineered in the late sixties with the seminal Night of the Living Dead. Since then, there have been countless zombie movies made of all different sorts. Given how embedded such films are in modern western culture, it's no surprise that numerous parodies have been made over the years.
@@ -174,7 +174,7 @@ image:posters/the-host.webp[]
 *Length:* :: 2h 0m
 *Korean:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0468492"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0468492"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The Host is an interesting piece. Made in 2006, this Korean film adheres faithfully to the traditional moster movie formula. Not too gory, not too brutal, but still full of action and danger.
@@ -199,7 +199,7 @@ image:posters/the-shining.webp[]
 *Length:* :: 2h 26m
 *Perfect:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0081505"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0081505"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;When you talk about cinema, there's one name that can't be ignored: Stanley Kubrick. Truly, as a director, Kubrick is one of the best there ever was. And luckily for us, one of his best movies is a stunning horror. An adaptation of the Stephen King novel by the same name, this movie is arguably the best adaptation ever made.
@@ -224,7 +224,7 @@ image:posters/the-people-under-the-stairs.webp[]
 *Length:* :: 1h 42m
 *Horrific:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Zany:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0105121"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0105121"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This movie is a wild ride. I'm not generally a fan of Wes Craven's work, but there's something different about this one. It's wild and chaotic and really just all over the place.
@@ -252,7 +252,7 @@ image:posters/funny-games.webp[]
 *Length:* :: 1h 51m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Unpleasant:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0808279"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0808279"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Funny Games is not the kind of movie you enjoy. You'd have to be a pretty sick fucker to take any real pleasure from this one. It's non-stop, absolute brutality from beginning to end.
@@ -283,7 +283,7 @@ image:posters/dr-jekyll-and-mr-hyde.webp[]
 *Length:* :: 1h 38m
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0022835"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0022835"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;I realize that this one is a tough sell. After you've seen Texas Chainsaw Massacre or The Exorcist it's pretty hard to go back. Made in the 30's alongside such classics as Frankenstein and Dracula, Dr. Jekyll and Mr. Hyde still manages to stand out as an excellent retelling of a horror classic.
@@ -311,7 +311,7 @@ image:posters/bram-stokers-dracula.webp[]
 *Length:* :: 2h 8m
 *Star Power:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Good Adaptation:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0103874"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0103874"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Bram Stoker's Dracula is a modern adaptation of the classic novel by the same name. A 90's golden-era movie, this Dracula is a lot easier to watch than the Bela Lugosi version of the 1930's.
@@ -342,7 +342,7 @@ image:posters/the-silence-of-the-lambs.webp[]
 *Length:* :: 1h 58m
 *Suspense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Graphic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0102926"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0102926"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;What can you say about a movie like this? It's certainly one of the more influential films in recent history. Everybody's heard of it, and probably knows a few quotes. And when you watch it, you'll see that its reputation is fully justified.
@@ -370,7 +370,7 @@ image:posters/the-fly.webp[]
 *Length:* :: 1h 36m
 *Gross:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Jeff Goldblum:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0091064"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0091064"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Horror and Sci-Fi have a long history together. It could be argued that, at the time of its writing, Frankenstein was part sci-fi. And if there's anybody who understands that relationship, it's director David Cronenberg.
@@ -397,7 +397,7 @@ image:posters/the-rocky-horror-picture-show.webp[]
 *Length:* :: 1h 40m
 *Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Musical:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0073629"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0073629"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Few movies have such a devoted fanbase as Rocky Horror, and it's easy to see why. This movie is part comedy, part horror, part musical, and all insanity.
@@ -456,7 +456,7 @@ image:posters/the-thing.webp[]
 *Length:* :: 1h 49m
 *Gruesome:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Practical Effects:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0084787"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084787"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Strap in for this one. The Thing runs like a fever dream. It has just about every human fear you can name: isolation, imprisonment, the unknown, the uncanny, violent death, and more. It's a detailed view into the human psyche, visualized in a fashion that's only just barely recognizable.
@@ -509,7 +509,7 @@ image:posters/dawn-of-the-dead.webp[]
 *Length:* :: 2h 7m
 *Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0077402"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0077402"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;This movie is part of a film legacy. It's the second (I think) in a long series of movies that we're all familiar with. Hell, they still make them today. In fact, this very movie was re-made recently, and even it was pretty good.
@@ -565,7 +565,7 @@ image:posters/re-animator.webp[]
 *Length:* :: 1h 44m
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Secretly Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0089885"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089885"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Re-Animator is probably one of my favorite movies, top ten easy. It's a distillation of forty years of horror, both reverant of the past and ahead of its time. If you haven't seen it, this movie is going to blow your tits off.

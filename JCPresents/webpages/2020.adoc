@@ -68,7 +68,7 @@ image:posters/blade.webp[]
 *Length:* :: 2h
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Good Movie:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0120611"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0120611"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;If you're looking for a horror film that absolutely kicks ass, Blade is the way to go. We're starting the list off with a bang this year.
@@ -96,7 +96,7 @@ image:posters/the-blair-witch-project.webp[]
 *Length:* :: 1h 21m
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0185937"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0185937"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This is a movie that's very close to my heart. Not only is it a great film, but it's loosely based on an old Tennessee legend that took place not that far from where I grew up. And I'd bet it's been awhile since you've last seen it, so here it is: The Blair Witch Project.
@@ -124,7 +124,7 @@ image:posters/saw.webp[]
 *Length:* :: 1h 43m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *High-Concept:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0387564"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0387564"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Saw is one of those movies--the kind that has a tendency to stick with you. Even years later, I've got a few scenes from this movie I can remember with crystal clarity. It's probably why this movie has like a billion sequels (but don't watch any of them, except maybe the second one).
@@ -152,7 +152,7 @@ image:posters/from-dusk-till-dawn.webp[]
 *Length:* :: 1h 48m
 *Tarantino:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0116367"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0116367"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Quick: name a horror movie that drips with the influence of Quentin Tarantino. Also, one that literally has Tarantino in it. And one that starts as a weird-ass crime drama or something and suddenly devolves into a guns-blazing action/horror.
@@ -180,7 +180,7 @@ image:posters/altered-states.webp[]
 *Length:* :: 1h 42m
 *Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Trippy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0080360"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0080360"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Goddam I love this movie. It really fires on all cylinders for me--and I hope you'll see the same magic in it that I do. I'm really not even sure how to describe it... but allow me give it a try.
@@ -208,7 +208,7 @@ image:posters/from-beyond.webp[]
 *Length:* :: 1h 25m
 *Horrific:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Fucking Nuts:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0091083"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0091083"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;I'm pretty excited to debut this movie, because this is a new acquisition for me. And it's got a legacy behind it that makes me question why I'd never heard of it before this year.
@@ -236,7 +236,7 @@ image:posters/house.webp[]
 *Length:* :: 1h 33m
 *Wacky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Horror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0091223"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0091223"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;House is goofy as hell, but in a good way. It's that rare comedy/horror that takes itself seriously, and yet still manages to be hilarious at the same time.
@@ -264,7 +264,7 @@ image:posters/battle-royale.webp[]
 *Length:* :: 1h 54m
 *Insane:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Fucked Up:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0266308"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0266308"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Okay, so, this is one of those movies that doesn't really count as horror. I mean, it's horrific as fuck. But technically this is more of an action film. And boy, is it something else.
@@ -292,7 +292,7 @@ image:posters/night-of-the-living-dead.webp[]
 *Length:* :: 1h 36m
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0063350"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0063350"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Now here's a movie whose reputation precedes it--and that reputation is deserved. Night of the Living Dead is one of those legendary horrors that spawned not only a genre, but a full-blown trope.
@@ -320,7 +320,7 @@ image:posters/creepshow.webp[]
 *Length:* :: 2h
 *Goofy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Visual Appeal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0083767"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0083767"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Creepshow is a weird piece. Based on some sort of pulp comics that I've never heard of, Creepshow does some very interesting things. The most notable element would be the visual effects, which are very distinct and impressively done. Then of course, there's the acting talent. Some of the actors in this movie include: Leslie Nielsen, Ted Danson, Stephen King(!), Ed Harris, and more. It's wild stuff.
@@ -345,7 +345,7 @@ image:posters/the-exorcist-iii.webp[]
 *Length:* :: 1h 50m
 *Cinema:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Awesome Sequel:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0099528"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0099528"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;If you've been following the list since the beginning, you'll remember that the original The Exorcist was on the first year's list. And this year, we're finally following it up with with the only other movie in the series that matters: The Exorcist 3: Legion.
@@ -373,7 +373,7 @@ image:posters/train-to-busan.webp[]
 *Length:* :: 1h 58m
 *Zombies:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Aciton:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt5700672"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt5700672"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Our second zombie movie this year is also our second foreign film. Train to Busan is a fairly recent film from South Korea. And luckily it's yet another example that demonstrates just how good they are at making movies.
@@ -398,7 +398,7 @@ image:posters/hereditary.webp[]
 *Length:* :: 2h 7m
 *Dark:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Emotional Impact:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt7784604"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt7784604"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Whoo! Boy. Hereditary is a spicy meatball. I can't say much about this movie for fear of spoilers. But what I can say is that it's a modern masterpiece. It blends perfectly the oldschool gravity and emotional intensity with modern filmmaking and visuals. Damn it's good.
@@ -459,7 +459,7 @@ image:posters/the-return-of-the-living-dead.webp[]
 *Length:* :: 1h 31m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Philosophical Terror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0089907"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089907"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;And here we go! We're starting this year's Mystery Movie selections with a heavy hitter. Return of the Living Dead is a criminally unknown entry into the zombie movie genre. This one is a must-see.
@@ -515,7 +515,7 @@ image:posters/the-evil-within.webp[]
 *Length:* :: 1h 38m
 *Surreal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Nightmarish:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0339736"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0339736"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Now, this is a weird one. I really am not even sure how to talk about it. Not just to avoid spoilers, but because the content is just difficult to even quantify. Also it has the same name as a video game which came out a few years ago, which is distracting. Anyway...
@@ -571,7 +571,7 @@ image:posters/the-house-that-jack-built.webp[]
 *Length:* :: 2h 32m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt4003440"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4003440"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Holy shit, I love this movie. Goddam. But fair warning: I'm a sick fucker, and that's the target audience for The House That Jack Built. Seriously, strap your ass in for this one.

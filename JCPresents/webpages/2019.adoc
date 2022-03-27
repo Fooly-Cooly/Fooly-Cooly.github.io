@@ -68,7 +68,7 @@ image:posters/army-of-darkness.webp[]
 *Length:* :: 1h 21m
 *Comedy:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0106308/"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0106308/"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Army of Darkness is the final film in the Evil Dead trilogy--and boy, what a way to end it. This movie is unbelievable.
@@ -96,7 +96,7 @@ image:posters/the-mothman-prophecies.webp[]
 *Length:* :: 1h 59m
 *Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *True Story:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0265349"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0265349"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;The second entry on this year's list is a dark, brooding supernatural mystery. Not so much scary as unsettling, The Mothman Prophecies hits on some very deep-seated human fears all the same.
@@ -127,7 +127,7 @@ image:posters/twilight-zone-the-movie.webp[]
 *Length:* :: 1h 41m
 *Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0086491"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0086491"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;We've all heard of the original Twilight Zone television series, and probably seen some, too. It's a real classic of the T.V. world... but it's old as hell. Sure, it's genius, but watching a show from the 50's is pretty hard on a modern audience. And that's where Twilight Zone: the Movie comes in.
@@ -158,7 +158,7 @@ image:posters/misery.webp[]
 *Length:* :: 1h 47m
 *Sinister:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Intense:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0100157"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0100157"] :: +++&nbsp+++
 
 +++<br>+++
 +++<center>...And what would The Terrifying Challenge be without a Stephen King?</center>+++
@@ -188,7 +188,7 @@ image:posters/the-dunwich-horror.webp[]
 *Length:* :: 1h 30m
 *Weird:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0065669"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0065669"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Man, what can you say about a movie like The Dunwich Horror? Any attempt at describing it is going to fail. It's really just something you have to see.
@@ -219,7 +219,7 @@ image:posters/event-horizon.webp[]
 *Length:* :: 1h 36m
 *Horrific:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0119081"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0119081"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Yet another fantastic marriage of Sci-Fi and Horror, Event Horizon is unlike any other movie I've ever seen. This movie takes an incredibly dangerous setting (outer space) and throws some brutal supernatural horror in on top. And those two mesh surprisingly well.
@@ -244,7 +244,7 @@ image:posters/beetlejuice.webp[]
 *Length:* :: 1h 32m
 *Tim Burton:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Star Power:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0094721"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0094721"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This is the kind of movie you've probably already seen, but not all the way through and not for a long time. And that's understandable. It's a weird tale that doesn't really have a defined audience--like most of Tim Burton's work.
@@ -275,7 +275,7 @@ image:posters/mandy.webp[]
 *Length:* :: 2h 1m
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Visually Stunning:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt6998518"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt6998518"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;Mandy is the craziest movie I've seen in years. It's seriously ridiculous. If there's one movie you need to see this Halloween, it might be this one (but only if you're a hardcore bastard).
@@ -306,7 +306,7 @@ image:posters/bride-of-frankenstein.webp[]
 *Length:* :: 1h 15m
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Old:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0026138"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0026138"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;When you talk about horror films everything can be traced back to the 1930's. Horror in film did exist before then, but it was the Universal horrors of the 30's that cemented what we know as the genre today.
@@ -337,7 +337,7 @@ image:posters/let-the-right-one-in.webp[]
 *Length:* :: 1h 54m
 *Brooding:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Sad:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt1139797"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt1139797"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;This year's foreign film comes to us from Sweden, the last place you'd expect to see such a beautiful and haunting vampire movie. But trust me, this one's a stunner.
@@ -368,7 +368,7 @@ image:posters/the-devils-advocate.webp[]
 *Length:* :: 2h 24m
 *Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0118971"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0118971"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;I think this movie is just cool as hell. It's such a seemingly-random pairing of genres, but at the same time it has such obvious potential per se. Add to that a masterful execution and this one just comes out great.
@@ -399,7 +399,7 @@ image:posters/28-days-later.webp[]
 *Length:* :: 1h 53m
 *Zombies:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0289043"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0289043"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;28 Days Later is pure horror, through and through. I'd honestly consider it to be a modern classic. Very few horror films have done so much to completely revitalize a sub-genre (in this case, zombie horror).
@@ -430,7 +430,7 @@ image:posters/the-cell.webp[]
 *Length:* :: 1h 47m
 *Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Visually Stunning:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0209958"] :: +++&nbsp+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0209958"] :: +++&nbsp+++
 
 +++<br>+++
 &emsp;&emsp;If you've never seen it, The Cell is going to catch you way off-guard. It's so much crazier than it looks on the surface. I mean, who would think that J-Lo could carry an experimental horror? But she does (she and Vince Vaughn, of all people).
@@ -494,7 +494,7 @@ image:posters/society.webp[]
 *Length:* :: 1h 39m
 *Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Totally Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0098354"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0098354"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;It's not often you see a movie that's wholly unfamiliar. Something that makes a fever dream seem relatable. As in, you've never seen this shit before.
@@ -556,7 +556,7 @@ image:posters/eraserhead.webp[]
 *Length:* :: 1h 29m
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cult Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0074486"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0074486"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;There's nothing I can say that would adequately prepare you for this movie. I'll go ahead and issue a formal warning now: this one's dangerous. Be careful.
@@ -618,7 +618,7 @@ image:posters/poltergeist.webp[]
 *Length:* :: 1h 54m
 *Solid:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:IMDb.webp[window="_blank",link="https://www.imdb.com/title/tt0084516"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084516"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Every Terrifying Challenge needs one of those movies, the kind you might call an "absolute classic." And this year, it's Poltergeist. Without question this movie has left a strong impression on American culture; it's easy to see why.
