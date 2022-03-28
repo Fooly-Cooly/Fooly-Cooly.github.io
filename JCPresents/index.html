@@ -8,12 +8,13 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets/style.css" media="screen">
 
 		<div class="loader">
-			<div class="logo"></div>
-			<div class="ring"></div>
-			<noscript>Javascript is required for this site. Please enable Javascript.</noscript>
+			<div class="effect">
+				<div class="logo"></div>
+				<div class="ring"></div>
+				<noscript>Javascript is required for this site. Please enable Javascript.</noscript>
+			</div>
 		</div>
 
-		<script src="javascripts/loadingScreen.js"></script>
 		<script src="javascripts/threejs/three.load.js" type="module"></script>
 		<script src="javascripts/asciidoctor/asciidoctor.js"></script>
 		<script src="javascripts/asciidoctor/asciidoctor.nav.js"></script>
@@ -55,12 +56,20 @@
 
 		<nav class="nav" id="nav">
 			<ul>
-				<li><a href="#" onclick="scroll_AsciiDoc( -1 );">⇑</a></li>
-				<li><a href="#" onclick="scroll_AsciiDoc( +1 );">⇓</a></li>
+				<li><a onclick="scroll_AsciiDoc( -1 );">⇑</a></li>
+				<li><a onclick="scroll_AsciiDoc( +1 );">⇓</a></li>
 			</ul>
 		</nav>
 
-		<script type="text/javascript">init_AsciiDoc();</script>
+		<script type="text/javascript">
+			init_AsciiDoc();
+			setTimeout( function() {
+
+				let loader = document.querySelector( ".loader" );
+				loader.style.opacity = "0";
+				loader.addEventListener("transitionend", function(){ loader.style.display = "none"; } );
+			}, 5000 );
+		</script>
 
 	</body>
 </html>

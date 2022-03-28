@@ -84,9 +84,12 @@ function init_AsciiDoc() {
 
 function load_AsciiDoc( year ) {
 
-	if( event ) year = event.srcElement.innerText;
+	if( event ) year = event.srcElement.innerText.toLowerCase();
 	let asciidoctor = Asciidoctor();
 	let file = 'webpages/' + year + '.adoc';
+	let content = document.getElementById('content');
+	content.style.opacity = "0";
+
 	fetch( file )
 		.then(response => {
 
@@ -98,7 +101,7 @@ function load_AsciiDoc( year ) {
 		.then((data) => {
 
 			let html = asciidoctor.convert( data );
-			document.getElementById('content').innerHTML = html;
+			content.innerHTML = html;
 
 			let observer = new IntersectionObserver( function( entries ) {
 
@@ -109,7 +112,7 @@ function load_AsciiDoc( year ) {
 				});
 			}, { threshold: [0.5] });
 
-			List = document.getElementsByClassName("sect1");
+			List = document.getElementsByClassName( "sect1" );
 			List.oindx = 0;
 			List.index = 0;
 			for (let i = 0; i < List.length; i++) {
@@ -123,13 +126,14 @@ function load_AsciiDoc( year ) {
 
 		error = "[.text-center]\n== " + error + "";
 		let html = asciidoctor.convert( error );
-		document.getElementById('content').innerHTML = html;
+		content.innerHTML = html;
 	});
+	content.style.opacity = "1";
 }
 
 function css_AsciiDoc( style ) {
 
-	if( event ) style = event.srcElement.innerText;
+	if( event ) style = event.srcElement.innerText.toLowerCase();
 	document.getElementById('theme_css').href = 'stylesheets/list-' + style + '.css';
 
 }
