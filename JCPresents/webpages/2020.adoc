@@ -432,7 +432,7 @@ image:mystery/2020/mystery1.webp[]
 *Length:* :: ????
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Philosophical Terror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '1' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;We start off this year's Mystery Movie selection with a cult classic. One that you may or may not be familiar with, but that decidedly influenced all films in its genre--and indeed, horror culture itself.
@@ -459,7 +459,7 @@ image:posters/the-return-of-the-living-dead.webp[]
 *Length:* :: 1h 31m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Philosophical Terror:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089907"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089907"] :: +++<button onclick="asciiDoc_Toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;And here we go! We're starting this year's Mystery Movie selections with a heavy hitter. Return of the Living Dead is a criminally unknown entry into the zombie movie genre. This one is a must-see.
@@ -488,7 +488,7 @@ image:mystery/2020/mystery2.webp[]
 *Length:* :: ????
 *Surreal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Nightmarish:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '2' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Now here we have an interesting piece. One of the weirdest movies I've ever seen that still manages to have a plot. And given the story behind the movie, it basically has two plots.
@@ -515,7 +515,7 @@ image:posters/the-evil-within.webp[]
 *Length:* :: 1h 38m
 *Surreal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Nightmarish:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0339736"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0339736"] :: +++<button onclick="asciiDoc_Toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Now, this is a weird one. I really am not even sure how to talk about it. Not just to avoid spoilers, but because the content is just difficult to even quantify. Also it has the same name as a video game which came out a few years ago, which is distracting. Anyway...
@@ -547,7 +547,7 @@ image:mystery/2020/mystery3.webp[]
 *Length:* :: ????
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '3' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Goddamn I'm excited about this movie--if for no other reason than to watch it again myself. This one's a top-shelf pick, and not for the faint of heart.
@@ -571,7 +571,7 @@ image:posters/the-house-that-jack-built.webp[]
 *Length:* :: 2h 32m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4003440"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4003440"] :: +++<button onclick="asciiDoc_Toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Holy shit, I love this movie. Goddam. But fair warning: I'm a sick fucker, and that's the target audience for The House That Jack Built. Seriously, strap your ass in for this one.

@@ -361,7 +361,7 @@ image:mystery/2017/mystery1.webp[]
 *Length:* :: ????
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Infamous:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '1' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Everyone has heard of this movie, but it seems like most people refuse to watch it. I understand the hesitance; the rumors are true (more or less). What most people don't realize--because they've never seen it--is that this movie is a horror masterpiece. It's vile, visceral, and completely terrorizing. But more than that, it's a technical powerhouse on all fronts that any cinema enthusiast should have seen multiple times. This is some dark magic, here.
@@ -378,7 +378,7 @@ image:posters/the-texas-chainsaw-massacre.webp[]
 *Length:* :: 1h 23m
 *Brutal:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Infamous:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0072271"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0072271"] :: +++<button onclick="asciiDoc_Toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Everyone has heard of this movie, but it seems like most people refuse to watch it. I understand the hesitance; the rumors are true (more or less). What most people don't realize--because they've never seen it--is that this movie is a horror masterpiece. It's vile, visceral, and completely terrorizing. But more than that, it's a technical powerhouse on all fronts that any cinema enthusiast should have seen multiple times. This is some dark magic, here.
@@ -397,7 +397,7 @@ image:mystery/2017/mystery2.webp[]
 *Length:* :: ????
 *Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '2' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;I don't think any living human has ever seen this movie except for me. This is understandable, because it's genuinely terrifying (dead serious). It's a sixties horror that reads like a thirties horror, has religious and politcal significance, and uses some really messed-up visual techniques to get inside your head. Sure, it's an arthouse film and therefore kind of dry and boring. But if you can buckle down, maybe drink a little (or a lot), and bear through the madness, you'll find shit in this movie that you'll NEVER forget.
@@ -414,7 +414,7 @@ image:posters/repulsion.webp[]
 *Length:* :: 1h 45m
 *Batshit:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *All Over the Place:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0059646"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0059646"] :: +++<button onclick="asciiDoc_Toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;I don't think any living human has ever seen this movie except for me. This is understandable, because it's genuinely terrifying (dead serious). It's a sixties horror that reads like a thirties horror, has religious and politcal significance, and uses some really messed-up visual techniques to get inside your head. Sure, it's an arthouse film and therefore kind of dry and boring. But if you can buckle down, maybe drink a little (or a lot), and bear through the madness, you'll find shit in this movie that you'll NEVER forget.
@@ -433,7 +433,7 @@ image:mystery/2017/mystery3.webp[]
 *Length:* :: ????
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '3' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Oh man, this movie. This is what would happen if Evil Dead II and Re-Animator had a contest to see who could make the other puke. In addition to being the goriest thing I have ever seen, this film is also retardedly funny. Directed by a pretty famous guy whose works you've definitely seen before, this gem is truly a one-of-a-kind. Everyone should know this movie, and I can't wait for more people to see it.
@@ -450,7 +450,7 @@ image:posters/dead-alive.webp[]
 *Length:* :: 1h 44m
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0103873"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0103873"] :: +++<button onclick="asciiDoc_Toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Oh man, this movie. This is what would happen if Evil Dead II and Re-Animator had a contest to see who could make the other puke. In addition to being the goriest thing I have ever seen, this film is also retardedly funny. Directed by a pretty famous guy whose works you've definitely seen before, this gem is truly a one-of-a-kind. Everyone should know this movie, and I can't wait for more people to see it.

@@ -432,7 +432,7 @@ image:mystery/2018/mystery1.webp[]
 *Length:* :: ????
 *Gruesome:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Practical Effects:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '1' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Strap in for this one. Mystery Movie 1 runs like a fever dream. It has just about every human fear you can name: isolation, imprisonment, the unknown, the uncanny, violent death, and more. It's a detailed view into the human psyche, visualized in a fashion that's only just barely recognizable.
@@ -456,7 +456,7 @@ image:posters/the-thing.webp[]
 *Length:* :: 1h 49m
 *Gruesome:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Practical Effects:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084787"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084787"] :: +++<button onclick="asciiDoc_Toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Strap in for this one. The Thing runs like a fever dream. It has just about every human fear you can name: isolation, imprisonment, the unknown, the uncanny, violent death, and more. It's a detailed view into the human psyche, visualized in a fashion that's only just barely recognizable.
@@ -482,7 +482,7 @@ image:mystery/2018/mystery2.webp[]
 *Length:* :: ????
 *Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '2' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;This movie is part of a film legacy. It's the second (I think) in a long series of movies that we're all familiar with. Hell, they still make them today. In fact, this very movie was re-made recently, and even it was pretty good.
@@ -509,7 +509,7 @@ image:posters/dawn-of-the-dead.webp[]
 *Length:* :: 2h 7m
 *Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0077402"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0077402"] :: +++<button onclick="asciiDoc_Toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;This movie is part of a film legacy. It's the second (I think) in a long series of movies that we're all familiar with. Hell, they still make them today. In fact, this very movie was re-made recently, and even it was pretty good.
@@ -538,7 +538,7 @@ image:mystery/2018/mystery3.webp[]
 *Length:* :: ????
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Secretly Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '3' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Mystery Movie 3 is probably one of my favorite movies, top ten easy. It's a distillation of forty years of horror, both reverant of the past and ahead of its time. If you haven't seen it, this movie is going to blow your tits off.
@@ -565,7 +565,7 @@ image:posters/re-animator.webp[]
 *Length:* :: 1h 44m
 *Gory:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Secretly Hilarious:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089885"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0089885"] :: +++<button onclick="asciiDoc_Toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Re-Animator is probably one of my favorite movies, top ten easy. It's a distillation of forty years of horror, both reverant of the past and ahead of its time. If you haven't seen it, this movie is going to blow your tits off.

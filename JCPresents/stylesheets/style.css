@@ -35,6 +35,9 @@ body,header,article,footer,p,nav,ul,li,a {
 .overflow-hidden {
 	overflow: hidden;
 }
+#content {
+	transition: opacity 0.5s;
+}
 #video-bg {
 	transform: translate(-50%, -50%);
 	object-fit: cover;
@@ -66,9 +69,53 @@ body,header,article,footer,p,nav,ul,li,a {
 }
 
 
+/* -- Loading Screen ----------------------------------------------------------------- */
+#loader {
+	position: fixed;
+	z-index: 1003;
+	width: 100%;
+	height: 100%;
+	background: #000000;
+	transition: opacity 2s;
+}
+#loader div.effect {
+	width: inherit;
+	height: inherit;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	-webkit-animation: fadeIn 2s;
+	animation: fadeIn 2s;
+}
+#loader div.logo {
+	width: 100vw;
+	height: 50vh;
+	margin-bottom: 20px;
+	background: url("../images/banner.webp") no-repeat center center;
+	background-size: contain;
+}
+#loader div.ring {
+	width: 15vmin;
+	height: 15vmin;
+	border: 5px solid #E0130E;
+	border-radius: 50%;
+	border-top-color: transparent;
+	border-bottom-color: transparent;
+	animation: rotate 2s linear infinite;
+}
+#loader noscript {
+	color: white;
+	margin-top: 20px;
+}
+
+
 /* -- Navigation Buttons ------------------------------------------------------------- */
-section {
-	z-index: 1002;
+nav.nav {
+	position: sticky;
+	bottom: 0;
+	align-self: flex-end;
+	height: 100%;
 }
 nav.nav ul {
 	box-shadow: 0px 0px 9px rgba(0,0,0,0.75);
@@ -139,54 +186,6 @@ nav.nav ul ul ul {
 		cursor: pointer;
 		color: #999999;
 	}
-}
-
-#nav {
-	position: sticky;
-	bottom: 0;
-	align-self: flex-end;
-	height: 100%;
-}
-
-
-/* -- Loading Screen ----------------------------------------------------------------- */
-div.loader {
-	position: fixed;
-	z-index: 1003;
-	width: 100%;
-	height: 100%;
-	background: #000000;
-	transition: opacity 2s;
-}
-div.loader div.effect {
-	width: inherit;
-	height: inherit;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	-webkit-animation: fadeIn 2s;
-	animation: fadeIn 2s;
-}
-div.loader div.logo {
-	width: 100vw;
-	height: 50vh;
-	margin-bottom: 20px;
-	background: url("../images/banner.webp") no-repeat center center;
-	background-size: contain;
-}
-div.loader div.ring {
-	width: 15vmin;
-	height: 15vmin;
-	border: 5px solid #E0130E;
-	border-radius: 50%;
-	border-top-color: transparent;
-	border-bottom-color: transparent;
-	animation: rotate 2s linear infinite;
-}
-div.loader noscript {
-	color: white;
-	margin-top: 20px;
 }
 
 

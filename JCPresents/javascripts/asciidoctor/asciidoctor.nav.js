@@ -1,17 +1,114 @@
-window.requestAnimationFrame = window.requestAnimationFrame
-    || window.mozRequestAnimationFrame
-    || window.webkitRequestAnimationFrame
-    || window.msRequestAnimationFrame
-    || function(f){return setTimeout(f, 1000/60)} // simulate calling code 60
-
-window.cancelAnimationFrame = window.cancelAnimationFrame
-    || window.mozCancelAnimationFrame
-    || function(requestID){clearTimeout(requestID)} //fall back
-
 let starttime
 let List = { };
 let lastScrollTop = 0, isScrolling = false, wasScrolling = false, scriptScroll = false;
 
+window.requestAnimationFrame = window.requestAnimationFrame
+    || window.mozRequestAnimationFrame
+    || window.webkitRequestAnimationFrame
+    || window.msRequestAnimationFrame
+    || function( f ){ return setTimeout( f, 1000/60 ) } // simulate calling code 60
+
+window.cancelAnimationFrame = window.cancelAnimationFrame
+    || window.mozCancelAnimationFrame
+    || function( requestID ){ clearTimeout( requestID ) } //fall back
+
+
+function asciiDoc_Init() {
+
+	let navButton = document.getElementsByClassName( "navCSS" );
+	for (let i = 0; i < navButton.length; i++)
+		navButton[i].addEventListener( "click", asciiDoc_CSS );
+
+	navButton = document.getElementsByClassName( "navClick" );
+	for (let i = 0; i < navButton.length; i++)
+		navButton[i].addEventListener( "click", asciiDoc_Load );
+
+	navButton = document.getElementsByClassName( "navScroll" );
+	for (let i = 0; i < navButton.length; i++)
+		navButton[i].addEventListener( "click", asciiDoc_Scroll );
+
+	setTimeout( function() {
+
+		let loader = document.getElementById( "loader" );
+		loader.addEventListener("transitionend", function(){ loader.style.display = "none"; } );
+		loader.style.opacity = "0";
+	}, 5000 );
+
+	asciiDoc_Load( "2021" );
+}
+
+function asciiDoc_Load( page ) {
+
+	if( event ) page = event.srcElement.innerText.toLowerCase();
+	let asciidoctor = Asciidoctor();
+	let file = 'webpages/' + page + '.adoc';
+	let content = document.getElementById('content');
+		content.style.opacity = "0";
+
+	fetch( file )
+		.then(response => {
+
+		    if ( !response.ok && response.status == 404 )
+				throw '404 File Not Found "' + page + '.adoc"';
+
+			return response.text()
+		})
+		.then((data) => {
+
+			let html = asciidoctor.convert( data );
+			content.innerHTML = html;
+
+			let observer = new IntersectionObserver( function( entries ) {
+
+				entries.forEach( x => {
+					if ( x.isIntersecting ) {
+						List.index = x.target.name;
+					}
+				});
+			}, { threshold: [0.5] });
+
+			List = document.getElementsByClassName( "sect1" );
+			List.oindx = 0;
+			List.index = 0;
+			for (let i = 0; i < List.length; i++) {
+				List[i].name = i;
+				observer.observe( List[i] );
+			}
+
+			asciiDoc_CSS( "default" );
+			setTimeout( function(){ content.style.opacity = "1"; }, 250 );
+	})
+	.catch(error => {
+
+		error = "[.text-center]\n== " + error + "";
+		let html = asciidoctor.convert( error );
+		content.innerHTML = html;
+	});
+	
+}
+
+function asciiDoc_CSS( style ) {
+
+	if( event ) style = event.srcElement.innerText.toLowerCase();
+	document.getElementById('theme_css').href = 'stylesheets/list-' + style + '.css';
+}
+
+function asciiDoc_Scroll( IN ) {
+
+	if ( event ) {
+		IN = event.srcElement.innerText == "⇑" ? -1 : +1;
+		event.preventDefault();
+	}
+	scriptScroll = true;
+
+	List.index += IN;
+	if ( List.index < 0 )
+		List.index = List.length-1;
+	else if ( List.index > List.length-1 )
+		List.index = 0;
+
+	List[List.index].scrollIntoView( { behavior: 'smooth', block: 'start' } );
+}
 
 function fade( timestamp, el1, el2, duration ) {
 
@@ -49,7 +146,7 @@ function fade( timestamp, el1, el2, duration ) {
     }
 }
 
-function asciidoc_toggle( index ) {
+function asciiDoc_Toggle( index ) {
 
 	let el1,el2;
 	let movie = document.getElementById( "movie" + index );
@@ -70,84 +167,4 @@ function asciidoc_toggle( index ) {
 		starttime = timestamp; //|| new Date().getTime() //if browser doesn't support requestAnimationFrame, generate our own timestamp using Date
 		fade( timestamp, el1, el2, 1000 ); // 400px over 1 second
 	})
-}
-
-
-function init_AsciiDoc() {
-
-	let navButton = document.getElementsByClassName("navClick");
-	for (let i = 0; i < navButton.length; i++)
-		navButton[i].addEventListener("click", load_AsciiDoc);
-
-	load_AsciiDoc( "2021" );
-}
-
-function load_AsciiDoc( year ) {
-
-	if( event ) year = event.srcElement.innerText.toLowerCase();
-	let asciidoctor = Asciidoctor();
-	let file = 'webpages/' + year + '.adoc';
-	let content = document.getElementById('content');
-	content.style.opacity = "0";
-
-	fetch( file )
-		.then(response => {
-
-		    if ( !response.ok && response.status == 404 )
-				throw '404 File Not Found "' + year + '.adoc"';
-
-			return response.text()
-		})
-		.then((data) => {
-
-			let html = asciidoctor.convert( data );
-			content.innerHTML = html;
-
-			let observer = new IntersectionObserver( function( entries ) {
-
-				entries.forEach( x => {
-					if ( x.isIntersecting ) {
-						List.index = x.target.name;
-					}
-				});
-			}, { threshold: [0.5] });
-
-			List = document.getElementsByClassName( "sect1" );
-			List.oindx = 0;
-			List.index = 0;
-			for (let i = 0; i < List.length; i++) {
-				List[i].name = i;
-				observer.observe( List[i] );
-			}
-
-			css_AsciiDoc( "default" );
-	})
-	.catch(error => {
-
-		error = "[.text-center]\n== " + error + "";
-		let html = asciidoctor.convert( error );
-		content.innerHTML = html;
-	});
-	content.style.opacity = "1";
-}
-
-function css_AsciiDoc( style ) {
-
-	if( event ) style = event.srcElement.innerText.toLowerCase();
-	document.getElementById('theme_css').href = 'stylesheets/list-' + style + '.css';
-
-}
-
-function scroll_AsciiDoc( IN ) {
-
-	if ( event ) event.preventDefault();
-	scriptScroll = true;
-
-	List.index += IN;
-	if ( List.index < 0 )
-		List.index = List.length-1;
-	else if ( List.index > List.length-1 )
-		List.index = 0;
-
-	List[List.index].scrollIntoView( { behavior: 'smooth', block: 'start' } );
 }

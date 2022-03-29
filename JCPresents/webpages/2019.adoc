@@ -467,7 +467,7 @@ image:mystery/2019/mystery1.webp[]
 *Length:* :: ??
 *Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Totally Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '1' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;This year's first Mystery Movie hits like a freight train. It's so weird. If you've been keeping track of the Mystery Movies over the years, you know the capacity they have to be fucking crazy. And with that being the case, this particular movie was born for the role.
@@ -494,7 +494,7 @@ image:posters/society.webp[]
 *Length:* :: 1h 39m
 *Weirdly Erotic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Totally Unique:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0098354"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0098354"] :: +++<button onclick="asciiDoc_Toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;It's not often you see a movie that's wholly unfamiliar. Something that makes a fever dream seem relatable. As in, you've never seen this shit before.
@@ -526,7 +526,7 @@ image:mystery/2019/mystery2.webp[]
 *Length:* :: ??
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cult Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '2' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Mystery Movie 2 will FUCK you up. Seriously, be careful. I almost feel bad suggesting it... but you can probably handle it, right?
@@ -556,7 +556,7 @@ image:posters/eraserhead.webp[]
 *Length:* :: 1h 29m
 *Disturbing:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Cult Classic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0074486"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0074486"] :: +++<button onclick="asciiDoc_Toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;There's nothing I can say that would adequately prepare you for this movie. I'll go ahead and issue a formal warning now: this one's dangerous. Be careful.
@@ -588,7 +588,7 @@ image:mystery/2019/mystery3.webp[]
 *Length:* :: ??
 *Solid:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '3' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Compared to the other two, Mystery Movie 3 is a walk in the park. Unless you're afraid of... well, you'll see.
@@ -618,7 +618,7 @@ image:posters/poltergeist.webp[]
 *Length:* :: 1h 54m
 *Solid:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Influential:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084516"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0084516"] :: +++<button onclick="asciiDoc_Toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Every Terrifying Challenge needs one of those movies, the kind you might call an "absolute classic." And this year, it's Poltergeist. Without question this movie has left a strong impression on American culture; it's easy to see why.

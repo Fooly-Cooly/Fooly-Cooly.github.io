@@ -423,7 +423,7 @@ image:mystery/2021/mystery1.webp[]
 *Length:* :: ????
 *High Strangeness:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '1' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '1' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;Ah, now this is a movie. You take a handful of fresh and awesome ideas, and you tie the whole thing together with classic and familiar tropes. This year's first Secret Film is goddam amazing for any number of reasons. Let me count some of them out.
@@ -450,7 +450,7 @@ image:posters/phenomena.webp[]
 *Length:* :: 1h 56m
 *High Strangeness:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0087909"] :: +++<button onclick="asciidoc_toggle( '1' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0087909"] :: +++<button onclick="asciiDoc_Toggle( '1' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;From the visionary director of Suspiria comes our third foreign film this year: a weird and wild one called Phenomena. This is one of those rare works that's truly unique. It has recognizable elements from a handful of other genres--but in the end, Phenomena plays by its own set of rules.
@@ -479,7 +479,7 @@ image:mystery/2021/mystery2.webp[]
 *Length:* :: ????
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '2' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '2' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;This movie is bananas. I'm not sure if I've ever seen it all the way through before this year, and I'm so glad I've finally seen it now. It really does live up to the hype.
@@ -506,7 +506,7 @@ image:posters/the-terminator.webp[]
 *Length:* :: 1h 47m
 *Badass:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Iconic:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0088247"] :: +++<button onclick="asciidoc_toggle( '2' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt0088247"] :: +++<button onclick="asciiDoc_Toggle( '2' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Talk about a movie that kicks ass. Yet another perfect union of sci-fi and horror, The Terminator has so much great stuff to offer--not the least of which is a shitload of action. This one's going to be a fun watch.
@@ -535,7 +535,7 @@ image:mystery/2021/mystery3.webp[]
 *Length:* :: ????
 *Masterpiece:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-&nbsp; :: +++<button onclick="asciidoc_toggle( '3' );">Reveal</button>+++
+&nbsp; :: +++<button onclick="asciiDoc_Toggle( '3' );">Reveal</button>+++
 
 +++<br>+++
 &emsp;&emsp;If you want to talk about atmosphere, this is the one. This movie builds a world so real and at the same time so unbelievable; it's like nothing I've ever seen. And even though it's very simple in construction, it feels like a horror epic.
@@ -562,7 +562,7 @@ image:posters/the-witch.webp[]
 *Length:* :: 1h 32m
 *Masterpiece:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
 *Spooky:* :: image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20] image:skull.webp[,20]
-image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4263482"] :: +++<button onclick="asciidoc_toggle( '3' );">Hide</button>+++
+image:imdb.webp[window="_blank",link="https://www.imdb.com/title/tt4263482"] :: +++<button onclick="asciiDoc_Toggle( '3' );">Hide</button>+++
 
 +++<br>+++
 &emsp;&emsp;Get ready, because this year's Terrifying Challenge ends with something special. The Witch draws you into a dark and super-spooky world where no one can be trusted. Every frame is just so goddam creepy; from start to finish, it never lets up.
