@@ -1,0 +1,92 @@
+﻿[
+    {
+        "src": "./imgs/01.jpg",
+        "title": "Sample Image 1",
+        "category": "Nature"
+    },
+    {
+        "src": "./imgs/02.jpg",
+        "title": "Sample Image 2",
+        "category": "Architecture"
+    },
+    {
+        "src": "./imgs/05.jpg",
+        "title": "Sample Image 5",
+        "category": "Architecture"
+    },
+    {
+        "src": "./imgs/08.jpg",
+        "title": "Sample Image 8",
+        "category": "Abstract"
+    },
+    {
+        "src": "./imgs/09.jpg",
+        "title": "Sample Image 9",
+        "category": "Nature"
+    },
+    {
+        "src": "./imgs/12.jpg",
+        "title": "Sample Image 12",
+        "category": "Portrait"
+    },
+    {
+        "src": "./imgs/03.jpg",
+        "title": "03",
+        "category": ""
+    },
+    {
+        "src": "./imgs/04.jpg",
+        "title": "04",
+        "category": ""
+    },
+    {
+        "src": "./imgs/06.jpg",
+        "title": "06",
+        "category": ""
+    },
+    {
+        "src": "./imgs/07.jpg",
+        "title": "07",
+        "category": ""
+    },
+    {
+        "src": "./imgs/10.jpg",
+        "title": "10",
+        "category": ""
+    },
+    {
+        "src": "./imgs/11.jpg",
+        "title": "11",
+        "category": ""
+    },
+    {
+        "src": "./imgs/13.jpg",
+        "title": "13",
+        "category": ""
+    },
+    {
+        "src": "./imgs/14.jpg",
+        "title": "14",
+        "category": ""
+    },
+    {
+        "src": "./imgs/15.jpg",
+        "title": "15",
+        "category": ""
+    },
+    {
+        "src": "./imgs/16.jpg",
+        "title": "16",
+        "category": ""
+    },
+    {
+        "src": "./imgs/17.jpg",
+        "title": "17",
+        "category": ""
+    },
+    {
+        "src": "./imgs/18.jpg",
+        "title": "18",
+        "category": ""
+    }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fade Animation Demo</title>
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <style>
+    body {
+      height: 100vh;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+    }
+
+    .fade-container {
+      border: 1px solid var(--fc-green-border);
+      background: var(--fc-surface-2);
+      border-radius: var(--fc-radius-md);
+      padding: 2rem;
+      min-height: 200px;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .fade-panel {
+      padding: 1.5rem;
+      border: 1px solid var(--fc-green-border);
+      border-radius: var(--fc-radius-lg);
+      background: var(--fc-surface-3);
+      transition: opacity 0.5s ease-in-out;
+      opacity: 1;
+    }
+
+    .hidden { opacity: 0; }
+
+    .hide-sequence .fade-panel:nth-child(1) { opacity: 0; }
+    .hide-sequence .fade-panel:nth-child(2) { opacity: 0; transition-delay: 500ms; }
+
+    .explanation {
+      font-size: 0.9rem;
+      color: var(--fc-text-muted);
+      max-width: 600px;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <button id="toggle-button" class="btn-fc">Toggle Fade Effect</button>
+
+  <div id="fade-container" class="fade-container">
+    <div class="fade-panel">
+      <div class="fc-tag">Panel One</div>
+      <p>This panel fades out when you click the button.</p>
+    </div>
+    <div class="fade-panel">
+      <div class="fc-tag">Panel Two</div>
+      <p>This panel fades in a moment later.</p>
+    </div>
+  </div>
+
+  <p class="explanation">
+    When you click the button, the container gets the special "hide-sequence" class. CSS then takes over: the first panel fades away immediately, and the second one is told to wait 500ms before it starts its fade-in. This creates a smooth transition between the two boxes without any complex counting or timers in Javascript.
+  </p>
+
+  <script>
+    const button = document.getElementById('toggle-button');
+    const container = document.getElementById('fade-container');
+    button.addEventListener('click', () => {
+      container.classList.toggle('hide-sequence');
+    });
+  </script>
+</body>
+</html>

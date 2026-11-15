@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fire Renderer — Fooly-Cooly</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/theme.css">
+  <style>
+    /* ── Two-column demo layout ── */
+    .demo-layout {
+      display: flex;
+      gap: 16px;
+      align-items: stretch;
+      margin: 24px 0 48px;
+    }
+
+    /* Canvas column — grows to fill available height */
+    .demo-canvas-col {
+      flex: 1;
+      min-width: 0;
+      position: relative;
+    }
+
+    #viewport {
+      display: block;
+      width: 100%;
+      /* Height matches the controls panel via stretch alignment */
+      height: 100%;
+      min-height: 280px;
+      border-radius: var(--fc-radius-md);
+      border: 1px solid var(--fc-green-border);
+      background: #000;
+    }
+
+    /* Repo overlay on canvas */
+    .canvas-overlay-link {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      font-family: var(--fc-font-mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.08em;
+      color: var(--fc-text-muted);
+      background: rgba(13,15,14,0.78);
+      border: 1px solid var(--fc-green-border);
+      border-radius: var(--fc-radius-sm);
+      padding: 4px 10px;
+      text-decoration: none;
+      transition: color var(--fc-transition), border-color var(--fc-transition);
+      backdrop-filter: blur(4px);
+    }
+
+    .canvas-overlay-link:hover {
+      color: var(--fc-green-dim);
+      border-color: var(--fc-green-dim);
+    }
+
+    /* Controls column — fixed width, sets the layout height */
+    .demo-controls-col {
+      width: 260px;
+      flex-shrink: 0;
+    }
+
+    /* Controls panel */
+    .fire-controls {
+      background: var(--fc-surface-2);
+      border: 1px solid var(--fc-green-border);
+      border-radius: var(--fc-radius-md);
+      padding: 16px 18px;
+      height: 100%;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .fire-section-title {
+      font-family: var(--fc-font-mono);
+      font-size: 0.68rem;
+      color: var(--fc-text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 10px;
+      margin-top: 14px;
+    }
+
+    .fire-section-title:first-child {
+      margin-top: 0;
+    }
+
+    .fire-divider {
+      height: 1px;
+      background: var(--fc-green-border);
+      margin: 14px 0;
+    }
+
+    /* Playback buttons — 2x2 grid so all four are equally spaced */
+    .fire-playback {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+    }
+
+    .fire-playback .btn-fc {
+      font-size: 0.72rem;
+      padding: 4px 10px;
+      text-align: center;
+    }
+
+    /* Sliders */
+    .fire-slider-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .fire-slider-row:last-child { margin-bottom: 0; }
+
+    .fire-slider-label {
+      font-family: var(--fc-font-mono);
+      font-size: 0.72rem;
+      color: var(--fc-text-muted);
+      min-width: 80px;
+    }
+
+    .fire-slider-row input[type="range"] { flex: 1; min-width: 0; }
+
+    .fire-slider-val {
+      font-family: var(--fc-font-mono);
+      font-size: 0.72rem;
+      color: var(--fc-green-dim);
+      min-width: 30px;
+      text-align: right;
+    }
+
+    /* Colour + file rows */
+    .fire-misc-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .fire-misc-row label {
+      font-family: var(--fc-font-mono);
+      font-size: 0.72rem;
+      color: var(--fc-text-muted);
+      min-width: 80px;
+      flex-shrink: 0;
+    }
+
+    input[type="color"] {
+      width: 36px;
+      height: 26px;
+      padding: 2px;
+      border: 1px solid var(--fc-green-border);
+      border-radius: var(--fc-radius-sm);
+      background: var(--fc-surface-3);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    #ctrl-texture-input { display: none; }
+
+    .fire-misc-row .btn-fc {
+      font-size: 0.68rem;
+      padding: 3px 8px;
+      flex-shrink: 0;
+    }
+
+    .fire-file-name {
+      font-family: var(--fc-font-mono);
+      font-size: 0.68rem;
+      color: var(--fc-text-muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      min-width: 0;
+    }
+
+    /* Stack vertically on narrow screens */
+    @media (max-width: 700px) {
+      .demo-layout    { flex-direction: column; }
+      .demo-controls-col { width: 100%; }
+      #viewport       { height: 300px; }
+    }
+
+    /* Source note */
+    .fire-source {
+      font-family: var(--fc-font-mono);
+      font-size: 0.75rem;
+      color: var(--fc-text-faint);
+      padding-bottom: 32px;
+    }
+
+    .fire-source a { color: var(--fc-text-muted); }
+    .fire-source a:hover { color: var(--fc-green-dim); }
+  </style>
+</head>
+<body>
+
+  <div class="fc-container">
+
+    <a href="../../experiments/index.html" class="fc-nav-back">Back to experiments</a>
+
+    <header style="padding: 28px 0 0;">
+      <div class="fc-page-title">Fire Renderer</div>
+      <div class="fc-page-subtitle">Three.js r131 · Ray-marched volumetric fire</div>
+      <hr class="fc-rule" style="margin-top: 20px;">
+    </header>
+
+    <div class="demo-layout">
+
+      <!-- Canvas column -->
+      <div class="demo-canvas-col">
+        <canvas id="viewport"></canvas>
+        <a href="https://github.com/YOUR_USERNAME/YOUR_REPO"
+           target="_blank" rel="noopener"
+           id="repo-link"
+           class="canvas-overlay-link">
+          view source repo →
+        </a>
+      </div>
+
+      <!-- Controls column -->
+      <div class="demo-controls-col">
+        <div class="fire-controls">
+
+          <div class="fire-section-title">// playback</div>
+          <div class="fire-playback">
+            <button class="btn-fc" id="btn-pause"  onclick="onPause()">Pause</button>
+            <button class="btn-fc" id="btn-resume" onclick="onResume()" disabled style="opacity:0.4;">Resume</button>
+            <button class="btn-fc" onclick="onReseed()">Reseed</button>
+            <button class="btn-fc" onclick="onReset()">Reset</button>
+          </div>
+
+          <div class="fire-divider"></div>
+          <div class="fire-section-title">// parameters</div>
+
+          <div class="fire-slider-row">
+            <span class="fire-slider-label">Magnitude</span>
+            <input type="range" id="ctrl-magnitude" min="0.1" max="3.0" step="0.05" value="1.3"
+                   oninput="onMagnitude(this.value)">
+            <span class="fire-slider-val" id="val-magnitude">1.30</span>
+          </div>
+
+          <div class="fire-slider-row">
+            <span class="fire-slider-label">Speed</span>
+            <input type="range" id="ctrl-speed" min="0.05" max="1.0" step="0.05" value="0.3"
+                   oninput="onSpeed(this.value)">
+            <span class="fire-slider-val" id="val-speed">0.30</span>
+          </div>
+
+          <div class="fire-slider-row">
+            <span class="fire-slider-label">Lacunarity</span>
+            <input type="range" id="ctrl-lacunarity" min="1.0" max="4.0" step="0.1" value="2.0"
+                   oninput="onLacunarity(this.value)">
+            <span class="fire-slider-val" id="val-lacunarity">2.0</span>
+          </div>
+
+          <div class="fire-slider-row">
+            <span class="fire-slider-label">Gain</span>
+            <input type="range" id="ctrl-gain" min="0.1" max="0.9" step="0.05" value="0.5"
+                   oninput="onGain(this.value)">
+            <span class="fire-slider-val" id="val-gain">0.50</span>
+          </div>
+
+          <div class="fire-slider-row">
+            <span class="fire-slider-label">FOV</span>
+            <input type="range" id="ctrl-fov" min="20" max="120" step="1" value="60"
+                   oninput="onFov(this.value)">
+            <span class="fire-slider-val" id="val-fov">60</span>
+          </div>
+
+          <div class="fire-divider"></div>
+
+          <div class="fire-misc-row">
+            <label for="ctrl-color">Tint</label>
+            <input type="color" id="ctrl-color" value="#eeeeee"
+                   oninput="onColor(this.value)">
+          </div>
+
+          <div class="fire-misc-row">
+            <label>Texture</label>
+            <input type="file" id="ctrl-texture-input" accept="image/*">
+            <button class="btn-fc" onclick="document.getElementById('ctrl-texture-input').click()">
+              Browse
+            </button>
+            <span class="fire-file-name" id="val-texture">default</span>
+          </div>
+
+        </div>
+      </div>
+
+    </div><!-- /.demo-layout -->
+
+    <div class="fire-source">
+      // volumetric ray-march shader with simplex noise turbulence —
+      <a href="Fire.js" target="_blank">Fire.js</a> ·
+      noise by <a href="https://github.com/ashima/webgl-noise" target="_blank" rel="noopener">ashima</a>
+    </div>
+
+  </div>
+
+  <button class="fc-back-top" id="back-top" aria-label="Back to top">^ top</button>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../../assets/site.js"></script>
+
+  <script type="module">
+    import * as THREE from './three.module.js';
+    import { Fire } from './Fire.js';
+
+    const DEFAULTS = {
+      magnitude : 1.3,
+      speed     : 0.3,
+      lacunarity: 2.0,
+      gain      : 0.5,
+      fov       : 60,
+      color     : '#eeeeee',
+    };
+
+    /* ── Renderer ── */
+    const canvas   = document.getElementById('viewport');
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+    renderer.setPixelRatio(window.devicePixelRatio);
+
+    /* ── Camera ── */
+    const camera = new THREE.PerspectiveCamera(DEFAULTS.fov, 1, 0.1, 500);
+    camera.position.set(0.0, -0.04, 0.50);
+
+    /* ── Scene ── */
+    const scene = new THREE.Scene();
+    const fire  = new Fire(0xeeeeee, './Fire.png');
+    fire.scale.set(0.15, 0.30, 0.15);
+    scene.add(fire);
+
+    /* ── Resize — watches the canvas element directly.
+       Canvas height is 100% of its column, which is sized by the controls
+       panel. ResizeObserver fires whenever that column height changes.     */
+    function syncSize() {
+      const w = canvas.clientWidth;
+      const h = canvas.clientHeight;
+      if (w === 0 || h === 0) return;
+      renderer.setSize(w, h, false);
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+    }
+
+    const ro = new ResizeObserver(syncSize);
+    ro.observe(canvas);
+    syncSize();
+
+    /* ── Animation loop ── */
+    let animFrameId = null;
+    let paused      = false;
+    let pausedAt    = 0;
+    let timeOffset  = 0;
+
+    function animate() {
+      animFrameId = requestAnimationFrame(animate);
+      fire.update((performance.now() - timeOffset) / 1000);
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    /* ── Playback ── */
+    window.onPause = () => {
+      if (paused) return;
+      paused   = true;
+      pausedAt = performance.now();
+      cancelAnimationFrame(animFrameId);
+      animFrameId = null;
+      document.getElementById('btn-pause').disabled = true;
+      document.getElementById('btn-pause').style.opacity = '0.4';
+      document.getElementById('btn-resume').disabled = false;
+      document.getElementById('btn-resume').style.opacity = '1';
+    };
+
+    window.onResume = () => {
+      if (!paused) return;
+      timeOffset += performance.now() - pausedAt;
+      paused = false;
+      animate();
+      document.getElementById('btn-pause').disabled = false;
+      document.getElementById('btn-pause').style.opacity = '1';
+      document.getElementById('btn-resume').disabled = true;
+      document.getElementById('btn-resume').style.opacity = '0.4';
+    };
+
+    window.onReseed = () => {
+      fire.material.uniforms.seed.value = Math.random() * 19.19;
+    };
+
+    /* ── Parameter controls ── */
+    window.onMagnitude = (v) => {
+      document.getElementById('val-magnitude').textContent = parseFloat(v).toFixed(2);
+      fire.setMagnitude(parseFloat(v));
+    };
+
+    window.onSpeed = (v) => {
+      document.getElementById('val-speed').textContent = parseFloat(v).toFixed(2);
+      fire.setSpeed(parseFloat(v));
+    };
+
+    window.onLacunarity = (v) => {
+      document.getElementById('val-lacunarity').textContent = parseFloat(v).toFixed(1);
+      fire.setLacunarity(parseFloat(v));
+    };
+
+    window.onGain = (v) => {
+      document.getElementById('val-gain').textContent = parseFloat(v).toFixed(2);
+      fire.setGain(parseFloat(v));
+    };
+
+    window.onFov = (v) => {
+      document.getElementById('val-fov').textContent = Math.round(v);
+      camera.fov = parseFloat(v);
+      camera.updateProjectionMatrix();
+    };
+
+    window.onColor = (v) => {
+      fire.setColor(v);
+    };
+
+    /* ── Texture picker ── */
+    document.getElementById('ctrl-texture-input').addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const prev = window._fireTexUrl;
+      const url  = URL.createObjectURL(file);
+      window._fireTexUrl = url;
+      fire.setTexture(url);
+      document.getElementById('val-texture').textContent = file.name;
+      if (prev) setTimeout(() => URL.revokeObjectURL(prev), 2000);
+    });
+
+    /* ── Reset ── */
+    window.onReset = () => {
+      const d = DEFAULTS;
+      fire.setMagnitude(d.magnitude);
+      fire.setSpeed(d.speed);
+      fire.setLacunarity(d.lacunarity);
+      fire.setGain(d.gain);
+      fire.setColor(d.color);
+      camera.fov = d.fov;
+      camera.updateProjectionMatrix();
+
+      document.getElementById('ctrl-magnitude').value          = d.magnitude;
+      document.getElementById('val-magnitude').textContent     = d.magnitude.toFixed(2);
+      document.getElementById('ctrl-speed').value              = d.speed;
+      document.getElementById('val-speed').textContent         = d.speed.toFixed(2);
+      document.getElementById('ctrl-lacunarity').value         = d.lacunarity;
+      document.getElementById('val-lacunarity').textContent    = d.lacunarity.toFixed(1);
+      document.getElementById('ctrl-gain').value               = d.gain;
+      document.getElementById('val-gain').textContent          = d.gain.toFixed(2);
+      document.getElementById('ctrl-fov').value                = d.fov;
+      document.getElementById('val-fov').textContent           = d.fov;
+      document.getElementById('ctrl-color').value              = d.color;
+    };
+  </script>
+</body>
+</html>

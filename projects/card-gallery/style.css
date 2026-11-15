@@ -1,0 +1,681 @@
+/* ============================================================
+   card-gallery / style.css
+   Assumes ../../assets/theme.css is loaded first.
+   ============================================================ */
+
+/* ----------------------------------------------------------
+   Root layout
+   ---------------------------------------------------------- */
+
+.cg-layout {
+    display: flex;
+    height: 100dvh;
+    overflow: hidden;
+}
+
+/* ----------------------------------------------------------
+   Sidebar
+   ---------------------------------------------------------- */
+
+.cg-sidebar {
+    width: 180px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 12px 10px;
+    border-right: 1px solid var(--fc-green-border);
+    overflow-y: auto;
+    overflow-x: hidden;
+    transition: width 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+    scrollbar-width: none;
+}
+
+.cg-sidebar::-webkit-scrollbar { display: none; }
+
+/* Collapse toggle button — sits at very top */
+.cg-sidebar-collapse {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 2px 8px;
+    border-bottom: 1px solid var(--fc-green-border);
+    margin-bottom: 4px;
+}
+
+.cg-collapse-btn {
+    width: 28px;
+    height: 28px;
+    background: transparent;
+    border: 1px solid var(--fc-green-border);
+    border-radius: var(--fc-radius-sm);
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.cg-collapse-btn:hover {
+    color: var(--fc-text);
+    border-color: var(--fc-green-border-hover);
+    background: var(--fc-green-glow);
+}
+
+.cg-sidebar-title {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--fc-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0 4px 8px;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: opacity 0.2s ease;
+}
+
+/* Album buttons */
+.cg-album-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 8px 10px;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: var(--fc-radius-sm);
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.8rem;
+    text-align: left;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-shrink: 0;
+    gap: 8px;
+}
+
+.cg-album-btn:hover {
+    color: var(--fc-text);
+    border-color: var(--fc-green-border);
+    background: var(--fc-green-glow);
+}
+
+.cg-album-btn.is-active {
+    color: var(--fc-green);
+    border-color: var(--fc-green-border-hover);
+    background: var(--fc-green-glow);
+}
+
+/* The chip — always visible, shows first 3 chars */
+.cg-album-chip {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background: var(--fc-surface-2);
+    font-size: 0.65rem;
+    font-family: 'Share Tech Mono', monospace;
+    color: var(--fc-text-muted);
+    letter-spacing: 0;
+    transition: background var(--fc-transition), color var(--fc-transition);
+}
+
+.cg-album-btn.is-active .cg-album-chip {
+    background: var(--fc-green-glow);
+    color: var(--fc-green);
+}
+
+/* Full label — hidden when collapsed */
+.cg-album-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: opacity 0.2s ease, max-width 0.25s ease;
+    max-width: 120px;
+}
+
+/* Spacer pushes scroll toggle to bottom */
+.cg-sidebar-spacer {
+    flex: 1;
+}
+
+/* Scroll toggle at sidebar bottom */
+.cg-scroll-toggle {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    padding: 8px 10px;
+    background: transparent;
+    border: 1px solid var(--fc-green-border);
+    border-radius: var(--fc-radius-sm);
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.78rem;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.cg-scroll-toggle:hover {
+    color: var(--fc-text);
+    border-color: var(--fc-green-border-hover);
+    background: var(--fc-green-glow);
+}
+
+.cg-scroll-toggle.is-paused {
+    color: var(--fc-green);
+    border-color: var(--fc-green-border-hover);
+}
+
+.cg-scroll-toggle-icon {
+    flex-shrink: 0;
+    font-size: 0.9rem;
+}
+
+.cg-scroll-toggle-label {
+    overflow: hidden;
+    transition: opacity 0.2s ease, max-width 0.25s ease;
+    max-width: 120px;
+}
+
+/* ----------------------------------------------------------
+   Collapsed sidebar state
+   ---------------------------------------------------------- */
+
+.cg-sidebar.is-collapsed {
+    width: 48px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.cg-sidebar.is-collapsed .cg-sidebar-title {
+    opacity: 0;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.cg-sidebar.is-collapsed .cg-album-btn {
+    padding: 4px;
+    justify-content: center;
+    width: 40px;
+}
+
+.cg-sidebar.is-collapsed .cg-album-chip {
+    width: 32px;
+    height: 32px;
+    font-size: 0.7rem;
+}
+
+.cg-sidebar.is-collapsed .cg-album-label {
+    opacity: 0;
+    max-width: 0;
+    pointer-events: none;
+}
+
+.cg-sidebar.is-collapsed .cg-scroll-toggle {
+    padding: 8px 4px;
+    justify-content: center;
+    width: 40px;
+}
+
+.cg-sidebar.is-collapsed .cg-scroll-toggle-label {
+    opacity: 0;
+    max-width: 0;
+    pointer-events: none;
+}
+
+.cg-sidebar.is-collapsed .cg-sidebar-collapse {
+    justify-content: center;
+}
+
+/* ----------------------------------------------------------
+   Main content area
+   ---------------------------------------------------------- */
+
+.cg-main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* ----------------------------------------------------------
+   Tag filter bar
+   ---------------------------------------------------------- */
+
+.cg-tagbar {
+    flex-shrink: 0;
+    display: flex;
+    gap: 8px;
+    padding: 10px 16px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-bottom: 1px solid var(--fc-green-border);
+    scrollbar-width: none;
+}
+
+.cg-tagbar::-webkit-scrollbar { display: none; }
+
+.cg-tag-btn {
+    flex-shrink: 0;
+    padding: 5px 14px;
+    background: transparent;
+    border: 1px solid var(--fc-green-border);
+    border-radius: 20px;
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.72rem;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    white-space: nowrap;
+}
+
+.cg-tag-btn:hover {
+    color: var(--fc-text);
+    border-color: var(--fc-green-border-hover);
+    background: var(--fc-green-glow);
+}
+
+.cg-tag-btn.is-active {
+    color: var(--fc-green);
+    border-color: var(--fc-green);
+    background: var(--fc-green-glow);
+}
+
+/* ----------------------------------------------------------
+   Marquee stage
+   ---------------------------------------------------------- */
+
+.cg-stage {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+}
+
+/* ----------------------------------------------------------
+   Marquee row
+   ---------------------------------------------------------- */
+
+.cg-row {
+    flex: 1;
+    min-height: 0;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px solid var(--fc-green-border);
+}
+
+.cg-row:last-child {
+    border-bottom: none;
+}
+
+.cg-track {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 12px;
+    padding: 10px 6px;
+    will-change: transform;
+    /* No grab cursor — mouse drag removed */
+}
+
+.cg-track.is-paused {
+    animation-play-state: paused !important;
+}
+
+@keyframes cg-scroll-left {
+    from { transform: translateX(0); }
+    to   { transform: translateX(var(--cg-half-width)); }
+}
+
+@keyframes cg-scroll-right {
+    from { transform: translateX(var(--cg-half-width)); }
+    to   { transform: translateX(0); }
+}
+
+/* ----------------------------------------------------------
+   Row arrow buttons — show on row hover
+   ---------------------------------------------------------- */
+
+.cg-row-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 50;
+    width: 32px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(13, 15, 14, 0.75);
+    border: 1px solid var(--fc-green-border);
+    border-radius: var(--fc-radius-sm);
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1rem;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s ease, color var(--fc-transition),
+                border-color var(--fc-transition), background var(--fc-transition);
+    backdrop-filter: blur(4px);
+}
+
+.cg-row-arrow:hover {
+    color: var(--fc-green);
+    border-color: var(--fc-green-border-hover);
+    background: rgba(13, 15, 14, 0.92);
+}
+
+.cg-row-arrow.is-left  { left: 6px; }
+.cg-row-arrow.is-right { right: 6px; }
+
+.cg-row:hover .cg-row-arrow {
+    opacity: 1;
+}
+
+/* ----------------------------------------------------------
+   Card
+   ---------------------------------------------------------- */
+
+.cg-card {
+    flex-shrink: 0;
+    height: 100%;
+    aspect-ratio: 2 / 3;
+    position: relative;
+    border-radius: 8px;
+}
+
+/* ----------------------------------------------------------
+   Card face
+   ---------------------------------------------------------- */
+
+.cg-face {
+    position: absolute;
+    inset: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    will-change: transform;
+    transition:
+        box-shadow 0.4s cubic-bezier(0.23, 1, 0.32, 1),
+        border-radius 0.3s ease;
+    z-index: 0;
+}
+
+.cg-face img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.cg-face.is-tilting {
+    box-shadow:
+        0 16px 40px rgba(0, 0, 0, 0.6),
+        0 0 0 1px var(--fc-green-border),
+        0 0 30px rgba(74, 222, 128, 0.1);
+    z-index: 100;
+    overflow: visible;
+}
+
+.cg-face.is-tilting img {
+    border-radius: 8px;
+}
+
+.cg-sheen {
+    position: absolute;
+    inset: 0;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    background: radial-gradient(
+        circle at var(--sheen-x, 50%) var(--sheen-y, 50%),
+        rgba(255,255,255,0.18) 0%,
+        transparent 65%
+    );
+    mix-blend-mode: screen;
+    z-index: 1;
+}
+
+.cg-face.is-tilting .cg-sheen {
+    opacity: 1;
+}
+
+/* ----------------------------------------------------------
+   Lightbox
+   ---------------------------------------------------------- */
+
+.cg-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+}
+
+.cg-lightbox.is-open {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.cg-lightbox-inner {
+    display: flex;
+    align-items: flex-start;
+    gap: 32px;
+    max-height: 90dvh;
+    padding: 20px;
+}
+
+.cg-lightbox-img-wrap {
+    flex-shrink: 0;
+    height: min(70dvh, 560px);
+    aspect-ratio: 2 / 3;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow:
+        0 30px 80px rgba(0, 0, 0, 0.8),
+        0 0 0 1px var(--fc-green-border-hover);
+}
+
+.cg-lightbox-img-wrap img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.cg-lightbox-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 280px;
+    padding-top: 8px;
+}
+
+.cg-lightbox-title {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.1rem;
+    color: var(--fc-text);
+    line-height: 1.3;
+}
+
+.cg-lightbox-category {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--fc-green-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.cg-lightbox-desc {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.88rem;
+    color: var(--fc-text-muted);
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+.cg-lightbox-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 18px;
+    border: 1px solid var(--fc-green-border-hover);
+    border-radius: var(--fc-radius-sm);
+    background: transparent;
+    color: var(--fc-green);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.78rem;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    margin-top: auto;
+}
+
+.cg-lightbox-download:hover {
+    background: var(--fc-green-glow);
+    border-color: var(--fc-green);
+}
+
+.cg-lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 36px;
+    height: 36px;
+    background: transparent;
+    border: 1px solid var(--fc-green-border);
+    border-radius: var(--fc-radius-sm);
+    color: var(--fc-text-muted);
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all var(--fc-transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cg-lightbox-close:hover {
+    color: var(--fc-text);
+    border-color: var(--fc-green-border-hover);
+    background: var(--fc-green-glow);
+}
+
+/* ----------------------------------------------------------
+   States
+   ---------------------------------------------------------- */
+
+.cg-state {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.82rem;
+    color: var(--fc-text-muted);
+    letter-spacing: 0.05em;
+}
+
+.cg-state-err { color: #f87171; }
+
+/* ----------------------------------------------------------
+   Mobile
+   ---------------------------------------------------------- */
+
+@media (max-width: 640px) {
+    .cg-layout {
+        flex-direction: column;
+        height: 100dvh;
+        overflow: hidden;
+    }
+
+    .cg-sidebar {
+        width: 100% !important;  /* override collapsed width on mobile */
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        border-right: none;
+        border-bottom: 1px solid var(--fc-green-border);
+        padding: 8px 12px;
+        gap: 8px;
+        flex-grow: 0;
+        flex-shrink: 0;
+    }
+
+    /* Hide collapse/toggle/spacer on mobile — not applicable */
+    .cg-sidebar-collapse,
+    .cg-sidebar-spacer,
+    .cg-scroll-toggle,
+    .cg-sidebar-title { display: none; }
+
+    .cg-album-btn {
+        flex-shrink: 0;
+        width: auto;
+        padding: 6px 12px;
+    }
+
+    /* Always show label on mobile */
+    .cg-album-label {
+        opacity: 1 !important;
+        max-width: none !important;
+    }
+
+    .cg-album-chip { display: none; }
+
+    .cg-main {
+        flex: 1;
+        min-height: 0;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Arrow buttons too small to be useful on mobile, hide them */
+    .cg-row-arrow { display: none; }
+
+    .cg-lightbox-inner {
+        flex-direction: column;
+        align-items: center;
+        overflow-y: auto;
+        max-height: 90dvh;
+    }
+
+    .cg-lightbox-img-wrap {
+        height: min(50dvh, 360px);
+    }
+
+    .cg-lightbox-info {
+        max-width: 100%;
+        padding-top: 0;
+    }
+}

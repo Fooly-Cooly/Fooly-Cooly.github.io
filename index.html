@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Fooly-Cooly — web experiments, guides, photography, and assorted curiosities.">
+  <title>Fooly-Cooly</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+
+  <div class="fc-container">
+
+    <!-- Header -->
+    <header class="fc-header">
+      <div class="fc-wordmark">Fooly-Cooly<span class="fc-wordmark-punct"> //</span></div>
+      <div class="fc-tagline">Web experiments &amp; assorted curiosities</div>
+      <hr class="fc-rule" style="margin-top: 32px;">
+    </header>
+
+    <!-- Section list -->
+    <ul class="fc-section-list" id="sections">
+
+      <!-- 01 · Guides -->
+      <li class="fc-section-row" data-section="guides">
+        <button class="fc-section-trigger" onclick="toggle('guides')" aria-expanded="false">
+          <span class="fc-section-num">01</span>
+          <span class="fc-section-label">Guides &amp; Reference</span>
+          <span class="fc-section-desc">Tutorials &amp; markdown docs</span>
+          <svg class="fc-section-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"/>
+          </svg>
+        </button>
+        <div class="fc-section-panel" role="region">
+          <div class="fc-card-grid">
+            <a href="guides/viewer.html?doc=REFERENCE_BLFunctions&category=Reference" class="fc-card">
+              <div class="fc-card-tag">Reference</div>
+              <div class="fc-card-title">Blockland Functions</div>
+              <div class="fc-card-sub">Complete and categorized list of built-in Blockland functions</div>
+            </a>
+            <a href="guides/viewer.html?doc=REFERENCE_TGEFunctions&category=Reference" class="fc-card">
+              <div class="fc-card-tag">Reference</div>
+              <div class="fc-card-title">Torque Game Engine Functions</div>
+              <div class="fc-card-sub">A list of TGE functions, useful for Blockland</div>
+            </a>
+            <a href="guides/index.html" class="fc-card fc-card--view-all">
+              <div class="fc-card-title">View all guides →</div>
+            </a>
+          </div>
+        </div>
+      </li>
+
+      <!-- 02 · Gallery -->
+      <li class="fc-section-row" data-section="gallery">
+        <button class="fc-section-trigger" onclick="toggle('gallery')" aria-expanded="false">
+          <span class="fc-section-num">02</span>
+          <span class="fc-section-label">Gallery</span>
+          <span class="fc-section-desc">Photography &amp; visual work</span>
+          <svg class="fc-section-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"/>
+          </svg>
+        </button>
+        <div class="fc-section-panel" role="region">
+          <div class="fc-card-grid">
+            <a href="gallery/index.html" class="fc-card">
+              <div class="fc-card-tag">Photography</div>
+              <div class="fc-card-title">Browse the gallery</div>
+              <div class="fc-card-sub">All photos, filterable by category</div>
+            </a>
+            <div class="fc-card fc-card--placeholder">
+              <div class="fc-card-tag">Coming soon</div>
+              <div class="fc-card-title">Featured series</div>
+              <div class="fc-card-sub">Curated collections will appear here</div>
+            </div>
+          </div>
+        </div>
+      </li>
+
+      <!-- 03 · Web Experiments -->
+      <li class="fc-section-row" data-section="experiments">
+        <button class="fc-section-trigger" onclick="toggle('experiments')" aria-expanded="false">
+          <span class="fc-section-num">03</span>
+          <span class="fc-section-label">Web Experiments</span>
+          <span class="fc-section-desc">Interactive &amp; generative tech demos</span>
+          <svg class="fc-section-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"/>
+          </svg>
+        </button>
+        <div class="fc-section-panel" role="region">
+          <div class="fc-card-grid">
+            <a href="experiments/fire-renderer/index.html" class="fc-card">
+              <div class="fc-card-tag">Three.js</div>
+              <div class="fc-card-title">Fire Renderer</div>
+              <div class="fc-card-sub">Raytraced fire simulation in the browser</div>
+            </a>
+            <a href="experiments/confetti/index.html" class="fc-card">
+              <div class="fc-card-tag">Canvas</div>
+              <div class="fc-card-title">Confetti Demo</div>
+              <div class="fc-card-sub">Particle rendering experiment</div>
+            </a>
+            <a href="experiments/index.html" class="fc-card fc-card--view-all">
+              <div class="fc-card-title">View all experiments →</div>
+            </a>
+          </div>
+        </div>
+      </li>
+
+      <!-- 04 · Projects -->
+      <li class="fc-section-row" data-section="projects">
+        <button class="fc-section-trigger" onclick="toggle('projects')" aria-expanded="false">
+          <span class="fc-section-num">04</span>
+          <span class="fc-section-label">Projects</span>
+          <span class="fc-section-desc">Larger site &amp; tool builds</span>
+          <svg class="fc-section-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"/>
+          </svg>
+        </button>
+        <div class="fc-section-panel" role="region">
+          <div class="fc-card-grid">
+            <a href="https://fooly-cooly.github.io/terrifying-challenge/" class="fc-card">
+              <div class="fc-card-tag">Challenge</div>
+              <div class="fc-card-title">Terrifying Challenge</div>
+              <div class="fc-card-sub">Halloween horror movie challenge list</div>
+            </a>
+            <a href="https://fooly-cooly.github.io/blockland-database/" class="fc-card">
+              <div class="fc-card-tag">Tool</div>
+              <div class="fc-card-title">Blockland ID Database</div>
+              <div class="fc-card-sub">Searchable CSV lookup for Blockland IDs</div>
+            </a>
+            <a href="projects/index.html" class="fc-card fc-card--view-all">
+              <div class="fc-card-title">View all projects →</div>
+            </a>
+          </div>
+        </div>
+      </li>
+
+      <!-- 05 · Find Me Elsewhere -->
+      <li class="fc-section-row" data-section="links">
+        <button class="fc-section-trigger" onclick="toggle('links')" aria-expanded="false">
+          <span class="fc-section-num">05</span>
+          <span class="fc-section-label">Find Me Elsewhere</span>
+          <span class="fc-section-desc">Social &amp; off-Github</span>
+          <svg class="fc-section-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"/>
+          </svg>
+        </button>
+        <div class="fc-section-panel" role="region">
+          <p class="fc-social-intro">// links open in a new tab</p>
+          <div class="fc-social-grid">
+
+            <a href="https://www.youtube.com/@FoolyCoolySAP" target="_blank" rel="noopener" class="fc-social-link">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              YouTube
+            </a>
+
+            <a href="https://twitch.tv/foolycoolysap" target="_blank" rel="noopener" class="fc-social-link">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714z"/></svg>
+              Twitch
+            </a>
+
+            <a href="https://x.com/FoolyCoolySAP" target="_blank" rel="noopener" class="fc-social-link">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              Twitter / X
+            </a>
+
+            <a data-enc="aHR0cHM6Ly93d3cuZGV2aWFudGFydC5jb20vZm9vbHljb29seTE3NjQ=" rel="noopener" class="fc-social-link" role="button" tabindex="0">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.457 0l-3.separates 5.474-.112.196H19.2v6.086h-5.279l-.148.257-2.042 3.771.148.257H19.2v6.086h-5.856l-.112.197L10.08 24H5.543l3.393-5.474.112-.196H4.8v-6.086h5.279l.148-.257 2.042-3.771-.148-.257H4.8V1.874h5.856l.112-.197z"/></svg>
+              DeviantArt
+            </a>
+
+            <a href="https://www.flickr.com/people/33263426@N08/" target="_blank" rel="noopener" class="fc-social-link">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M5.334 6.666a5.334 5.334 0 100 10.668 5.334 5.334 0 000-10.668zm13.332 0a5.334 5.334 0 100 10.668 5.334 5.334 0 000-10.668z"/></svg>
+              Flickr
+            </a>
+
+            <a href="https://steamcommunity.com/id/Fooly-Cooly" target="_blank" rel="noopener" class="fc-social-link">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.028-4.524 4.524-4.524 2.494 0 4.524 2.031 4.524 4.527s-2.03 4.525-4.524 4.525h-.105l-4.076 2.911c0 .052.004.105.004.159 0 1.875-1.515 3.396-3.39 3.396-1.635 0-3.016-1.173-3.331-2.727L.436 15.27C1.862 20.307 6.486 24 11.979 24c6.627 0 11.999-5.373 11.999-12S18.606 0 11.979 0zM7.54 17.21l-1.473-.61c.262.543.714.999 1.314 1.25 1.297.539 2.793-.076 3.332-1.375.263-.63.264-1.319.005-1.949s-.75-1.121-1.377-1.383c-.624-.26-1.29-.249-1.878-.03l1.523.63c.956.4 1.409 1.497 1.012 2.455-.397.957-1.497 1.41-2.458 1.012zm11.415-9.303c0-1.662-1.353-3.015-3.015-3.015-1.665 0-3.015 1.353-3.015 3.015 0 1.665 1.35 3.015 3.015 3.015 1.663 0 3.015-1.35 3.015-3.015zm-5.273-.005c0-1.252 1.013-2.266 2.265-2.266 1.249 0 2.266 1.014 2.266 2.266 0 1.251-1.017 2.265-2.266 2.265-1.252 0-2.265-1.014-2.265-2.265z"/></svg>
+              Steam
+            </a>
+
+            <a data-enc="aHR0cHM6Ly9kaXNjb3JkLmNvbS91c2Vycy9mb29seWNvb2x5c2Fw" rel="noopener" class="fc-social-link" role="button" tabindex="0">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.317 4.37a19.791 19.791 0 00-4.885-1.515.074.074 0 00-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 00-5.487 0 12.64 12.64 0 00-.617-1.25.077.077 0 00-.079-.037A19.736 19.736 0 003.677 4.37a.07.07 0 00-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 00.031.057 19.9 19.9 0 005.993 3.03.078.078 0 00.084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 00-.041-.106 13.107 13.107 0 01-1.872-.892.077.077 0 01-.008-.128 10.2 10.2 0 00.372-.292.074.074 0 01.077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 01.078.01c.12.098.246.198.373.292a.077.077 0 01-.006.127 12.299 12.299 0 01-1.873.892.077.077 0 00-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 00.084.028 19.839 19.839 0 006.002-3.03.077.077 0 00.032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 00-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/></svg>
+              Discord
+            </a>
+
+            <a data-enc="aHR0cHM6Ly9jaXZpdGFpLmNvbS91c2VyL0Zvb2x5Q29vbHk=" data-warn="nsfw content" rel="noopener" class="fc-social-link" role="button" tabindex="0">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/></svg>
+              CivitAI
+            </a>
+
+            <a data-enc="aHR0cHM6Ly9rby1maS5jb20vNDA0" rel="noopener" class="fc-social-link fc-social-link--highlight" role="button" tabindex="0">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 2.318.723 4.311zm6.173.478c-.928.116-1.682.028-1.682.028V7.284h1.77s1.971.551 1.971 2.638c0 1.913-.985 2.667-2.059 3.015z"/></svg>
+              Ko-fi
+            </a>
+
+            <a data-enc="aHR0cHM6Ly9wYXlwYWwubWUvNDA0" rel="noopener" class="fc-social-link fc-social-link--highlight" role="button" tabindex="0">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7.076 21.337H2.47a.641.641 0 01-.633-.74L4.944.901C5.026.382 5.474 0 5.998 0h7.46c2.57 0 4.578.543 5.69 1.81 1.01 1.15 1.304 2.42 1.012 4.287-.023.143-.047.288-.077.437-.983 5.05-4.349 6.797-8.647 6.797h-2.19c-.524 0-.968.382-1.05.9l-1.12 7.106zm14.146-14.42a3.35 3.35 0 00-.607-.541c1.379 5.793-2.407 9.5-7.613 9.5H11.14l-1.08 6.812h2.41c.464 0 .868-.337.942-.796l.037-.213.745-4.724.048-.257c.074-.459.478-.796.942-.796h.593c3.84 0 6.845-1.56 7.724-6.071.37-1.897.178-3.477-.87-4.595l-.429.681z"/></svg>
+              PayPal
+            </a>
+
+          </div>
+        </div>
+      </li>
+
+    </ul>
+
+    <!-- Footer -->
+    <footer class="fc-footer">
+      fooly-cooly.github.io<span class="fc-cursor"></span>
+    </footer>
+
+  </div><!-- /.fc-container -->
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

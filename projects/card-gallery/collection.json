@@ -1,0 +1,12 @@
+﻿[
+    {
+        "id": "sillytavern",
+        "title": "SillyTavern",
+        "file": "./albums/sillytavern.json"
+    },
+    {
+        "id": "yugioh",
+        "title": "Yu-Gi-Oh",
+        "file": "./albums/yugioh.json"
+    }
+]

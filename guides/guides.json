@@ -1,0 +1,74 @@
+﻿[
+    {
+        "file": "REFERENCE_TGEFunctions",
+        "title": "Torque Game Engine Functions",
+        "description": "A list of TGE functions, useful for Blockland",
+        "category": "Reference"
+    },
+    {
+        "file": "REFERENCE_BLFunctions",
+        "title": "Blockland Functions",
+        "description": "Complete and categorized list of built-in Blockland functions",
+        "category": "Reference"
+    },
+    {
+        "file": "DESIGN_CardGallery",
+        "title": "DESIGN CardGallery",
+        "description": "",
+        "category": "Design"
+    },
+    {
+        "file": "DESIGN_GridGallery",
+        "title": "DESIGN GridGallery",
+        "description": "",
+        "category": "Design"
+    },
+    {
+        "file": "DESIGN_Main",
+        "title": "DESIGN Main",
+        "description": "",
+        "category": "Design"
+    },
+    {
+        "file": "DESIGN_Mingo",
+        "title": "DESIGN Mingo",
+        "description": "",
+        "category": "Design"
+    },
+    {
+        "file": "DESIGN_SiteHelper",
+        "title": "DESIGN SiteHelper",
+        "description": "",
+        "category": "Design"
+    },
+    {
+        "file": "Game_Guide_TERA_Companion",
+        "title": "TERA Companions",
+        "description": "",
+        "category": "Game Guide"
+    },
+    {
+        "file": "Game_Guide_TERA_Dungeon",
+        "title": "TERA Dungeon",
+        "description": "",
+        "category": "Game Guide"
+    },
+    {
+        "file": "Game_Guide_TERA_Fishing",
+        "title": "TERA Fishing",
+        "description": "",
+        "category": "Game Guide"
+    },
+    {
+        "file": "Game_Guide_TERA_Gear_Progression",
+        "title": "TERA Gear Progression",
+        "description": "",
+        "category": "Game Guide"
+    },
+    {
+        "file": "Game_Guide_TERA_Verum_Controls",
+        "title": "TERA Controls",
+        "description": "",
+        "category": "Game Guide"
+    }
+]

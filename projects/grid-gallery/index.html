@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Gallery</title>
+
+    <!-- Bootstrap reset/grid layer (CDN, matches main site) -->
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        crossorigin="anonymous"
+    >
+
+    <!-- Main site design tokens and shared components -->
+    <link
+        rel="preload"
+        href="../../assets/theme.css"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'"
+    >
+    <noscript>
+        <link rel="stylesheet" href="../../assets/theme.css">
+    </noscript>
+
+    <!-- Gallery-specific styles -->
+    <link
+        rel="preload"
+        href="./style.css"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'"
+    >
+    <noscript>
+        <link rel="stylesheet" href="./style.css">
+    </noscript>
+</head>
+<body>
+
+    <!-- ── Header ─────────────────────────────────────────── -->
+    <header class="gg-header">
+        <a href="../../projects/index.html" class="fc-nav-back">← projects</a>
+        <h1 class="fc-page-title" style="margin:0">grid-gallery</h1>
+        <span class="gg-count fc-muted" id="gg-count"></span>
+    </header>
+
+    <hr class="fc-rule" style="margin: 0 20px 32px; max-width: 1400px; margin-left: auto; margin-right: auto;">
+
+    <!-- ── Grid ───────────────────────────────────────────── -->
+    <main>
+        <div class="gg-grid" id="gg-grid">
+            <!-- Populated by main.js from gallery.json -->
+        </div>
+    </main>
+
+    <!-- ── Footer ─────────────────────────────────────────── -->
+    <footer class="fc-footer">
+        <span class="fc-mono fc-muted">fooly-cooly</span>
+        <span class="fc-cursor">█</span>
+    </footer>
+
+    <!-- Back-to-top (wired by site.js) -->
+    <button id="back-top" class="fc-back-top" aria-label="Back to top">↑</button>
+
+    <!-- Shared site utilities -->
+    <script src="../../assets/site.js" defer></script>
+
+    <!-- Gallery logic -->
+    <script src="./main.js" defer></script>
+
+</body>
+</html>
